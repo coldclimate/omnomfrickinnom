@@ -3,11 +3,12 @@ layout: post
 title:  "Slow cooked North African(ish) lamb"
 date:   2014-07-09 19:22:52
 categories: lamb slowcooker
+author: oli
 ---
 
-Getting a regular meatbox from the awesome [G&S Organics](http://www.gandsorganics.com/) means that we've had a glut of roasting joint in the freezer of late, and much ad I love a roast with all the trimmings, they're not the most convenient of foods.  I also love things served in or on breads for both ease and taste.
+Getting a regular meatbox from the awesome [G&S Organics](http://www.gandsorganics.com/) means that we've had a glut of roasting joints in the freezer of late, and much as I love a roast with all the trimmings, they're not the most convenient of foods.  I also love things served in or on breads for both ease and taste, so why not combine the two.
 
-After seeing several delicious things like [this](http://www.closetcooking.com/2013/10/pork-tinga-tacos.html) and [this](http://www.closetcooking.com/2013/05/carnitas-tacos.html) on Closet Cooking (a most excellent read) I started thinking about slow cooking a chunky of lamb in something reasonable plain but Moroccany and piling it up on flatbreads.  Because of the amount of lamb I ended up cooking this also made th next nights meal (post to follow).
+After seeing several delicious things like [this](http://www.closetcooking.com/2013/10/pork-tinga-tacos.html) and [this](http://www.closetcooking.com/2013/05/carnitas-tacos.html) on Closet Cooking (a most excellent read) I started thinking about slow cooking a chunk of lamb in a reasonable plain but Moroccany sauce, then piling it up on flatbreads.  Because of the amount of lamb I ended up cooking this also made th next nights meal (post to follow).
 
 ## You will need
 
@@ -39,6 +40,7 @@ After seeing several delicious things like [this](http://www.closetcooking.com/2
 4. [Deseed the pomegranate](http://lifehacker.com/5895852/deseed-a-pomegranate-in-10-seconds-using-a-wooden-spoon)
 5. Warm the flatbread
 6. Pile hummus and lamb onto flatbread, add pomegranate
+7. Enjoy in the garden with a view of the crappy homemade BBQ
 
 ## Result
 
