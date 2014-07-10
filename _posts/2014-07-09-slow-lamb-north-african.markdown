@@ -44,4 +44,4 @@ After seeing several delicious things like [this](http://www.closetcooking.com/2
 
 ## Result
 
-![Slow cooked North African(ish) lamb](https://lh5.googleusercontent.com/-Xp0qfaAxo6k/U7w3KD8Ky3I/AAAAAAAAEdE/WcgbZfE_vas/w497-h663-no/IMG_20140708_191442.jpg "Title")
+![Slow cooked North African(ish) lamb](https://lh5.googleusercontent.com/-Xp0qfaAxo6k/U7w3KD8Ky3I/AAAAAAAAEdE/WcgbZfE_vas/w497-h663-no/IMG_20140708_191442.jpg "Slow cooked North African(ish) lamb")
