@@ -2,7 +2,7 @@
 layout: post
 title:  "Chicken Pizza Chips"
 date:   2014-07-27 19:22:52
-categories: pickle economic
+categories: chicken economic "guilty pleasure"
 author: oli
 ---
 
