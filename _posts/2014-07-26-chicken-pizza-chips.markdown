@@ -35,6 +35,8 @@ This is without doubt the least classy dish I've cooked in a while and the most 
 
 ## Result
 
+Something that is far better than it has any right to be.  The sauces oozes though and bakes onto the tin tray leaving an unctuous, velvertine, umami rich clag which is a joy to scrape off.
+
 ![Ready for the oven](https://lh4.googleusercontent.com/-Ta_-4en_hQ4/U9Ki2bVcDpI/AAAAAAAAE94/M7FYNHrxni8/w497-h663-no/IMG_20140725_193139.jpg "Ready for the oven")
 
 ![The crispy, cheesy, delicious mess](https://lh6.googleusercontent.com/F2X0UHbZ8NxUuTfx928gJEFly8fIf3z1Zvu2CNqmk7E=w497-h663-no "The crispy, cheesy, delicious mess")
