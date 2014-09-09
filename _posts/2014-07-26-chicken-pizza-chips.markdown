@@ -35,8 +35,6 @@ This is without doubt the least classy dish I've cooked in a while and the most 
 
 ## Result
 
-The pickle is great with lots of things and was a spicy sharp accompaniment to the chicken pizza chips.  It even made a great marinade for some beef because of the digestive properties of mango.
-
 ![Ready for the oven](https://lh4.googleusercontent.com/-Ta_-4en_hQ4/U9Ki2bVcDpI/AAAAAAAAE94/M7FYNHrxni8/w497-h663-no/IMG_20140725_193139.jpg "Ready for the oven")
 
 ![The crispy, cheesy, delicious mess](https://lh6.googleusercontent.com/F2X0UHbZ8NxUuTfx928gJEFly8fIf3z1Zvu2CNqmk7E=w497-h663-no "The crispy, cheesy, delicious mess")
