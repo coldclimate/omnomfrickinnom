@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "spinach and Lentil Roulade"
+title:  "Spinach and Lentil Roulade"
 date:   2014-09-15 09:22:52
 categories: vegetarian lentils spinach
 author: oli
