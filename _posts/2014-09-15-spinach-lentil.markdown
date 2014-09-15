@@ -29,7 +29,7 @@ A rare vegetarian meal, but one I love hot or cold.
 1. Fine dice the onion
 2. Boil lentils and onion in boiling water until lentils are tender.  Drain hard
 3. Mash lentil mix with horseradish and ketchup until a chunky paste. Set aside
-4. Cook lentil in a pan with no extra water until tender.
+4. Cook spinach in a pan with no extra water until tender.
 5. Drain, squeeze dry and chop roughly
 6. Separate out the egg yolk and mix briskly with milk into the spinach and a blob of butter
 7. Whisk the egg white to stiff peaks and fold into spinach carefully
