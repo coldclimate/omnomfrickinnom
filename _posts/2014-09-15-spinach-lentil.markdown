@@ -43,7 +43,7 @@ A rare vegetarian meal, but one I love hot or cold.
 15. Cut slices an inch or so wide, either hot or cold, I love it.
 
 ## Result
-
+![Get in my face you finished delicious bastard](/images/served.jpg "Get in my face you finished delicious bastard")
 ![Ready for the oven](/images/uncooked_spinach.jpg "Ready for the oven")
 ![Cooling](/images/cooked_spinach.jpg "Cooling")
 ![Before rolling](/images/layered.jpg "Before rolling")
