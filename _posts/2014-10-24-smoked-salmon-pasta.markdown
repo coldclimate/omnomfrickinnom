@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smoked salmon pasta"
-date:   2014-07-09 19:22:52
+date:   2014-10-24 19:22:52
 categories: quick cheese pasta
 author: oli
 ---
