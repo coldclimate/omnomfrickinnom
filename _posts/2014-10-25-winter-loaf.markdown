@@ -8,6 +8,8 @@ author: oli
 
 As it gets colder and darker I start to fancy hotcross buns, which is a chronological shame.  Instead, I made this fruit bread on a whim.  It was excellent fresh (with butter) and toasted a few days later when it had gone a bit dry.
 
+I have a breadmaker which I shamelessly adore.  I still make bread by hand occasionally (I love a good kneed), but we use the breadmaker most weekends.  I also use it to make dough for pizza etc.  The model I've got isn't available any more but the [Panasonic SD-2501 WXC](http://www.amazon.co.uk/gp/product/B004RTJWMW/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004RTJWMW&linkCode=as2&tag=wwwcoldclimat-21&linkId=4CWZOYDXKD7I24VM) is the closest and has the all important fruit and nut dispenser.
+
 ## You will need
 
 * 400g string white bread flour.
@@ -32,4 +34,4 @@ As it gets colder and darker I start to fancy hotcross buns, which is a chronolo
 
 Cut into thick slices.  Toast if needed.  It's not super sweet until you hit a patch of golden syrup and the spice is more for the nose than the tongue.
 
-![Doesn't look much but it great on a crappy day](/images/winter-loaf.jpg "Doesn't look much but it great on a crappy day")
+![Doesn't look much but it great on a crappy day](/images/winter-loaf.jpg "Doesn't look much but it great on a crappy day")*/
