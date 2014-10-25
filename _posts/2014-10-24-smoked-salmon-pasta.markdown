@@ -8,6 +8,9 @@ author: oli
 
 I've not bee very well this week and not able to swallow easily so this super simple pasta dish was perfect.
 
+** Editors Note **
+It has been pointed out that in fact my most wonderful girlfriend cooked this for me on Wednesday and that this recipe is not exactly what she did.  These facts are true, however, this is how I have cooked this dish many times before, just not on Wednesday night when I was too ill.  I still love her despite **somebody** pointing this out.
+
 ## You will need
 
 * Pasta.  I used dried penne but it works well with ribbony pasta too
