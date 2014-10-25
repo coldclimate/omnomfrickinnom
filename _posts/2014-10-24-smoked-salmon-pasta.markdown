@@ -29,4 +29,4 @@ I've not bee very well this week and not able to swallow easily so this super si
 
 Unctious and creamy, luxary on a budget.  The lime helps cut through the cloyingness of the cheese and brings the salmon right up.  Here's  dreadful picture.  I ended up just dropping my wedge of lime into the bowl so I could add more if needed (and I did)
 
-![Smoked salmon and spinach pasta](/images/smoked_salmon_spinch_pasta.jpg "Sorry for the potato quality photo")
+![Smoked salmon and spinach pasta](/images/smoked_salmon_spinch_pasta.jpg "Sorry for the potato quality photo" =368×490)
