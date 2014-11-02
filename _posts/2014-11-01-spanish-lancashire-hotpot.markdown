@@ -6,7 +6,7 @@ categories: comfort
 author: oli
 ---
 
-Whilst doing the weekly meal plan (yes, I know) I came across a recipe for a chorizo casserole in a Nigella Lawson book [How To Eat(http://www.amazon.co.uk/gp/product/0701189185?ie=UTF8&camp=3194&creative=21330&creativeASIN=0701189185&linkCode=shr&tag=wwwcoldclimat-21&linkId=F2AYXX2BEKR4SP6S&qid=1414931147&sr=8-2) I think).  It sounded good, but I remembered I had some blackpudding in the freezer that needed using up, and that made me think of hotpot.  The thing I like most about hotpot are the thin crispy potatoes on the top.  I'm not a big fan of potatoes, but the meat juice soaked crunchyness makes them tremendous.  In the end I made a sort of bastardised hotpot, with chorizo and other Spanish flavours, and added dumplings to the top because, frankly, I love them.
+Whilst doing the weekly meal plan (yes, I know) I came across a recipe for a chorizo casserole in a Nigella Lawson book [How To Eat](http://www.amazon.co.uk/gp/product/0701189185?ie=UTF8&camp=3194&creative=21330&creativeASIN=0701189185&linkCode=shr&tag=wwwcoldclimat-21&linkId=F2AYXX2BEKR4SP6S&qid=1414931147&sr=8-2) I think).  It sounded good, but I remembered I had some blackpudding in the freezer that needed using up, and that made me think of hotpot.  The thing I like most about hotpot are the thin crispy potatoes on the top.  I'm not a big fan of potatoes, but the meat juice soaked crunchyness makes them tremendous.  In the end I made a sort of bastardised hotpot, with chorizo and other Spanish flavours, and added dumplings to the top because, frankly, I love them.
 
 
 ## You will need
