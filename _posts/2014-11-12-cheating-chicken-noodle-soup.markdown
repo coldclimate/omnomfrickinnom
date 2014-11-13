@@ -11,7 +11,7 @@ I love soups and broths.  I love chicken noodle soups, both of the rich and plea
 ## You will need
 
 * A couple of handfuls of cooked chicken, chopped into inch sized chunks
-* A tub of pre-made chicken stock, or good stock cubes or indeed (as I used) pre-made chicken gravy
+* A tub of pre-made chicken stock, or good stock cubes or indeed (as I used) pre-made chicken gravy half and half with water
 * A large carrot sliced thinly
 * A small onion, roughly chopped
 * A couple good pinch of dried herbs
