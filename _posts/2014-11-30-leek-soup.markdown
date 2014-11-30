@@ -34,6 +34,6 @@ Winter is here and a lazy Saturday afternoon demanded soup.  Ready in 30 minutes
 
 
 ## Result
-![Leek soup ingredients](/images/leek_soup/served.jpg "[Leek soup ingredients")
-![Leeks cooking](/images/leek_soup/uncooked_spinach.jpg "Leeks cooking")
-![Finished leek soup](/images/leek_soup/cooked_spinach.jpg "Finished leek soup")
+![Leek soup ingredients](/images/leek_soup/finished_leek_soup.jpg "[Leek soup ingredients")
+![Leeks cooking](/images/leek_soup/leeks_cooking.jpg "Leeks cooking")
+![Finished leek soup](/images/leek_soup/leek_soup_ingrediants.jpg "Finished leek soup")
