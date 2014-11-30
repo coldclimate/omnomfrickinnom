@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spinach and Lentil Roulade"
+title:  "Leek and potato soup"
 date:   2014-11-30 19:12:52
 categories: vegetarian leek soup winter
 author: oli
