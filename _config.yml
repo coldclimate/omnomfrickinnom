@@ -10,3 +10,11 @@ github_username:  coldclimate
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Excludes
+exclude:
+  - Vagrantfile
+  - _config.yml
+  - Gemfile
+  - Gemfile.lock
+  - server
