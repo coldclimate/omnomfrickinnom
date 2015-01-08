@@ -12,7 +12,6 @@ This was a using up meal I didn't intend to blog, so no in progress photos just 
 
 ## You will need
 
-### For the lamb
 * A couple of handfuls of cooked chicken, not the breast, all the scratty, slightly greasy bits, chopped to spoon size
 * A red pepper sliced thinly
 * A red onion
@@ -32,6 +31,6 @@ This was a using up meal I didn't intend to blog, so no in progress photos just 
 
 ## Result
 
-Velvety, savory, slightly greasy and satisfying.  The lemon juice helps cut through grease, the zest is really apparent.  A cook scratch of black pepper won't go a miss.   It should be slightly too liquidy, almost risotto like.
+Velvety, savory, slightly greasy and satisfying.  The lemon juice helps cut through grease, the zest is really apparent.  A good scratch of black pepper won't go a miss.   It should be slightly too liquidy, almost risotto like.
 
 ![Out of focus and badly framed but tasty](/images/baked-pearl-barley-chicken.jpg "Out of focus and badly framed but tasty")
