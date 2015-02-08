@@ -40,7 +40,7 @@ A bit rich, a bit greasy, strong flavours with chewy fats and crisp rind, the dr
 
 ![Apples after stewing](/images/pork-chop/pork-chop-apples.jpg "Apples after stewing")
 ![Chops!](/images/pork-chop/pork-chop-chops.jpg "Chops!")
-![First side grilled](/images/pork-chop/pork-chop-first-side.jpg "First side grilled"]
+![First side grilled](/images/pork-chop/pork-chop-first-side.jpg "First side grilled")
 ![Top side sliced though before appling](/images/pork-chop/pork-chop-cliceds.jpg "Top side sliced though before appling")
 ![Appled](/images/pork-chop/pork-chop-topped-with-apples.jpg "Appled")
 ![Topped with cheese](/images/pork-chop/pork-chop-cheesed.jpg "Topped with cheese")
