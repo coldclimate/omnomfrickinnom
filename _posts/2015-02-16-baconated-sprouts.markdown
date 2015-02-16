@@ -31,6 +31,6 @@ The leek should be translusent, the sprouts cooked but still firm, the bacon cru
 ![Bacon](/images/baconatedsprouts/baconated-sprouts-bacon.jpg "Bacon")
 ![Sliced everything](/images/baconatedsprouts/baconated-sprouts-sprouts.jpg "Sliced everything")
 ![before sweating](/images/baconatedsprouts/baconated-sprouts-precooking.jpg "Before sweating")
-![Served](/images/baconatedsprouts/baconated-sprouts-finsihed.jpg "Served")
+![Served](/images/baconatedsprouts/baconated-sprouts-finished.jpg "Served")
 
 
