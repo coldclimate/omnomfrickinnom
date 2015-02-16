@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BTeeny Tiny Cheaty Leeky Goats Cheese Tarts"
+title:  "Teeny Tiny Cheaty Leeky Goats Cheese Tarts"
 date:   2015-02-16 20:25:11
 categories: cheatying goats cheese tarts
 author: oli
