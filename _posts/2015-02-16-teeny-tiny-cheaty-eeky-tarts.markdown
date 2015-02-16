@@ -34,9 +34,9 @@ Perfect dinner: Goats cheese and leek tartlets!
 
 The butter leeks through the leeks into the bread so it fries and crisps in the tray.  The cheese melts and darkens.  It's a savory joy in your face.
 
-!["Pastry"](/images/leekytarts/tiny-cheaty-leek-tarts-pastry.jpg"\"Pastry\"")
-![Wth leeks](/images/leekytarts/tiny-cheaty-leek-tarts-leek.jpg"With leeks")
+![Pastry](/images/leekytarts/tiny-cheaty-leek-tarts-pastry.jpg "Pastry")
+![Wth leeks](/images/leekytarts/tiny-cheaty-leek-tarts-leek.jpg "With leeks")
 ![Fresh from the oven](/images/leekytarts/tiny-cheaty-leek-tarts-outoftheoven.jpg "Fresh from the oven")
-![On the plate](/images/leekytarts/tiny-cheaty-leek-tarts-served.jpg"On the plate")
+![On the plate](/images/leekytarts/tiny-cheaty-leek-tarts-served.jpg "On the plate")
 
 
