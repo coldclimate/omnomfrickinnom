@@ -20,7 +20,7 @@ This dish might seem to have a lot going on but it's dead easy, just a few thing
 * 2 teaspoons of cornflour
 * A heaped spoonful of marmalade
 * A heaped teaspoon of mixed ginger and garlic (the cheaty stuff from a jar)
-* A slug of soy
+* A slug of light soy
 * A slug of toasted sesame oil
 * A whole red chilli
 * About half a pint of sunflower oil
