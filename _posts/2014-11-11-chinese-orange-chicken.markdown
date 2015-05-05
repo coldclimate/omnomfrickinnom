@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cheating Chinese Orange Chicken"
+title:  "Amazing Cheating Chinese Orange Chicken"
 date:   2014-11-11 13:22:52
 categories: comfort takeaway chicken
 author: oli
