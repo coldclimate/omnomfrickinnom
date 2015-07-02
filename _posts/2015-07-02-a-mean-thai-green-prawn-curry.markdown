@@ -60,6 +60,7 @@ The secret is in the home-made paste. Don't buy the stuff in a jar from the supe
 2. I like those small thai aubergine things - if I can find them, they'd be a good addition
 3. To trigger true memories of Bangkok Cafe, cut the bamboo shoots into sticks (could I be arsed?)
 4. Some sticks of red pepper added towards the end would give it another dimension
+5. Take some better photos!
 
 ## Results
 
