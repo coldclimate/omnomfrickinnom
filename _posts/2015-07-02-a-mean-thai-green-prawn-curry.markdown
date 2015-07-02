@@ -3,7 +3,7 @@ layout: post
 title:  "Mean Thai Green Prawn Curry"
 date:   2015-07-02 10:00:00
 categories: thai curry
-author: @_dougjohnson
+author: dougjohnson
 ---
 
 Since [The Bangkok Cafe](https://www.facebook.com/pages/Bangkok-Cafe/419643831412568) on Low Friar Street closed last year our house has been a somber place. It served freshly cooked Thai street food, quite different from the Royal Thai stuff that you typically get at Thai restaurants with carved carrot nonsense on the side. It was our go-to joint for a quick high quality after-work takeaway and the couple who ran it were awesome.
