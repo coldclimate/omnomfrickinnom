@@ -66,6 +66,8 @@ The secret is in the home-made paste. Don't buy the stuff in a jar from the supe
 
 The sweetness of the pineapple counteracts any harshness from all those chillies and herbs and is an inspired addition. If your other half usually orders a korma, go easy on the sauce when serving. Enough to feed 2 with leftovers for tomorrow's lunch unless, like me, you keep sneaking back into the kitchen to fork cold titbits into your mouth for the rest of the evening!
 
+What's left in the wok after serving up for 2:
+
 ![What's left in the wok after serving up for 2](/images/mean-thai-curry/wok.jpg)
 
 
