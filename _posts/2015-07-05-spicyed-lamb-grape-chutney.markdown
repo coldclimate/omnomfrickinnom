@@ -54,7 +54,3 @@ The lamb was charred on the outside, pink in the middle, with a realy good heat 
 ![Coals firing up](/images/lamb-grape/lamb2.jpg)
 ![Coals firing up](/images/lamb-grape/lamb3.jpg)
 ![Coals firing up](/images/lamb-grape/lamb4.jpg)
-![Coals firing up](/images/lamb-grape/lamb.jpg)
-
-
-
