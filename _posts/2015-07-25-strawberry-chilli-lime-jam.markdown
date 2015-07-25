@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crispy sticky deep fried beef"
+title:  "Strawberry jam with chilli and lime"
 date:   2015-07-25 13:05:12
 categories: fruit jam strawberry chilli
 author: oli
