@@ -6,7 +6,7 @@ categories: eggs posh nibbles
 author: oli
 ---
 
-Pastry is delicious but it is a faff.  Much like the [Teeny Tiny Cheaty Leeky Goats Cheese Tarts] these rely on a hot baking tray and the wonders of fat.
+Pastry is delicious but it is a faff.  Much like the [[Teeny Tiny Cheaty Leeky Goats Cheese Tarts]] these rely on a hot baking tray and the wonders of fat.
 
 
 ## You will need
