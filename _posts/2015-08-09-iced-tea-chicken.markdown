@@ -53,4 +53,12 @@ I first read about brining chicken iced tea on [Helen Graves](http://helengraves
 Crisp skin, succulent fresh, spicy coating, all offset by the sharp yet creamy coleslaw.
 
 
-![Ingredients](/images/quiche/quiche-1.jpg)
+![Brining (yes, it looks vile)](images/idea-tea-chicken/images/idea-tea-chicken1.jpg)
+![Drying](images/idea-tea-chicken/images/idea-tea-chicken2.jpg)
+![Raw slaw](images/idea-tea-chicken/images/idea-tea-chicken3.jpg)
+![Slaw mix](images/idea-tea-chicken/images/idea-tea-chicken4.jpg)
+![Finished coleslaw](images/idea-tea-chicken/images/idea-tea-chicken5.jpg)
+![Pre-flouring](images/idea-tea-chicken/images/idea-tea-chicken6.jpg)
+![Ready for the pan](images/idea-tea-chicken/images/idea-tea-chicken7.jpg)
+![Almost ready](images/idea-tea-chicken/images/idea-tea-chicken8.jpg)
+![GET IN MY FACE](images/idea-tea-chicken/images/idea-tea-chicken9.jpg)
