@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A tale of two pizza toppings"
+title:  "Summer tart"
 date:   2015-08-18 20:01:12
 categories: summer
 author: oli
