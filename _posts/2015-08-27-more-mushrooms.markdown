@@ -51,11 +51,11 @@ And excellent points they are both.  I decided to combine the two.  This time I 
 Tarragon is always too punchy and bitter when you eat it raw but a little cooking mellows the flavour and it rounds out well with the cream.  The lemon and wine add acidity to clean up the rich oil of the cream.  Fresh salt and pepper added at the last minute are instantly on your tongue rather than lost.  So good I almost made a second round.
 
 
-![Ingredients](/images/more_mushrooms/more_mushrooms-1.jpg)
-![With wine](/images/more_mushrooms/more_mushrooms-2.jpg)
-![Pre cream](/images/more_mushrooms/more_mushrooms-3.jpg)
-![Post cream](/images/more_mushrooms/more_mushrooms-4.jpg)
-![Finished](/images/more_mushrooms/more_mushrooms-5.jpg)
+![Ingredients](/images/more_mushrooms/more_mushrooms_1.jpg)
+![With wine](/images/more_mushrooms/more_mushrooms_2.jpg)
+![Pre cream](/images/more_mushrooms/more_mushrooms_3.jpg)
+![Post cream](/images/more_mushrooms/more_mushrooms_4.jpg)
+![Finished](/images/more_mushrooms/more_mushrooms_5.jpg)
 
 
 
