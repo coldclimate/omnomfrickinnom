@@ -8,13 +8,13 @@ author: oli
 
 After [my last mushroom post]({% post_url 2015-08-20-mushrooms %}) by old mate Ali got in touch
 
-    This with added cream and brandy and tarragon in the place of parsley is my go to starter for dinners. That and late suppers. Or any time
+> This with added cream and brandy and tarragon in the place of parsley is my go to starter for dinners. That and late suppers. Or any time
 
 And he has a point, with a little love and calories, mushrooms are a much more luxury food.  his words did put me in mind of to quotes, neither of which I've been able to source this evening.
 
-    Brandy, fit only for the nursery
+> Brandy, fit only for the nursery
 
-    The reason people came back from France in the 80s raving about the food was simple, they finished all the dishes with a slug of wine and some cream.
+> The reason people came back from France in the 80s raving about the food was simple, they finished all the dishes with a slug of wine and some cream.
 
 And excellent points they are both.  I decided to combine the two.  This time I cooked without butter because the cream is rich enough, but kept the lemon to lift it all.  I added the green salad because lately I've really come to enjoy warm things over salad.
 
