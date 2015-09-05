@@ -15,7 +15,7 @@ I love beef rib, but it does best when given a long and slow cook.  At some poin
 * A potion of beef ribs.  I had about a kilo, including the bone.
 * Juice of a lime
 * Zest of a lime
-* A stick of lemon grass
+* A stick of lemon grass (fine grated or smashed up)
 * Heaped desert spoon of garlic
 * Same of ginger
 * Same of chilli (I cheated and used pre-minced in a jar for all the above)
