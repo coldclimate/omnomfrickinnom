@@ -36,7 +36,7 @@ I saw this on [Smitten Kitchen](http://smittenkitchen.com/blog/2014/09/cucumber-
 ![Rough zesting](/images/cucumber-lemonade/cucumber-lemonade-3.jpg)
 ![Before dissolvingg](/images/cucumber-lemonade/cucumber-lemonade-4.jpg)
 ![The final result](/images/cucumber-lemonade/cucumber-lemonade-5.jpg)
-![Perfect with lunch](/images/cucumber-lemonade/cucumber-lemonade-5.jpg)
+![Perfect with lunch](/images/cucumber-lemonade/cucumber-lemonade-6.jpg)
 
 
 
