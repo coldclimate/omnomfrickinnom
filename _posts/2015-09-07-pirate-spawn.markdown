@@ -12,10 +12,10 @@ Tonight I've come off a week on call where I've not had a drink but did have som
 
 ## You will need
 
-* 1 large measure of rum (I used [Captain Morgan Original Spiced](http://amzn.to/1Uxjgng)
+* 1 large measure of rum (I used [Captain Morgan Original Spiced](http://amzn.to/1Uxjgng))
 * Half a lime (quartered)
 * A passion fruit
-* Half a bottle of good gingerbeer (I used [Bundaberg](http://amzn.to/1PXEIuS)
+* Half a bottle of good gingerbeer (I used [Bundaberg](http://amzn.to/1PXEIuS))
 * A handful of ice (I missed this out)
 
 ## Do
@@ -27,12 +27,7 @@ Tonight I've come off a week on call where I've not had a drink but did have som
 
 ## Results
 
-Sweet, sharp, bitter and biting with a good kick.  You might want to fish out the lime wedges though, makes sipping the spawn easier.
+Sweet, sharp, bitter and biting with a good kick.  You might want to fish out the lime wedges though, makes sipping the spawn easier.  Ice (or a cold glass) would have helped.
 
 
 ![A clean and refreshing beverage](/images/pirate-spawn.jpg)
-jpg)
-
-
-
-
