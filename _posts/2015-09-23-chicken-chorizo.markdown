@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chicken and Chorizo salad with fried chicken skin coutons"
-date:   2015-09-08 19:47:12
+date:   2015-09-23 21:12:12
 categories: chicken salad
 author: oli
 ---
