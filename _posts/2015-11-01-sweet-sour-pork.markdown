@@ -22,6 +22,7 @@ Here's my attempt, mostly having a use up of ingredients I had in the ccupbaord 
 * A spring onion (finely sliced)
 * A heaped teaspoon of cornfour
 * A large blob of Naughty Ketchup (or regular ketchup and a splash of chilli)
+* A heaped teaspoon of lazy ginger (or fine grated fresh)
 * A couple of tablespoons of sharp fruit vinegar.  I used up some berry vinegar I had left over
 
 ## Do
@@ -34,8 +35,9 @@ Lots of things on the move at the same time here but it comes together quickly a
 4. Add the onions and cook until translucent
 5. Add the peppers and a couple of spoonfuls of pineapple chunks
 6. Slake the cornflour with pineapple juice, add ketchup and vinegar.
-7. Once the peppers have softened slightly turn the heat up a bit and add the sauce (it looks vile at this point)
-8. Stir like crazy.  The sauce will thicken, try to make sure it doesn't catch.
+8. Once the peppers have softened slightly turn the heat up a bit and add the sauce (it looks vile at this point) and a heaped teaspoon of grated ginger.
+9. Stir like crazy.  The sauce will thicken, try to make sure it doesn't catch.
+10.  Add spring onions at the last moment.
 
 
 ## Results
