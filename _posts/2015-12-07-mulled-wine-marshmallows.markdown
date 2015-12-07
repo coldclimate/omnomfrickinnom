@@ -47,10 +47,10 @@ I used a kit.  However the ingredients were pretty much as follows...
 Fluffy and surprisingly light.  As sweet as you'd image.  Great smell.  Next time I'd use port.
 
 
-![The gauntlet](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_1.jpg)
-![Wine reducing](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_2.jpg)
-![Getting started whisking](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_3.jpg)
-![Final consistency](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_4.jpg)
-![Top covered to keep out that fridgy smell](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_5.jpg)
-![Cutting, very messy](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_6.jpg)
-![Final product](/images//mulled_wine_marshmallows/mulled_wine_marshmallows_7.jpg)
+![The gauntlet](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_1.jpg)
+![Wine reducing](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_2.jpg)
+![Getting started whisking](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_3.jpg)
+![Final consistency](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_4.jpg)
+![Top covered to keep out that fridgy smell](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_5.jpg)
+![Cutting, very messy](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_6.jpg)
+![Final product](/images/mulled_wine_marshmallows/mulled_wine_marshmallows_7.jpg)
