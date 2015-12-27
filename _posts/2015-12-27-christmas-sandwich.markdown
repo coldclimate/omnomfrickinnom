@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Christmas Sandwich Roast rib of beef with a pickled onion cream gravy"
+title: "Christmas Sandwich"
 date:   2015-12-27 19:10:30
 categories: christmas sandwich
 author: oli
