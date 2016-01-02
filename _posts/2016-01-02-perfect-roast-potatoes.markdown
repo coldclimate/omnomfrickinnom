@@ -8,7 +8,7 @@ author: oli
 
 Perfect is a big claim, but these are pretty damned good.  I've pinched a bunch of ideas from other people over time I've no idea who but probably my gran, Nigel Slater and Nigella.  If you can use the fat off a roast instead of the sunflower all the better.  Same tin - even more better.
 
-Turns out I included most of this in [Roast rib of beef with a pickled onion cream gravy] but I've just done another roast and the photos were too good to not post.
+Turns out I included most of this in [beef-rib-pickled-onion-gravy] but I've just done another roast and the photos were too good to not post.
 
 ## You will need
 
@@ -41,10 +41,10 @@ Turns out I included most of this in [Roast rib of beef with a pickled onion cre
 Crunchy on the outside, fluffy on the inside, crunchy burnt edges.
 
 
-![Boiled and steaming](/images/perfect-roasties/ perfect-roasties-1.jpg)
-![Floured and beaten up](/images/perfect-roasties/ perfect-roasties-2.jpg)
-![Oiled up and ready](/images/perfect-roasties/ perfect-roasties-3.jpg)
-![What's left in the pan.  Wash this up quickly](/images/perfect-roasties/ perfect-roasties-4.jpg)
-![At first turning](/images/perfect-roasties/ perfect-roasties-5.jpg)
-![Ready for the table](/images/perfect-roasties/ perfect-roasties-6.jpg)
-![Receiving the official thumbs up approval](/images/perfect-roasties/ perfect-roasties-7.jpg)
+![Boiled and steaming](/images/perfect-roasties/perfect-roasties-1.jpg)
+![Floured and beaten up](/images/perfect-roasties/perfect-roasties-2.jpg)
+![Oiled up and ready](/images/perfect-roasties/perfect-roasties-3.jpg)
+![What's left in the pan.  Wash this up quickly](/images/perfect-roasties/perfect-roasties-4.jpg)
+![At first turning](/images/perfect-roasties/perfect-roasties-5.jpg)
+![Ready for the table](/images/perfect-roasties/perfect-roasties-6.jpg)
+![Receiving the official thumbs up approval](/images/perfect-roasties/perfect-roasties-7.jpg)
