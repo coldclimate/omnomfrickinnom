@@ -32,9 +32,9 @@ Pretty damned good, but the flavour of the garlic and ginger was lost.  I had a 
 Next time I'll marinate for longer and with some chilli.  I might try baking very hard and fast (plus a rest) next time.
 
 
-![Marinaded](/images/eep-fried-pork-chop/deep-fried-pork-chop-1.jpg)
-![Into the fat](/images/eep-fried-pork-chop/deep-fried-pork-chop-2.jpg)
-![First turn](/images/eep-fried-pork-chop/deep-fried-pork-chop-3.jpg)
-![Money shot](/images/eep-fried-pork-chop/deep-fried-pork-chop-4.jpg)
-![GET IN MY FACE](/images/eep-fried-pork-chop/deep-fried-pork-chop-5.jpg)
+![Marinaded](/images/deep-fried-pork-chop/deep-fried-pork-chop-1.jpg)
+![Into the fat](/images/deep-fried-pork-chop/deep-fried-pork-chop-2.jpg)
+![First turn](/images/deep-fried-pork-chop/deep-fried-pork-chop-3.jpg)
+![Money shot](/images/deep-fried-pork-chop/deep-fried-pork-chop-4.jpg)
+![GET IN MY FACE](/images/deep-fried-pork-chop/deep-fried-pork-chop-5.jpg)
 
