@@ -12,7 +12,7 @@ I love a gin martini and I love sloe gin (of which I have an excess), but someti
 
 All should be very very cold
 
-* Gin.  I used an export strength Plymouth
+* Gin.  I used an export strength [Plymouth](http://amzn.to/1S7N6v9)
 * Sloe Gin
 * A lemon
 
