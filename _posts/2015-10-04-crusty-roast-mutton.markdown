@@ -13,7 +13,7 @@ Having a freezer clear out we were left with a 2kg chunk of mutton, prime for po
 
 * Big old chunk of mutton.
 * A big handful of rosemary, stripped off the branch (retain branch)
-* A good squirt of anchovie paste
+* A good squirt of [anchovy paste](http://amzn.to/1JTXllV )
 * A heaped desert spoon of minced garlic
 * A chunk of butter as big as the rosemary
 

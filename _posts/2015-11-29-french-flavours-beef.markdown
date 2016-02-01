@@ -13,10 +13,10 @@ Braising steak is sometimes a difficult thing to use.  You can use it in stir-fr
 
 * Beef braising steak.  I used a piece a little larger than my hand
 * Small red onion
-* Decent sized glass of reasonable red wine.
+* Decent sized glass of reasonable [red wine](http://amzn.to/1JTX7Lm)
 * Half a stock pot
 * 10 blackpepper corns
-* A heaped desert spoon of dijon mustard
+* A heaped desert spoon of [dijon mustard](http://amzn.to/1QCDEOQ)
 * a blob of butter
 * touch of oil
 
