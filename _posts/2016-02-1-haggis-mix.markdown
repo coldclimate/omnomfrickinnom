@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homemade chicken kebab"
+title:  "Haggis, rice and spice"
 date:   2016-02-01 19:27:30
 categories: haggic one-bowl  
 author: oli
