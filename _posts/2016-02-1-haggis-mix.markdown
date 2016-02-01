@@ -32,6 +32,9 @@ Anyway, why do I mention this?  Because I almost called this dish Haggis Pilaf b
 7. Once the veg is tender stir in the rice (well drained),turn the heat up, remove the lid and let everything sizzle for a few minutes
 8. Add a few good scrapes of lemon peel and a healthy squeeze of lemon juice
 
+## Result
+
+I topped mine with a spoonful of chilli flakes for some added bite
 
 ![The result](/images/haggis.jpg)
 
