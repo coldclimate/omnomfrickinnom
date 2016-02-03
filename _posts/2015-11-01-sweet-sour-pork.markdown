@@ -22,7 +22,7 @@ Here's my attempt, mostly having a use up of ingredients I had in the ccupbaord 
 * A spring onion (finely sliced)
 * A heaped teaspoon of cornfour
 * A large blob of Naughty Ketchup (or regular ketchup and a splash of chilli)
-* A heaped teaspoon of lazy ginger (or fine grated fresh)
+* A heaped teaspoon of [lazy ginger](http://amzn.to/1QCDQ0q) (or fine grated fresh)
 * A couple of tablespoons of sharp fruit vinegar.  I used up some berry vinegar I had left over
 
 ## Do

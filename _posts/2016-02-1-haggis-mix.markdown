@@ -2,7 +2,7 @@
 layout: post
 title:  "Haggis, rice and spice"
 date:   2016-02-01 19:27:30
-categories: haggic one-bowl  
+categories: haggis one-bowl  
 author: oli
 ---
 
@@ -18,7 +18,7 @@ Anyway, why do I mention this?  Because I almost called this dish Haggis Pilaf b
 * A good handful of green veg (I used greenbeans and sugar snap peas)
 * A lemon (for the peel)
 * A chilli
-* A good pinch of garam masala
+* A good pinch of [garam masala](http://amzn.to/1QCC6Eo)
 
 
 ## Do

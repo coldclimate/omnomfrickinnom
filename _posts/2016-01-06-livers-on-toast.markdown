@@ -12,7 +12,7 @@ I keep thinking I should eat more liver, but I'm really not sure i like them, bu
 
 * Defrosted chicken livers
 * Dash of oil
-* Good slug of sherry (dry ideally)
+* Good slug of [sherry (dry ideally)](http://amzn.to/1QCCxyp)
 * A slurp of single cream
 * Black pepper
 * A few scrapes of lemon peel

@@ -12,10 +12,10 @@ Kebabs have a bad name in the UK and looking at the pavement detritus on a Sunda
 
 
 * A large chicken breast per person
-* Tandoori spice mix
+* [Tandoori spice mix](http://amzn.to/1QCCeUi)
 * Lemon Juice
 * Greek yogurt
-* Cumin seeds
+* [Cumin seeds](http://amzn.to/1JTWJN1)
 * A cucumber
 * Fresh corridor
 * Hot sauce

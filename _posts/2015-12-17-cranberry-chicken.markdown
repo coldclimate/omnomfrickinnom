@@ -15,7 +15,7 @@ A good way to use up Christmas trimmings or, in my case, christmas party leftove
 * A handful of fresh cranberries
 * 3 peppers
 * A large glass of wine or beer
-* One of these handy stock pots or some leftover gravy
+* One of these [handy stock pots](http://amzn.to/1QCCVNF) or some leftover gravy
 * A couple of spoonfuls of cranberry sauce
 * A chilli
 

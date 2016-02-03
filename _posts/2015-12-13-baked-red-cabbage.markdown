@@ -13,8 +13,8 @@ Snow started falling as I started cooking this, which is pretty fitting. It's ge
 
 * A red cabbage
 * An apple or two
-* A cup full of balsamic vinegar
-* A heaped tablespoon of crystalized ginger*
+* A cup full of [balsamic vinegar](http://amzn.to/1QCDabe)
+* A heaped tablespoon of [crystalized ginger](http://amzn.to/1JTX1Uh)*
 * A heaped desert spoonful or so of sugar
 * An onion about a third of the width of the cabbage
 * A knob of butter

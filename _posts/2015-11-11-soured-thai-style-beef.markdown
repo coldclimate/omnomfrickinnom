@@ -12,8 +12,8 @@ This was a quick dish that I could stick on to cook whilst I did a million and o
 ## You will need
 
 * Stewing beef.  I had 250g
-* Heaped teaspoon of lazy ginger
-* Level teaspoon of lazy garlic
+* Heaped teaspoon of [lazy ginger](http://amzn.to/1QCDQ0q)
+* Level teaspoon of [lazy garlic](http://amzn.to/1JTX9TL)
 * Juice of half a fat lemon
 * Heaped teaspoon of tomato puree
 * Half a mug of water

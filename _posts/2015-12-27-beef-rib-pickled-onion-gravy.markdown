@@ -12,13 +12,13 @@ I love a good roast but it's a tricky bit of timing sometimes.  Roast potatoes t
 
 * A rib of beef.  Mine was 1 bone wide and about a kilo
 * A jar of pickled onions
-* English mustard powder
+* [English mustard powder](http://amzn.to/1JTWOjW )
 * Black pepper corns
-* Onion powder
+* [Onion powder](http://amzn.to/1QCCP8H)
 * A lug of olive oil
 * A big spring of woody thyme
 * A few tablespoons of single cream
-* A gravy stock pot
+* [A gravy stock pot](http://amzn.to/1QCCVNF)
 * Potatoes
 * Sunflower oil
 * A heaped tablespoon of fine semolina or plain flower
