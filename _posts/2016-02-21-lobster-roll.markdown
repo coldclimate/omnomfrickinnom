@@ -37,7 +37,7 @@ Thus, when I found pre-cooked lobsters for £5 each in an Asian supermarket, it 
 Sweety, slightly gooey and sticky, spicy and better than the takeaway.  Mine with 9 SmartPoints including the rice too so I've enough points for 10 gins.  Perfect
 
 ![Ingrediants](/images/lobster-roll/lobster-roll-1.jpg)
-![Mayo mix](/images/lobster-roll/lobster-roll-1.jpg)
-![Shelled](/images/lobster-roll/lobster-roll-1.jpg)
-![GET IN MY FACE](/images/lobster-roll/lobster-roll-1.jpg)
+![Mayo mix](/images/lobster-roll/lobster-roll-2.jpg)
+![Shelled](/images/lobster-roll/lobster-roll-3.jpg)
+![GET IN MY FACE](/images/lobster-roll/lobster-roll-4.jpg)
 
