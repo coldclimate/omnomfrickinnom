@@ -35,5 +35,5 @@ It's a very adaptable recipe, add in your own chopped nuts, spices (cumin is goo
 
 Just a little salty (from the soy), crunchy, morish.  Sling them on salads, in fajita or steal from the jar before going to bed.
 
-![Cokhouse's excellent salt beef.  Seeds hidden by slab of sour dough](images/salad-topping-seeds-lunch.jpg)
-![Ready to come out of the pan](images/salad-topping-seeds.jpg)
+![Cokhouse's excellent salt beef.  Seeds hidden by slab of sour dough](/images/salad-topping-seeds-lunch.jpg)
+![Ready to come out of the pan](/images/salad-topping-seeds.jpg)
