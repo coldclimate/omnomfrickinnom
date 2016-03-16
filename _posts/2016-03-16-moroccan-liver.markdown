@@ -18,7 +18,7 @@ I don' like liver, until I crave it, so when I read an excellent looking recipe 
 * A good slug of pomegranate juice - I used  [POM Wonderful Pomegranate Juice](http://amzn.to/1UAaYsu )
 * A large bunch of parsley, stems chopped and tops roughly chopped
 * A flatbread.
-* I put a sprinkle of my [salad topping seeds]({% post_url salad-seeds %})
+* I put a sprinkle of my [salad topping seeds]({% post_url 2016-03-06-salad-seeds %})
 
 
 
