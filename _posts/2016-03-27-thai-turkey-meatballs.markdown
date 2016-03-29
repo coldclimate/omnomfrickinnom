@@ -18,8 +18,6 @@ I love turkey.  It's a great meat, seemingly only eaten at Christmas, but it's l
 * Thai fish sauce
 * Dark soy
 * A few teaspoons of [PB2](http://amzn.to/1pIhZff)
-* 
-* 
 
 
 ## Do
@@ -39,5 +37,5 @@ Warm turkey, cold salad, a sauce thatwould be too powerful on it's own but great
 
 
 ![Cats love thai turkey](/images/thai-turkey-meatballs-1.jpg)
-![All the cats love thai turkey](/images/thai-turkey-meatballs-1.jpg)
+![All the cats love thai turkey](/images/thai-turkey-meatballs-2.jpg)
 
