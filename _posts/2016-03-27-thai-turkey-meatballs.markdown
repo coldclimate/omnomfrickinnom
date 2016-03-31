@@ -6,7 +6,7 @@ categories: turkey thai
 author: oli
 ---
 
-I love turkey.  It's a great meat, seemingly only eaten at Christmas, but it's low fat, super tasty and often on offer.  I'm planning on eating more of it this year and although tasty in itself it's great at soaking up flavours.  The dry frying here leads to a great favou and finish.  The dried peanutbutter is a strange ingrediant and could be replaced with normal peanut butter, but as PB2 is far lower in fat it's worth experimenting with.
+I love turkey.  It's a great meat, seemingly only eaten at Christmas, but it's low fat, super tasty and often on offer.  I'm planning on eating more of it this year and although tasty in itself it's great at soaking up flavours.  The dry frying here leads to a great favour and finish.  The dried peanutbutter is a strange ingrediant and could be replaced with normal peanut butter, but as PB2 is far lower in fat it's worth experimenting with.
 
 ## You will need
 
@@ -24,16 +24,16 @@ I love turkey.  It's a great meat, seemingly only eaten at Christmas, but it's l
 
 0. Fine slice the onion
 1. Mix turkey, onion, red thai curry paste and a dash of fish sauce
-2. Pummle the turkey mix well, you want to make sure it's gong to stick together well
-3. form the turkey into goldball sized balls and pop them into a cold non-stick pan
+2. Pummel the turkey mix well, you want to make sure it's gong to stick together well
+3. Form the turkey into golfball sized balls and pop them into a cold non-stick pan
 4. Turn the heat up to medium and turn occationally until a good colour all over and cooked right through.
-5. Blend PB2, fish sauce and soy as a tipping sauce
+5. Blend PB2, fish sauce and soy as a dipping sauce
 6.  Serve with the salad
 
 
 ## Result
 
-Warm turkey, cold salad, a sauce thatwould be too powerful on it's own but great in tiny amounts.  Attrated all the cats.
+Warm turkey, cold salad, a sauce that would be too powerful on it's own but great in tiny amounts.  Attracted all the cats.
 
 
 ![Cats love thai turkey](/images/thai-turkey-meatballs-1.jpg)
