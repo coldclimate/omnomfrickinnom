@@ -10,6 +10,8 @@ I'm funny about eggs.  I love an omlette, but I'm not keen on soft eggs, be they
 
 I always hard boil my eggs from cold in cold water, with a gentle hat at first.  This *seems* to stop as many cracking, but who knows.
 
+Since publishing this the very excellent [Katie Moffat](https://twitter.com/katiemoffat) alertd me to [The Manchester Egg](http://manchesteregg.com/) which is very simalar thing but involves black pudding! Can't wait to try one of those out.
+
 ## You will need
 
 ### For pickled eggs
