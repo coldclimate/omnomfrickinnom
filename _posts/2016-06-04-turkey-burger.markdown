@@ -12,6 +12,7 @@ Turkey mince makes a great burger but because it's so low fat it's difficult to 
 
 * Enough turkey mince (thigh ideally) to fill the ramekins
 * Zest of 2 or more limes
+* A few good sprigs of thyme, finely chopped
 * Lots of black pepper
 * A good splash of soy
 
