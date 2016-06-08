@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A midweek curry (that started life as ragu"
+title:  "A midweek curry (that started life as ragu)"
 date:   2016-06-08 20:02:30
 categories: beef curry
 author: oli
@@ -16,6 +16,7 @@ I've written it up as if I did it in one go, but the truth is kinda important, s
 * 300g of minces beef
 * 300g of diced beef steak
 * a couple of onions
+* a couple of sweet red peppers
 * a jar of pasata
 * premade stock pot
 
@@ -33,7 +34,7 @@ and then to turn this into curry I needed
 1. Brown the diced beef in a heavy pan with a splash of sunflower oil
 2. Add the onions, slices
 3. Soften the onions, about ten minutes
-4. Add the mince, stir and brown
+4. Add the mince and peppers, stir and brown
 5. Add the stock pot and the pasata.
 6. Bubble away for 30 mins under a lid
 
