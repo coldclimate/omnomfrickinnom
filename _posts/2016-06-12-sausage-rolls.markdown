@@ -2,7 +2,7 @@
 layout: post
 title:  "Sausage Rolls"
 date:   2016-06-12 19:24:30
-categories: sausgge
+categories: sausage
 author: oli
 ---
 
