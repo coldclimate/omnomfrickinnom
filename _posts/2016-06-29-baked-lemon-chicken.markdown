@@ -29,6 +29,7 @@ For the sauce
 * Cornflower
 * Soy
 * Drop of oil
+* Honey
 
 
 ## Do
@@ -42,13 +43,13 @@ For the sauce
 6. The chicken will take about 15 minutes, try to have the sauce ready to go at the same time
 7. Fry off half a teaspoon of garlic and ginger in a teaspoon of oil
 8. Add the zest, juice and cornflower
-9. Slake with a drop of hot water and a drop of soy, then stir frantically to blend the cornflower.  Turn the heat off once it's bubbling and the consistency of warm syrup
+9. Slake with a drop of hot water, the honey and a drop of soy, then stir frantically to blend the cornflower.  Turn the heat off once it's bubbling and the consistency of warm syrup
 10. Once the chicen is cooked, mix with the sauce and serve immediately
 
 
 ## Result
 
-I steamed some green beans, broccoli and baby corn, then mixed it all together.  The chicken batter holds the sauce well and is sharp and sweet.  I could have done with baking the chicken a bit harder and maybe with a bit more chilli powder
+I steamed some green beans, broccoli and baby corn, then mixed it all together.  Steamed rie would have been good too.  The chicken batter holds the sauce well and is sharp and sweet.  I could have done with baking the chicken a bit harder and maybe with a bit more chilli powder
 
 ![Fresh baked](/images/baked-lemon-chicken/baked-lemon-chicken-01.jpg)
 ![GET IN MY FACE](/images/baked-lemon-chicken/baked-lemon-chicken-02.jpg)
