@@ -10,8 +10,6 @@ Beef wellington is one of those things which looks amazing, combines some expens
 
 ## You will need
 
-For the chicken 
-
 * A piece of beef fillet, ideally a slice about two inches thick
 * A back of puff pasty
 * Half an onion
