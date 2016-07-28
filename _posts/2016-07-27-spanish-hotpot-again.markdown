@@ -38,9 +38,9 @@ I trie dthis before and it didn't really work, but the flavours were about right
 
 Very savoury, the go especially.  The mix of crispy and soft black pudding and potato hides a sweet layer of onions and peppers.  The top later is salty and bitey.  The choziro has leached enough oil to be just greasy enough.
 
-![Ingrediants](images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
-![Post sizzle, includes "snacking black pudding"](images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
-![Layered up](images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
-![The Making Of The Goo](images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
-![This is so delicious](images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
-![GET IN MY FACE](images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
+![Ingrediants](/images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
+![Post sizzle, includes "snacking black pudding"](/images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
+![Layered up](/images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
+![The Making Of The Goo](/images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
+![This is so delicious](/images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
+![GET IN MY FACE](/images/spanish-hotpot-again/spanish-hotpot-again-1.jpg)
