@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spanish Hotpot (again)"
+title:  "Hotwings"
 date:   2016-07-29 20:24:30
 categories: chicken american
 author: oli
