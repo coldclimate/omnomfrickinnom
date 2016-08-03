@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dramatic charred steak"
-date:   2016-0803 20:49:30
-categories: beef
+title:  "Charred steaks"
+date:   2016-08-03 20:24:30
+categories: beef blowtorch
 author: oli
 ---
 
