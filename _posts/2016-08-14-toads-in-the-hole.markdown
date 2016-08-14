@@ -41,4 +41,4 @@ An old favouite with a few new things.  Black pudding and roasted onion add more
 Crunchy bits, soft wobbily bits, meaty bits, the onion is sweet, the black pudding extra savoury.
 
 ![In the tray](/images/toads-in-the-holes-1.jpg)
-![GET IN MY FACE](/images/toads-in-the-holes-1.jpg)
+![GET IN MY FACE](/images/toads-in-the-holes-2.jpg)
