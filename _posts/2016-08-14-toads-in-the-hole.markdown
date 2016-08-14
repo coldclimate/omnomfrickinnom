@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toads in the hols"
+title:  "Toads in the hole"
 date:   2016-08-14 19:05:30
 categories: sausage
 author: oli
