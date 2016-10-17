@@ -37,6 +37,8 @@ After an epic roadtrip round the States (more on this another day) I'm back on W
 
 Crispy pastry, bitey sauce, beans are sweet and slightly sticky.
 
+Total of 9 WeightWatchers Smart Points (Salmon 5, Filo 4 and Philadelphia 1)
+
 ![Six](/images/weightwatchers-friendly-salmon-en-croute.jpg)
 
 
