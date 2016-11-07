@@ -30,7 +30,7 @@ This looks complicated but it actualy fairy easy, just takes some time.
 6. Turn the grill off an pop the oven on 180
 7. Divide the pork into 8 meatballs and pop them into the metal tray (and then in the oven)
 8. After 15 minutes or so the meatballs should be browned, pour over the sauce and return to the oven 
-9. After 15 minutes the sauce should have thickened and look burnt around the edges.  DON'T PANIC.  See [A note on burnt on pans].  Leave it to sit out of the oven whist you cool the pasta
+9. After 15 minutes the sauce should have thickened and look burnt around the edges.  DON'T PANIC.  See [this note on burnt pans]({% post_url 2015-11-22-burnt-on-pans %}).  Leave it to sit out of the oven whist you cool the pasta
 10. Assemble, scraping off all the good stuck on bits which should now have loosened.  I forgot to take the last picture.
 
 
@@ -38,14 +38,14 @@ This looks complicated but it actualy fairy easy, just takes some time.
 
 Chewy lemon, great smell, sweet sauce, velvet texture.
 
-![Pork mix](images/lemon-pork-pasta/lemon-pork-pasta-00.jpg)
-![Veg under the grill](images/lemon-pork-pasta/lemon-pork-pasta-01.jpg)
-![PreBlending](images/lemon-pork-pasta/lemon-pork-pasta-02.jpg)
-![PostBlending](images/lemon-pork-pasta/lemon-pork-pasta-03.jpg)
-![PreOven](images/lemon-pork-pasta/lemon-pork-pasta-04.jpg)
-![PostOven](images/lemon-pork-pasta/lemon-pork-pasta-05.jpg)
-![PreOven2](images/lemon-pork-pasta/lemon-pork-pasta-06.jpg)
-![PostOven2](images/lemon-pork-pasta/lemon-pork-pasta-07.jpg)
-![Look are tha stuck on goodness](images/lemon-pork-pasta/lemon-pork-pasta-08.jpg)
+![Pork mix](/images/lemon-pork-pasta/lemon-pork-pasta-00.jpg)
+![Veg under the grill](/images/lemon-pork-pasta/lemon-pork-pasta-01.jpg)
+![PreBlending](/images/lemon-pork-pasta/lemon-pork-pasta-02.jpg)
+![PostBlending](/images/lemon-pork-pasta/lemon-pork-pasta-03.jpg)
+![PreOven](/images/lemon-pork-pasta/lemon-pork-pasta-04.jpg)
+![PostOven](/images/lemon-pork-pasta/lemon-pork-pasta-05.jpg)
+![PreOven2](/images/lemon-pork-pasta/lemon-pork-pasta-06.jpg)
+![PostOven2](/images/lemon-pork-pasta/lemon-pork-pasta-07.jpg)
+![Look are tha stuck on goodness](/images/lemon-pork-pasta/lemon-pork-pasta-08.jpg)
 
 
