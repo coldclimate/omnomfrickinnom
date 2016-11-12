@@ -12,6 +12,7 @@ Sometime I've been waiting to try for ages is ham baked in CocaCola (made famous
 
 End result - turkey brined in sweet and spicey Pepsi (which smells like Chritmas when you make the brine), smoked for the afternoon, with greens (Harlem style, mixing my regions) and cornbread (thank to (The Cloake)[https://www.theguardian.com/lifeandstyle/wordofmouth/2014/sep/18/how-to-cook-perfect-cornbread]).
 
+If I've not mentioned these before, the [charcoal chimneys](http://amzn.to/2fmwqUU) are great kit.  Makes BBQing a 100x easier (also, buy a quality one, mine is cheap and I burn myself everytime, especially since the handle fell off).
 
 ## You will need
 
