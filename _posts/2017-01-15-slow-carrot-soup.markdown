@@ -24,6 +24,8 @@ I love carrot soup, and it's super easy to make.  This was an experiment in cook
 4. Add the juice of the orange, add enough boiled water to cover the carrots and boil hard for 5 mins
 5. Blend
 
+Th sharp eyed of you might notice the little bit of rosemary in the pan.  It and a bit of roasted garlic were left over from the roast the night before so I slung them in.  There was no need really.
+
 ## Result
 
 Rich, thick, very fruity, needs a dose of salt and pepper
