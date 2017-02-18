@@ -6,7 +6,7 @@ categories: goat curry
 author: oli
 ---
 
-After getting a chance to buy some goat on the bone from The Lakewood Goat Company whilst they were at Jesmond Food Market there was only one thing on the cards, curry goat.  I can't claim and Jamaican roots, but I've got a soft spot for the spicy, rich, soured curry.
+After getting a chance to buy some goat on the bone from [The Lakewood Goat Company](http://thegoatcompany.com/) whilst they were at [Jesmond Food Market](https://twitter.com/JesFoodMkt) there was only one thing on the cards, curry goat.  I can't claim and Jamaican roots, but I've got a soft spot for the spicy, rich, soured curry.
 
 It turned out getting fresh scotch bonnet chillis in February in North East England was pretty difficult, so I ended up adding a couple of measures of a fruity scotch bonnet based chilli sauce from Tescos and it worked rather well.  Good heat and the papaya added a nice sweetness.
 
