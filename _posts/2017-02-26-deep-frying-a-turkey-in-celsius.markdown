@@ -10,6 +10,8 @@ Ever since I ran across it somewhere on the Internet I've wanted to deep fry a t
 
 It takes a village to raise a child or so they say, and deep frying a turkey is not a solo effort.  Thank you so much to [G&S Organics](http://www.gandsorganics.com/) for the excellent turkey and Duncan from [Coop](http://www.coopchicken.co.uk/) for the gas bottles.  Thanks also to all by friends who turned up (I suspect just in case I went up in flames), and for letting me steal your pictures, including Tommy at [TyneSight](http://www.tynesight.co.uk/).
 
+*UPDATED* for those asking about the scrubs, it's because they're they most "clean burning" clothes I owned, been 100% cottom.  If you're going to potencially be on fire, wear somethings that won't stick to you.  You can buy [Medical Scrubs online](http://amzn.to/2lpYUxc) from Amazon very easily.  They're super comfortable once they've been washed a lot.
+
 ## You will need
 
 * A high welfare turkey.  Mine was about 4kg.
