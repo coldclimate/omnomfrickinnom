@@ -36,7 +36,7 @@ This is super easy, but you need to add the ingrediants in stges so the softer t
 
 ## Result
 
-Spicy without being hot, deepy savoury, crispy bits, soften bits, rich but with the wine vinegar to ccut through the fat.
+Spicy without being hot, deepy savoury, crispy bits, soften bits, rich but with the wine vinegar to ccut through the fat.  Some crusty bread wouldn't have gone a miss.
 
 Only the one photo I'm afraid.
 
