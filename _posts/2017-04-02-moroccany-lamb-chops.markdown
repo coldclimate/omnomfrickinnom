@@ -33,7 +33,7 @@ Nothing complicated here, just some lamb chops grilled fast are hard, grazed and
 
 ## Result
 
-Crunchy, spicy, sour, meaty, salty, GET IN MY FACE.
+Sweet glze, sweet meat, crisped edges all good
 
 ![Spice mix](/images/moroccany-lamb-chops/moroccany-lamb-chops_01.jpg)
 ![Under the grill](/images/moroccany-lamb-chops/moroccany-lamb-chops_02.jpg)
