@@ -41,11 +41,11 @@ The skin is crispy and covered in caverties, which the skin clings to.  The baki
 [Reds Hot Sauce](http://amzn.to/2oPTFvg) was good, but those I did with a sweet BBQ sauce from [Hamaknockers BBQ](https://www.tripadvisor.co.uk/Restaurant_Review-g34156-d1892647-Reviews-Hamaknockers_BBQ-Crawfordville_Florida.html) were much much better.  Make sure you don't use too much baking powder or you'll get a funny "spinich" finish on your teeth.
 
 ![Starting point](/images/crispy_chicken_wings/crispy_chicken_wings_01.jpg)
-![Jointed and ready for the oven](/images/crispy_chicken_wings/crispy_chicken_wings_01.jpg)
-![After the first low and slow cook](/images/crispy_chicken_wings/crispy_chicken_wings_01.jpg)
-![Fat bubbles](/images/crispy_chicken_wings/crispy_chicken_wings_01.jpg)
-![Fresh from the oven, pre-sauce](/images/crispy_chicken_wings/crispy_chicken_wings_01.jpg)
-![GET IN MY FACE](/images/crispy_chicken_wings/crispy_chicken_wings_01.jpg)
+![Jointed and ready for the oven](/images/crispy_chicken_wings/crispy_chicken_wings_02.jpg)
+![After the first low and slow cook](/images/crispy_chicken_wings/crispy_chicken_wings_03.jpg)
+![Fat bubbles](/images/crispy_chicken_wings/crispy_chicken_wings_04.jpg)
+![Fresh from the oven, pre-sauce](/images/crispy_chicken_wings/crispy_chicken_wings_05.jpg)
+![GET IN MY FACE](/images/crispy_chicken_wings/crispy_chicken_wings_06.jpg)
 
 
 
