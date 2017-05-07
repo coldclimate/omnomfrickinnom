@@ -37,10 +37,10 @@ I stumbled across an excellent [slow cooker pulled brisket](https://smittenkitch
 
 We topped toasted tortila with heads of meat, blackbeans and quickly red onion.  
 
-![The ingrediants](/images/pulled-lamb/pulled-lamb_01.jpg)
-![Before cooking](/images/pulled-lamb/pulled-lamb_02.jpg)
-![After cooking](/images/pulled-lamb/pulled-lamb_03.jpg)
-![Separated](/images/pulled-lamb/pulled-lamb_04.jpg)
-![Shredded](/images/pulled-lamb/pulled-lamb_05.jpg)
-![Reunited](/images/pulled-lamb/pulled-lamb_06.jpg)
-![GET IN MY FACE](/images/pulled-lamb/pulled-lamb_07.jpg)
+![The ingrediants](/images/pulled-lamb/pulled-lamb-01.jpg)
+![Before cooking](/images/pulled-lamb/pulled-lamb-02.jpg)
+![After cooking](/images/pulled-lamb/pulled-lamb-03.jpg)
+![Separated](/images/pulled-lamb/pulled-lamb-04.jpg)
+![Shredded](/images/pulled-lamb/pulled-lamb-05.jpg)
+![Reunited](/images/pulled-lamb/pulled-lamb-06.jpg)
+![GET IN MY FACE](/images/pulled-lamb/pulled-lamb-07.jpg)
