@@ -33,6 +33,6 @@ I've no idea if this is like Kreuz's, I'd have to go back to try it again, but i
 Supet sharp, the cheese gives a good texture, the mustard has bite without being hot.  Seen here with poorly-ethically-sourced-breaded-comfort-food.  
 
 ![Ingrediants](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-00.jpg)
-![The dressing mix](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-00.jpg)
-![Post mixing](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-00.jpg)
-![Get in ma belly!](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-00.jpg)
+![The dressing mix](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-01.jpg)
+![Post mixing](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-03.jpg)
+![Get in ma belly!](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-04.jpg)
