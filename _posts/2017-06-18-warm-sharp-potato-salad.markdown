@@ -34,5 +34,5 @@ Supet sharp, the cheese gives a good texture, the mustard has bite without being
 
 ![Ingrediants](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-00.jpg)
 ![The dressing mix](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-01.jpg)
-![Post mixing](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-03.jpg)
-![Get in ma belly!](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-04.jpg)
+![Post mixing](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-02.jpg)
+![Get in ma belly!](/images/warm-sharp-potato-salad/warm-sharp-potato-salad-03.jpg)
