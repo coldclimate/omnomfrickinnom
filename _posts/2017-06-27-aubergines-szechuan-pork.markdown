@@ -28,15 +28,15 @@ I didn't have quite all the ingrediants, but never let that stop you!
 ## Do
 
 1. Pop the oven on about 180oC
-Pop the pork mince of to brown in a hot pan
-Grind the pepper and add
-Half the aubergine and hollow out (a tablespoon works well), fine chop the flesh
-Add the aubergine, ginger and garlic to the pan, stir and cover, cook for about 10 minutes
-Rub the inside of the aubergine with the oil to stop it going brown
-Add the PB2, hot sauce, soy, sherry and vinegar to the mince and stir
-Cook for a few minutes
-Pack the mince into the aubergines with the mine and pop them in the oven (I had to prop the shallow end up to keep it level)
-Bake for ten minutes until golden
+2. Pop the pork mince of to brown in a hot pan
+3. Grind the pepper and add
+4. Half the aubergine and hollow out (a tablespoon works well), fine chop the flesh
+5. Add the aubergine, ginger and garlic to the pan, stir and cover, cook for about 10 minutes
+6. Rub the inside of the aubergine with the oil to stop it going brown
+7. Add the PB2, hot sauce, soy, sherry and vinegar to the mince and stir
+8. Cook for a few minutes
+9. Pack the mince into the aubergines with the mine and pop them in the oven (I had to prop the shallow end up to keep it level)
+10. Bake for ten minutes until golden
 
 ## Result
 
