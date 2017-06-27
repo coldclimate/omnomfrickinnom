@@ -46,5 +46,6 @@ Salty, crunch, dangerously easy to break a tooth.  Best served with a shot of bo
 ![Lime for size](/images/pork-scratchings/pork-scratchings-00.jpg)
 ![The remains of the fat](/images/pork-scratchings/pork-scratchings-01.jpg)
 ![After ten minutes in the oven](/images/pork-scratchings/pork-scratchings-02.jpg)
-![GET IN MY FACE](/images/pork-scratchings/pork-scratchings-03.jpg)
+![fresh from the oven](/images/pork-scratchings/pork-scratchings-03.jpg)
+![GET IN MY FACE](/images/pork-scratchings/pork-scratchings-04.jpg)
 
