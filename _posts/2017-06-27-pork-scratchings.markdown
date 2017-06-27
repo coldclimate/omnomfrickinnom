@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "POrk Scratchings"
+title:  "Pork Scratchings"
 date:   2017-06-27 17:48:00
 categories: pork beersnacks
 author: oli
@@ -16,8 +16,6 @@ Things to note...
 * It's super tough.  I cut it into 4 eventually
 * Half way through cooking it got much easier to cut the skin
 * I tried both salt and peppper based streak seasoning.  Salt is the way forward
-* 
-* 
 
 ## You will need
 
