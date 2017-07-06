@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deviled kidnets and chips"
+title:  "Deviled kidneys and chips"
 date:   2017-07-06 19:57:00
 categories: kidney offal
 author: oli
