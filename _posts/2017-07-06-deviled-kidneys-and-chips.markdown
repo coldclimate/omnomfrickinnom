@@ -6,7 +6,7 @@ categories: kidney offal
 author: oli
 ---
 
-Every so often my [G&S Organics](http://www.thechristmasfarm.co.uk/) meatbox comes with a secret message on the top - CC.  It's my twitter handle, but it's also a goodd sign that Lee has popped me something exta in, knowing we're not a household which only eats steak.  This mornings box carried justsuch a label and inside... lamb kidneys and a heart!  I've been promising myself that I wish eat more offal recently, great timing.
+Every so often my [G&S Organics](http://www.thechristmasfarm.co.uk/) meatbox comes with a secret message on the top - CC.  It's my twitter handle, but it's also a goodd sign that Lee has popped me something exta in, knowing we're not a household which only eats steak.  This mornings box carried justsuch a label and inside... lamb kidneys and a heart!  I've been [promising myself that I will eat more offal](http://amzn.to/2uPt4hs) recently, great timing.
 
 I considered steak and kidney pie, but its best with a long slow cook.  Devilled kidneys on the other hand are super fast, though the counjour up images of silver salvers and Victorian breakfasts for me.  This was however to be for my tea, so it was time to support another local business who do somethign better than I can, [Southend Plaice](https://www.facebook.com/Southend-Plaice-468051706696412/), my local (excellent) chippy.
 
