@@ -21,15 +21,15 @@ I love a quick super and lamb chops are a great starting point.  Having a big ja
 
 ## Do
 
-Pop the chops in a frying pan with a teaspoon of oil on a mmedium heat
-Turn a few times until the outside is browned (the inside should still be pink)
-Pour the bean and peas round the outside of the chops
-Smear the top of the chops with the the harissa
-Pop a lid over the top so the beans and peas cook in the steam
-Turn the chops spice side down and add the olives and tomatoes
-Cover with the lid and turn the heat up for a few minutes
-Stir in the grains, bubble for mnute or so, stirring to get the stuck on bits
-Serve with a blob of yoghurt
+1. Pop the chops in a frying pan with a teaspoon of oil on a mmedium heat
+2. Turn a few times until the outside is browned (the inside should still be pink)
+3. Pour the bean and peas round the outside of the chops
+4. Smear the top of the chops with the the harissa
+5. Pop a lid over the top so the beans and peas cook in the steam
+6. Turn the chops spice side down and add the olives and tomatoes
+7. Cover with the lid and turn the heat up for a few minutes
+8. Stir in the grains, bubble for mnute or so, stirring to get the stuck on bits
+9. Serve with a blob of yoghurt
 
 
 
