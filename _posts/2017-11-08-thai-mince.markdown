@@ -21,6 +21,7 @@ There's something very satifying about eating spicy food scooped up in a leaf.  
 * A good shake of soy
 * A heaped teaspoon of peanut butter
 * A lettuce you can scoop stuff up with (we had Romaine)
+* A couple of spring onions (finely sliced)
 
 ## Do
 
@@ -31,12 +32,9 @@ There's something very satifying about eating spicy food scooped up in a leaf.  
 5. Add fish sauce and soy (about a tablespoon of both), stir for a minute
 6. Add the brown sugar and a small cup of water
 7. Stir and turn the heat up.  Bubble until nearly dry
-8. Add the juice of half the lime, turn off the heat and let it start whicch you make the peanut sauce
+8. Add the juice of half the lime, turn off the heat, sprinkle the onions over the top and let it start which you make the peanut sauce
 9. Mix a tiny splash of fish sauce, the rest of the lime juice, the peanut butter and a tablespoon of hot water until smooth
-10. Serve.
-
- 
-
+10. Serve
 
 ## Result
 
