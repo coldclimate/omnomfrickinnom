@@ -42,5 +42,5 @@ There's something very satifying about eating spicy food scooped up in a leaf.  
 
 The mince mix is just slightly too hot, but the peanut mix taes the edge off.  Crunchy lettuce is fun to eat.
 
-![OMNOMNOM GET IN MY FACE](/images/thai-mince.jpg)
+![OMNOMNOM GET IN MY FACE](/images/thai_mince.jpg)
 
