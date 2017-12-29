@@ -33,8 +33,8 @@ Things to note:
 Super hot, sticky, gooey and sweat.  The marmalade sharpness offsets to grease and the biscuit remains crunchy enough to be satisfying.
 
 
-![Ingrediants](images/twix_sandwich/twix_sandwich_01.jpg)
-![Assembly](images/twix_sandwich/twix_sandwich_02.jpg)
-![Cooking](images/twix_sandwich/twix_sandwich_03.jpg)
-![GET IN MY FACE](images/twix_sandwich/twix_sandwich_04.jpg)
+![Ingrediants](/images/twix_sandwich/twix_sandwich_01.jpg)
+![Assembly](/images/twix_sandwich/twix_sandwich_02.jpg)
+![Cooking](/images/twix_sandwich/twix_sandwich_03.jpg)
+![GET IN MY FACE](/images/twix_sandwich/twix_sandwich_04.jpg)
 
