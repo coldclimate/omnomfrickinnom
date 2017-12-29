@@ -30,7 +30,7 @@ Things to note:
 
 ## Result
 
-Super hot, sticky, gooey and sweat.  The marmalade sharpness offsets to grease and the biscuit remains crunchy enough to be satisfying.
+Super hot, sticky, gooey and sweet.  The marmalade sharpness offsets to grease and the biscuit remains crunchy enough to be satisfying.
 
 
 ![Ingrediants](/images/twix_sandwich/twix_sandwich_01.jpg)
