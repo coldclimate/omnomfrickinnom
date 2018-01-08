@@ -19,7 +19,7 @@ Around the same time we ran across a a recipe for ["a piquant sause which goes w
 * The zest of 1 lemon
 * A tablesoon of Djon mustard
 * A tablespoon of capers
-* Half a tablespoon of capers
+* Half a tablespoon of garlic
 * About 3 tablespoons of olive oil, maybe a few more
 * 6 anchovies
 
