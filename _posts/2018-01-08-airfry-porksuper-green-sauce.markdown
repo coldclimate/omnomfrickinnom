@@ -6,7 +6,7 @@ categories: pork airfryer
 author: oli
 ---
 
-I bought a [Phillips Airfryer](https://www.rebrandly.com/links/7053697) when it was on sale in the New Year.  We'd talked about them for a while but the prce was crazy.  £179 reduced to £79 was to tempting.  I was hoping for fat free chips, but it turns out they're a myth.  After some experimenting, I've come to think of it as more like a super fast fan oven, which is different but interesting, and lends itself well to various cuts of meat.  More experiments to come.  
+I bought a [Phillips Airfryer](http://tableflip.date/philips-airfryer) when it was on sale in the New Year.  We'd talked about them for a while but the prce was crazy.  £179 reduced to £79 was to tempting.  I was hoping for fat free chips, but it turns out they're a myth.  After some experimenting, I've come to think of it as more like a super fast fan oven, which is different but interesting, and lends itself well to various cuts of meat.  More experiments to come.  
 
 Around the same time we ran across a a recipe for ["a piquant sause which goes with grilled meats"](http://tableflip.date/d1e1).  An idealy match.  We've now got a jar of it in the fridge and it's going on everything at the moment.
 
