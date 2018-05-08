@@ -37,5 +37,5 @@ One the salmon is carmelised on the top and cooked right though, serve
 The fish is rich and sweet, coming away in big flakes.  The slices ginger and garlic hold their shape and the odd one is beutifully crisp.
 
 ![Steamed and ready](/images/soy-honey-salmon/soy-honey-salmon_01.jpg)
-![Fresh from the grill](/images/soy-honey-salmon/soy-honey-salmon_01.jpg)
-![GET IN MY FACE](/images/soy-honey-salmon/soy-honey-salmon_01.jpg)
+![Fresh from the grill](/images/soy-honey-salmon/soy-honey-salmon_02.jpg)
+![GET IN MY FACE](/images/soy-honey-salmon/soy-honey-salmon_03.jpg)
