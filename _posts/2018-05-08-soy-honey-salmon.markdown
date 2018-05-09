@@ -19,18 +19,17 @@ I have a bit of a thing for sticky sweet meat dishes, and so this mid-week dinne
 
 ## Do
 
-Finely slice the garlic and ginger (I used the mandolin)
-Mix soy, honey, garlic and ginger well
-Mix salmon and marinade and leave for a few hours, stiring every so often
-Pop the grill on reasonably high
-Boil the kettle
-Pop the salmon into a pan you can put under the grill, skin side down and pop it under the grill
-Separate all the bak choi leaves and stick them in a pan
-Add an inch or so of hot water to the bak choi, stick it on a medium heat with a lid on
-The salomn will take about ten minutes, baste as needed
-Drain the bak choi, serve with a tiny drizzle of hoisin
-One the salmon is carmelised on the top and cooked right though, serve
-
+1. Finely slice the garlic and ginger (I used the mandolin)
+2. Mix soy, honey, garlic and ginger well
+3. Mix salmon and marinade and leave for a few hours, stiring every so often
+4. Pop the grill on reasonably high
+5. Boil the kettle
+6. Pop the salmon into a pan you can put under the grill, skin side down and pop it under the grill
+7. Separate all the bak choi leaves and stick them in a pan
+8. Add an inch or so of hot water to the bak choi, stick it on a medium heat with a lid on
+9. The salomn will take about ten minutes, baste as needed
+10. Drain the bak choi, serve with a tiny drizzle of hoisin
+11. One the salmon is carmelised on the top and cooked right though, serve
 
 ## Result
 
