@@ -39,7 +39,7 @@ Drain on papertowel and eat with more hot sauce
 
 ## Result
 
-Super crispy,there was actually a pop when picked them up with tongs under the fat and steam came out.  The thick marinade and added fou gives great crust.  There no salt in the marinade, but the hot sauce and buttermilk seem to tenderise the chicken and the bite of the hot sauce is still there.
+Super crispy,there was actually a pop when picked them up with tongs under the fat and steam came out.  The thick marinade and added fou gives great crust, though it's not thick. Creveses seems to be the thing.  There no salt in the marinade, but the hot sauce and buttermilk seem to tenderise the chicken and the bite of the hot sauce is still there.
 
 
 ![Marinading](images/better-fried-chicken/better-fried-chicken-00.jpg)
