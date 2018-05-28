@@ -45,4 +45,4 @@ The long cook renders the fat in the belly and gives that sticky unctious mouth 
 ![Browning the leek](/images/twice-cooked-leeky-pork/twice-cooked-leeky-pork-04.jpg)
 ![Fresh from the airfryer](/images/twice-cooked-leeky-pork/twice-cooked-leeky-pork-05.jpg)
 ![With mash](/images/twice-cooked-leeky-pork/twice-cooked-leeky-pork-06.jpg)
-![With toast](/images/twice-cooked-leeky-pork/twice-cooked-leeky-pork-07.jpg)
+![With toastd](/images/twice-cooked-leeky-pork/twice-cooked-leeky-pork-07.jpg)
