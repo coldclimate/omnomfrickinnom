@@ -42,7 +42,7 @@ Fried chicken is something I obsess a bit about.  I make it rarely (because it's
 Super crispy,there was actually a pop when picked them up with tongs under the fat and steam came out.  The thick marinade and added fou gives great crust, though it's not thick. Creveses seems to be the thing.  There no salt in the marinade, but the hot sauce and buttermilk seem to tenderise the chicken and the bite of the hot sauce is still there.
 
 
-![Marinading](images/better-fried-chicken/better-fried-chicken-00.jpg)
-![Floured](images/better-fried-chicken/better-fried-chicken-01.jpg)
-![Just into the oil](images/better-fried-chicken/better-fried-chicken-02.jpg)
-![GET IN MY FACE](images/better-fried-chicken/better-fried-chicken-03.jpg)
+![Marinading](/images/better-fried-chicken/better-fried-chicken-00.jpg)
+![Floured](/images/better-fried-chicken/better-fried-chicken-01.jpg)
+![Just into the oil](/images/better-fried-chicken/better-fried-chicken-02.jpg)
+![GET IN MY FACE](/images/better-fried-chicken/better-fried-chicken-03.jpg)
