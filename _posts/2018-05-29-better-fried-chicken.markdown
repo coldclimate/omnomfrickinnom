@@ -21,20 +21,20 @@ Fried chicken is something I obsess a bit about.  I make it rarely (because it's
 
 ## Do
 
-Mix a handful of buttermilk with a good squirt of hotsauce
-Mix in the chicken and make sure it's all covered
-Stick it in the fridge for 4+ hours
-Once you're ready to cook, put the oil into a pan wide enough to hold all your chicken in a single layer and turn the heat on.  You're aiming for 160oC so keep an eye on it
-Put plenty of plain flour in a bowl
-Take each piece of chcken out, shake off the excess butter milk and pop it in the flour.
-Shake some more flour over the top, pat it down, shake it off, patt it about again.  You're aiming for a dry but claggy finish
-Repeat for all pieces
-Once your oil is hot, pop the pieces of chicken in carefully
-The oil will rush up a bit, be careful
-The temperature will drop off, adjust if needed to get it back but be careful not to over heat.
-Cook for about 12 minutes.  Check by squewering the thickest piece and seeing the juices run clear
-(no science to this but I noticed the steam stopped coming off just before it was ready - is this the sign of the crispy batter)
-Drain on papertowel and eat with more hot sauce
+1. Mix a handful of buttermilk with a good squirt of hotsauce
+2. Mix in the chicken and make sure it's all covered
+3. Stick it in the fridge for 4+ hours
+4. Once you're ready to cook, put the oil into a pan wide enough to hold all your chicken in a single layer and turn the heat on.  You're aiming for 160oC so keep an eye on it
+5. Put plenty of plain flour in a bowl
+6. Take each piece of chcken out, shake off the excess butter milk and pop it in the flour.
+7. Shake some more flour over the top, pat it down, shake it off, patt it about again.  You're aiming for a dry but claggy finish
+8. Repeat for all pieces
+9. Once your oil is hot, pop the pieces of chicken in carefully
+10. The oil will rush up a bit, be careful
+11. The temperature will drop off, adjust if needed to get it back but be careful not to over heat.
+12. Cook for about 12 minutes.  Check by squewering the thickest piece and seeing the juices run clear
+13. (no science to this but I noticed the steam stopped coming off just before it was ready - is this the sign of the crispy batter)
+14. Drain on papertowel and eat with more hot sauce
 
 
 ## Result
