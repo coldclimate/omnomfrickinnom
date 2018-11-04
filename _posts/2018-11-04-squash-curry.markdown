@@ -43,7 +43,9 @@ The raita here is chunky, with the yoghurt barely coating the cucumber, which sh
 
 ## Result
 
-Gently spiced, the sweet squash flavour comes though, the caremalised onions are great mouthfuls, the riata comes in big cool blobs.
+Gently spiced, the sweet squash flavour comes though, the caremalised onions are great mouthfuls, the riata comes in big cool blobs.  Even the small amount of butter makes for a smooth and rich feeling sause.
+
+Tastes much more delicious that the photo makes it look.
 
 ![before stirring together](/images/squash_curry_1.jpg)
 ![before going in my face](/images/squash_curry_2.jpg)
