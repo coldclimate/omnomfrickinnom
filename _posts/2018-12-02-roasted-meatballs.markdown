@@ -7,7 +7,7 @@ author: oli
 
 [Perfect Plates in 5 Ingredients by John Whaite](https://amzn.to/2zFuz6L) is a tremendous read and really quite an inspiring book.  This dish was very much inspired by it, with a bit more garlic.
 
-This year we bought a single very expensive non-stick roasting tin and it's become my go to for everything that goes in the oven, mostly just to save on the washing up.
+This year we bought [a very expensive Le Creuset non-stick roasting tin](https://amzn.to/2zDS5Bc) and it's become my go to for everything that goes in the oven, mostly just to save on the washing up.  It has been *brilliant* and I'd buy it again tomorrow.
 
 ## You will need
 
