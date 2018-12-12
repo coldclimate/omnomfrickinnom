@@ -6,7 +6,6 @@ author: oli
 ---
 
 
-
 It's that time of the year (that most wonderful time of the year) where you can completely justify eating comforting food. 
 
 YES - I said it again - the weather is rubbish, everything seems to be terrible and it's totally justified to eat pork, carbs and cheese baked in meaty salty delicious stock.
