@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sprouty sausagey paste"
+title:  "Sprouty sausagey pasta"
 date:   2019-01-06 19:27:00
 author: oli
 ---
