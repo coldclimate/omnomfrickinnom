@@ -2,7 +2,7 @@
 layout: post
 title:  "Perfect roast potatoes"
 date:   2016-01-02 20:31:30
-tags: roast potatoes  
+tags: ["roast","potatoes"]  
 author: oli
 ---
 

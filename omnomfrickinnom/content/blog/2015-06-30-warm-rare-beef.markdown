@@ -2,7 +2,7 @@
 layout: post
 title:  "Warm rare beef salad"
 date:   2015-06-30 21:57:12
-tags: salad summer beef bbq
+tags: ["salad","summer","beef","bbq"]
 author: oli
 ---
 

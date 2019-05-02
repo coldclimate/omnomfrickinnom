@@ -2,7 +2,7 @@
 layout: post
 title:  "Pastry free individual leek and bacon quiches"
 date:   2015-07-26 17:45:12
-tags: eggs posh nibbles
+tags: ["eggs","posh","nibbles"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Crusty roast mutton"
 date:   2015-10-04 19:20:12
-tags: mutton roast
+tags: ["mutton","roast"]
 author: oli
 ---
 

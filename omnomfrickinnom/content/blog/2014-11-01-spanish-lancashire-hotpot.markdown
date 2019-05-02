@@ -2,7 +2,7 @@
 layout: post
 title:  "Spain Vs Lancashire"
 date:   2014-11-01 13:22:52
-tags: comfort 
+tags: ["comfort"] 
 author: oli
 ---
 

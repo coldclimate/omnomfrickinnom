@@ -2,7 +2,7 @@
 layout: post
 title:  "Pulled lamb"
 date:   2017-05-07 19:36:00
-tags: lamb 
+tags: ["lamb"] 
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Beef Wellington"
 date:   2016-07-03 18:47:30
-tags: beef posh
+tags: ["beef", "posh"]
 author: oli
 ---
 

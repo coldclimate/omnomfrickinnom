@@ -2,7 +2,7 @@
 layout: post
 title:  "Redneck sous vide beef"
 date:   2016-08-20 20:45:30
-tags: beef sous-vide
+tags: ["beef","sous-vide"]
 author: oli
 ---
 

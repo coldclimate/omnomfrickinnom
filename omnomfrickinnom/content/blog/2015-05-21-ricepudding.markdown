@@ -2,7 +2,7 @@
 layout: post
 title:  "Lightly spiced rice pudding"
 date:   2015-06-21 17:51:52
-tags: comfort food
+tags: ["comfort","food"]
 author: oli
 ---
 

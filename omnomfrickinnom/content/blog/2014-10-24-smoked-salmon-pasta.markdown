@@ -2,7 +2,7 @@
 layout: post
 title:  "Smoked salmon pasta"
 date:   2014-10-24 19:22:52
-tags: quick cheese pasta
+tags: ["quick","cheese","pasta"]
 author: oli
 ---
 

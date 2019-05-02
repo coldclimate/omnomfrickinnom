@@ -2,7 +2,7 @@
 layout: post
 title:  "Sweet and sour pork"
 date:   2015-11-01 17:58:12
-tags: chinese pork
+tags: ["chinese","pork"]
 author: oli
 ---
 

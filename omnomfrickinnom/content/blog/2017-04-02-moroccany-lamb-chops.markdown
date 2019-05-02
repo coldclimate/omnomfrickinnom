@@ -2,7 +2,7 @@
 layout: post
 title:  "Moroccany Lamb Chops"
 date:   2017-04-02 18:35:30
-tags: lamb
+tags: ["lamb"]
 author: oli
 ---
 

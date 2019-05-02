@@ -2,7 +2,7 @@
 layout: post
 title:  "Crispy chicken wings"
 date:   2017-04-17 18:35:30
-tags: chicken
+tags: ["chicken"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Better fried chicken"
 date:   2018-05-29 20:44:00
-tags: fried chicken 
+tags: ["fried chicken"] 
 author: oli
 ---
 

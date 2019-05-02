@@ -2,7 +2,7 @@
 layout: post
 title:  "Curry goat"
 date:   2017-02-14 18:37:30
-tags: goat curry
+tags: ["goat","curry"]
 author: oli
 ---
 

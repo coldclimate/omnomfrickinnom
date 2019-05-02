@@ -2,7 +2,7 @@
 layout: post
 title:  "Crispy sticky deep fried beef"
 date:   2015-07-21 21:13:12
-tags: Chinese beef
+tags: ["chinese","beef"]
 author: oli
 ---
 

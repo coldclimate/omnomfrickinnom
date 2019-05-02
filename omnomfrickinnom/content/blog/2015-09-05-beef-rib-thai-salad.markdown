@@ -2,7 +2,7 @@
 layout: post
 title:  "Beef rib with Thai style salad"
 date:   2015-09-05 21:37:12
-tags: beef thai 
+tags: ["beef","thai"] 
 author: oli
 ---
 

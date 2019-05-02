@@ -2,7 +2,7 @@
 layout: post
 title:  "Baked lemon chicken"
 date:   2016-06-29 19:24:30
-tags: chicken chinese
+tags: ["chicken", "chinese"]
 author: oli
 ---
 

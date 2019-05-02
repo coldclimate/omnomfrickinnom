@@ -2,7 +2,7 @@
 layout: post
 title:  "Spiced roast lamb with a fresh grape chutney"
 date:   2015-07-05 19:20:12
-tags: lamb spicy bbq
+tags: ["lamb","spicy","bbq"]
 author: oli
 ---
 

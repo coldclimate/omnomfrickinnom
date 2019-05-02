@@ -2,7 +2,7 @@
 layout: post
 title:  "Spanish Hotpot (again)"
 date:   2016-07-28 20:24:30
-tags: stir-fry
+tags: ["spanish","yorkshire"]
 author: oli
 ---
 

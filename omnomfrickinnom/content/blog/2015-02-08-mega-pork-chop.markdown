@@ -2,7 +2,7 @@
 layout: post
 title:  "Overloaded Pork Chop"
 date:   2015-02-08 20:19:15
-tags: pork luxury cheese apple
+tags: ["pork","luxury","cheese","apple"]
 author: oli
 ---
 

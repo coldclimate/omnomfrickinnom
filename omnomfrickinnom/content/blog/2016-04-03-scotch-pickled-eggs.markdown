@@ -2,7 +2,7 @@
 layout: post
 title:  "Scotch Pickled Eggs or Pickled Scotch Eggs"
 date:   2016-04-03 14:13:30
-tags: eggs sausage snack
+tags: ["eggs","sausage","snack"]
 author: oli
 ---
 

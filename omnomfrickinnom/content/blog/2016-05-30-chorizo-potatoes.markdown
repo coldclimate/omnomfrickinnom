@@ -2,7 +2,7 @@
 layout: post
 title:  "Camping food: Chorizo Potatoes"
 date:   2016-05-31 19.01:30
-tags: camping
+tags: ["camping"]
 author: oli
 ---
 

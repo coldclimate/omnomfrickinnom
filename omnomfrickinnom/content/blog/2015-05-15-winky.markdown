@@ -2,7 +2,7 @@
 layout: post
 title:  "The Winky"
 date:   2015-05-15 20:36:52
-tags: cocktails
+tags: ["cocktails"]
 author: oli
 ---
 

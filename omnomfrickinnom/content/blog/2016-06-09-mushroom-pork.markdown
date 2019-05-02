@@ -2,7 +2,7 @@
 layout: post
 title:  "A very rich pork chop with mushrooms"
 date:   2016-06-09 20:02:30
-tags: mushrooms pork
+tags: ["mushrooms","pork"]
 author: oli
 ---
 

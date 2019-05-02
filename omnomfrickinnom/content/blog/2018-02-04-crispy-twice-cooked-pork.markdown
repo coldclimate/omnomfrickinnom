@@ -2,7 +2,7 @@
 layout: post
 title:  "Crispy twice cooked pork"
 date:   2018-02-03 17:49:00
-tags: pork chinese
+tags: ["pork","chinese"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Double salmon en croute"
 date:   2017-09-22 19:46:00
-tags: salmon poshtea
+tags: ["salmon","poshtea"]
 author: oli
 ---
 

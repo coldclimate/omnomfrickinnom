@@ -2,7 +2,7 @@
 layout: post
 title:  "Braised Sausages"
 date:   2015-03-18 20:25:11
-tags: sausages comfort food
+tags: ["sausages","comfort","food"]
 author: oli
 ---
 

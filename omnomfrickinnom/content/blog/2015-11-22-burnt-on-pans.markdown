@@ -2,7 +2,7 @@
 layout: post
 title:  "A note on burnt on pans"
 date:   2015-11-22 16:34:12
-tags: pans
+tags: ["pans"]
 author: oli
 ---
 

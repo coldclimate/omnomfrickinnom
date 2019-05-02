@@ -2,7 +2,7 @@
 layout: post
 title:  "3 minute stir fry"
 date:   2016-07-13 20:24:30
-tags: stir-fry
+tags: ["stir-fry"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The most savoury thing in the world"
 date:   2017-03-27 12:24:30
-tags: savoury toast
+tags: ["savoury","toast"]
 author: oli
 ---
 

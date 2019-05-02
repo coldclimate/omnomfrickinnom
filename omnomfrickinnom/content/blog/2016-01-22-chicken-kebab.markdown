@@ -2,7 +2,7 @@
 layout: post
 title:  "Homemade chicken kebab"
 date:   2016-01-22 21:34:30
-tags: chicken  
+tags: ["chicken", "kebab"]  
 author: oli
 ---
 

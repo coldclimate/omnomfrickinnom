@@ -2,7 +2,7 @@
 layout: post
 title:  "Glazed lamb and a Greek-like-salad"
 date:   2017-08-13 19:46:00
-tags: lamb
+tags: ["lamb"]
 author: oli
 ---
 

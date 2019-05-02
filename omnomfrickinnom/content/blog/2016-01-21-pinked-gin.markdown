@@ -2,7 +2,7 @@
 layout: post
 title:  "Pinked Gin"
 date:   2016-01-21 19:01:30
-tags: gin  
+tags: ["gin"]  
 author: oli
 ---
 

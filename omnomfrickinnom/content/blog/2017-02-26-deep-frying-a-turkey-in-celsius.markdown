@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep frying a turkey in Celsius"
 date:   2017-02-26 12:32:30
-tags: turkey Celsius
+tags: ["turkey","Celsius"]
 author: oli
 ---
 

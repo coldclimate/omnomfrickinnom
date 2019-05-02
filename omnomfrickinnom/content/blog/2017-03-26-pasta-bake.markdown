@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple pasta bake"
 date:   2017-03-26 12:24:30
-tags: pasta
+tags: ["pasta"]
 author: oli
 ---
 

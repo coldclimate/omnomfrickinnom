@@ -2,7 +2,7 @@
 layout: post
 title:  "Gin cured bacon"
 date:   2017-06-12 20:44:00
-tags: bacon curing 
+tags: ["bacon","curing"] 
 author: oli
 ---
 

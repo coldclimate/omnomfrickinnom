@@ -2,7 +2,7 @@
 layout: post
 title:  "Barbequed watermelon, feta and mint salad"
 date:   2015-07-21 20:13:12
-tags: salad bbq
+tags: ["salad","bbq"]
 author: oli
 ---
 

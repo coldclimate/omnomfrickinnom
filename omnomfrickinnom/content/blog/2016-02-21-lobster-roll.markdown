@@ -2,7 +2,7 @@
 layout: post
 title:  "Sex, drugs and Lobster Roll"
 date:   2016-02-21 18:19:30
-tags: lobster
+tags: ["lobster"]
 author: oli
 ---
 

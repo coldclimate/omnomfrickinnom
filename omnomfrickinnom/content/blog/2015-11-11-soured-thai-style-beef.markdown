@@ -2,7 +2,7 @@
 layout: post
 title:  "Sour Thai Style Beef"
 date:   2015-11-11 17:58:12
-tags: thai beef
+tags: ["thai","beef"]
 author: oli
 ---
 

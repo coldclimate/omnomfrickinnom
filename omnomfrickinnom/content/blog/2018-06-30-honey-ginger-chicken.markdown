@@ -2,7 +2,7 @@
 layout: post
 title:  "Honey ginger chicken"
 date:   2018-06-30 20:04:00
-tags: chicken 
+tags: ["chicken"] 
 author: oli
 ---
 

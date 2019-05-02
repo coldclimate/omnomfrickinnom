@@ -2,7 +2,7 @@
 layout: post
 title:  "Slow cooked beef shin chilli"
 date:   2017-04-23 18:32:30
-tags: beef chilli
+tags: ["beef","chilli"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mostly spherical casserole"
 date:   2018-02-10 19:49:00
-tags: casserole 
+tags: ["casserole"] 
 author: oli
 ---
 

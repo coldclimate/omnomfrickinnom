@@ -2,7 +2,7 @@
 layout: post
 title:  "Improvised squash curry"
 date:   2018-11-04 18:35:00
-tags: comfortfood curry squash
+tags: ["comfort food", "curry", "squash"]
 author: oli
 ---
 

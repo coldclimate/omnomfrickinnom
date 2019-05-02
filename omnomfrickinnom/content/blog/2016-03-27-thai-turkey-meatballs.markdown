@@ -2,7 +2,7 @@
 layout: post
 title:  "Thai turkey meatballs"
 date:   2016-03-29 17:21:30
-tags: turkey thai
+tags: ["turkey" ,"thai"]
 author: oli
 ---
 

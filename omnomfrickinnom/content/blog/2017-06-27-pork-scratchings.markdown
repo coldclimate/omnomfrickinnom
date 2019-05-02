@@ -2,7 +2,7 @@
 layout: post
 title:  "Pork Scratchings"
 date:   2017-06-27 17:48:00
-tags: pork beersnacks
+tags: ["pork","beersnacks"]
 author: oli
 ---
 

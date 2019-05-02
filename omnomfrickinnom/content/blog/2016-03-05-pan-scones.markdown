@@ -2,7 +2,7 @@
 layout: post
 title:  "Pan scones"
 date:   2016-03-05 16:42:30
-tags: scones weightwatchers
+tags: ["scones","weightwatchers"]
 author: oli
 ---
 

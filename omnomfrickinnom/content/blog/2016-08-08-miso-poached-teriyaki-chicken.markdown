@@ -2,7 +2,7 @@
 layout: post
 title:  "Miso poached teriyai chicken"
 date:   2016-08-08 20:23:30
-tags: chicken miso
+tags: ["chicken","miso"]
 author: oli
 ---
 

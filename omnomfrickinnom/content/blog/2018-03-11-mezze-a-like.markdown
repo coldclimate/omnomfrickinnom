@@ -2,7 +2,7 @@
 layout: post
 title:  "A lazy Sunday meze-a-like"
 date:   2018-03-11 16:49:00
-tags: lamb 
+tags: ["lamb"] 
 author: oli
 ---
 

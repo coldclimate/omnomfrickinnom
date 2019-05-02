@@ -2,7 +2,7 @@
 layout: post
 title:  "Mulled wine marshmallows"
 date:   2015-12-7 20:30:30
-tags: sweets wine
+tags: ["sweets","wine"]
 author: oli
 ---
 

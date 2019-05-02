@@ -2,7 +2,7 @@
 layout: post
 title:  "Baconated Sprouts"
 date:   2015-02-16 20:19:15
-tags: sidedish bacon sprouts
+tags: ["sidedish","bacon","sprouts"]
 author: oli
 ---
 

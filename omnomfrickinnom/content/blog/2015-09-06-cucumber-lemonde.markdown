@@ -2,7 +2,7 @@
 layout: post
 title:  "Super green cucumber lemonade"
 date:   2015-09-05 21:37:12
-tags: cordial gin 
+tags: ["cordial","gin"] 
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mean Thai Green Prawn Curry"
 date:   2015-07-02 10:00:00
-tags: thai curry
+tags: ["thai","curry"]
 author: dougjohnson
 ---
 

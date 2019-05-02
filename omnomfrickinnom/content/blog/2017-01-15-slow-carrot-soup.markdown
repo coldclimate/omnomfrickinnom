@@ -2,7 +2,7 @@
 layout: post
 title:  "Slow cooker carrot soup"
 date:   2017-01-17 19:00:30
-tags: soup
+tags: ["soup"]
 author: oli
 ---
 

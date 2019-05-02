@@ -2,7 +2,7 @@
 layout: post
 title:  "Sausage Rolls"
 date:   2016-06-12 19:24:30
-tags: sausage
+tags: ["sausage"]
 author: oli
 ---
 

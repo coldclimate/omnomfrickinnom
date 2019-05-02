@@ -2,7 +2,7 @@
 layout: post
 title:  "Roast rib of beef with a pickled onion cream gravy"
 date:   2015-12-27 17:14:30
-tags: roast beef  
+tags: ["roast","beef"]  
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Sandwich"
 date:   2015-12-27 19:10:30
-tags: christmas sandwich
+tags: ["christmas","sandwich"]
 author: oli
 ---
 

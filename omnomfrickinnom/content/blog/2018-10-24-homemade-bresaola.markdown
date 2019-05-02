@@ -2,7 +2,7 @@
 layout: post
 title:  "Homemade Bresaola"
 date:   2018-10-24 20:35:00
-tags: beef charcuterie 
+tags: ["beef", "charcuterie"] 
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick pickle to use up an over ripe mango"
 date:   2014-07-27 19:22:52
-tags: pickle economic
+tags: ["pickle","economic"]
 author: oli
 ---
 

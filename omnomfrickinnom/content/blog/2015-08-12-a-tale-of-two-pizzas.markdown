@@ -2,7 +2,7 @@
 layout: post
 title:  "A tale of two pizza toppings"
 date:   2015-08-12 19:26:12
-tags: pizza
+tags: ["pizza"]
 author: oli
 ---
 

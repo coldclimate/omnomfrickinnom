@@ -2,7 +2,7 @@
 layout: post
 title:  "Moroccan Livers"
 date:   2016-03-16 19:33:30
-tags: liver moroccan
+tags: ["liver","moroccan"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple savory pasta"
 date:   2015-12-11 20:30:30
-tags: pasta mushrooms prawns
+tags: ["pasta","mushrooms","prawns"]
 author: oli
 ---
 

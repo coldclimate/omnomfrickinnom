@@ -2,7 +2,7 @@
 layout: post
 title:  "Summer tart"
 date:   2015-08-18 20:01:12
-tags: summer
+tags: ["summer"]
 author: oli
 ---
 

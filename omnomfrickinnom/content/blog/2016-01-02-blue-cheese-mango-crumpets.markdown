@@ -2,7 +2,7 @@
 layout: post
 title:  "Blue cheese and mango pickle crumpets"
 date:   2016-01-02 21:31:30
-tags: cheese crumpets
+tags: ["cheese","crumpets"]
 author: oli
 ---
 

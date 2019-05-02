@@ -2,7 +2,7 @@
 layout: post
 title:  "Aubergines with szechuan spice and pork"
 date:   2017-06-27 21:17:00
-tags: pork szechuan
+tags: ["pork", "szechuan"]
 author: oli
 ---
 

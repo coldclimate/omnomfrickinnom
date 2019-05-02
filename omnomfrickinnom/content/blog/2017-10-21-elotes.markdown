@@ -2,7 +2,7 @@
 layout: post
 title:  "Elotes knockoff"
 date:   2017-10-21 19:46:00
-tags: savoury
+tags: ["savoury"]
 author: oli
 ---
 

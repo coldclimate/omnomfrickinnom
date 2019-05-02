@@ -2,7 +2,7 @@
 layout: post
 title:  "More Mushrooms"
 date:   2015-08-27 21:37:12
-tags: mushrooms 
+tags: ["mushrooms"] 
 author: oli
 ---
 

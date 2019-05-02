@@ -2,7 +2,7 @@
 layout: post
 title:  "Warm chicken and tarragon salad"
 date:   2015-06-29 21:10:12
-tags: salad summer chicken
+tags: ["salad","summer","chicken"]
 author: oli
 ---
 

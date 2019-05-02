@@ -2,7 +2,7 @@
 layout: post
 title:  "Char sui style pork with birch syrup"
 date:   2017-08-21 19:46:00
-tags: lamb
+tags: ["lamb"]
 author: oli
 ---
 

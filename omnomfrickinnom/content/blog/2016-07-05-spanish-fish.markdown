@@ -2,7 +2,7 @@
 layout: post
 title:  "Spanish Fish"
 date:   2016-07-06 18:47:30
-tags: fish spanish
+tags: ["fish","spanish"]
 author: oli
 ---
 

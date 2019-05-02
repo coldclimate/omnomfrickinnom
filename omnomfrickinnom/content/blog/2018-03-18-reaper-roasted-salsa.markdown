@@ -2,7 +2,7 @@
 layout: post
 title:  "Reaper Roasted Salsa"
 date:   2018-03-18 13:32:00
-tags: snacks hotsauce 
+tags: ["snacks","hotsauce"] 
 author: oli
 ---
 

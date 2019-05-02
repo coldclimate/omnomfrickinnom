@@ -2,7 +2,7 @@
 layout: post
 title:  "Home made donner kebab"
 date:   2017-09-17 19:46:00
-tags: lamb fakeaway
+tags: ["lamb","fakeaway"]
 author: oli
 ---
 

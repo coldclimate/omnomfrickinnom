@@ -2,7 +2,7 @@
 layout: post
 title:  "Sticky soy honey salmon"
 date:   2018-05-08 20:32:00
-tags: fish asian 
+tags: ["fish","asian"] 
 author: oli
 ---
 

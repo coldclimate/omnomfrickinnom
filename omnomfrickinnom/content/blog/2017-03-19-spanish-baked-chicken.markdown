@@ -2,7 +2,7 @@
 layout: post
 title:  "Baked chicken with Spanish flavours"
 date:   2017-03-19 12:24:30
-tags: chicken panish baked
+tags: ["chicken","spanish","baked"]
 author: oli
 ---
 

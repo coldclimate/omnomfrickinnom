@@ -2,7 +2,7 @@
 layout: post
 title:  "Ribs"
 date:   2016-02-27 18:27:30
-tags: bbq ribs pork
+tags: ["bbq","ribs","pork"]
 author: oli
 ---
 

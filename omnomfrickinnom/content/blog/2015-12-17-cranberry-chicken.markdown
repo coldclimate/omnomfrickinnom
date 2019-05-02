@@ -2,7 +2,7 @@
 layout: post
 title:  "Cranberry chicken"
 date:   2015-12-17 20:30:30
-tags: chicken xmas 
+tags: ["chicken", "xmas"] 
 author: oli
 ---
 

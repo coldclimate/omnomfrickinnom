@@ -2,7 +2,7 @@
 layout: post
 title:  "Rare roast beef faster than takeaway"
 date:   2017-02-04 19:00:30
-tags: beef
+tags: ["beef"]
 author: oli
 ---
 

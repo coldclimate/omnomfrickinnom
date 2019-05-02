@@ -2,7 +2,7 @@
 layout: post
 title:  "Breaded pork chop"
 date:   2016-06-04 21:02:30
-tags: pork
+tags: ["pork"]
 author: oli
 ---
 

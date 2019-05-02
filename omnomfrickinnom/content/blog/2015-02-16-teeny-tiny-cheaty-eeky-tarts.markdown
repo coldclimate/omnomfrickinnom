@@ -2,7 +2,7 @@
 layout: post
 title:  "Teeny Tiny Cheaty Leeky Goats Cheese Tarts"
 date:   2015-02-16 20:25:11
-tags: cheatying goats cheese tarts
+tags: ["cheatying","goats","cheese","tarts"]
 author: oli
 ---
 

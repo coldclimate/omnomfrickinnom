@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep fried pork chop"
 date:   2016-01-14 19:02:30
-tags: pork deep fried  
+tags: ["pork","deep","fried"]  
 author: oli
 ---
 

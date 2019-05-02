@@ -2,7 +2,7 @@
 layout: post
 title:  "Iced tea fried chicken and sharp coleslaw"
 date:   2015-08-09 18:50:12
-tags: comfortfood chicken 
+tags: ["comfort food","chicken"] 
 author: oli
 ---
 

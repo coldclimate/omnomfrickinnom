@@ -2,7 +2,7 @@
 layout: post
 title:  "Mushrooms on toast"
 date:   2015-08-20 18:27:12
-tags: mushrooms 
+tags: ["mushrooms"] 
 author: oli
 ---
 

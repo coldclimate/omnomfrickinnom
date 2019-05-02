@@ -2,7 +2,7 @@
 layout: post
 title:  "Hipster pot noodles"
 date:   2015-09-08 19:47:12
-tags: lunch noodles
+tags: ["lunch","noodles"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Asian style baked belly pork"
 date:   2015-06-21 18:51:52
-tags: asian pork
+tags: ["asian","pork"]
 author: oli
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Spatchcock chicken with a reduced stock"
 date:   2017-07-09 17:23:00
-tags: chicken
+tags: ["chicken"]
 author: oli
 ---
 
