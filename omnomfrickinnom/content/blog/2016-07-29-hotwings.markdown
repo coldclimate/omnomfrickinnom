@@ -4,6 +4,7 @@ title:  "Hotwings"
 date:   2016-07-29 20:24:30
 tags: ["chicken","american"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 There are few things as American as hot wings in my eyes, and I bloody love them.  They're great vechicals for hot sauce too, which is handy because eating it with a spoon is generally frowned up.  Normally hotwings are deep fried and then drenched in a mix of melted butter mixed with hot sauce.  Excellent for the face, terrible on the waistline.  I'd read a few posts about how to get really crispy wings when baking using baking power so I thought I'd give it a go.

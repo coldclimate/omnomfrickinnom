@@ -4,6 +4,7 @@ title:  "Livers on toast"
 date:   2016-01-06 18:31:30
 tags: ["toast","liver","cream"]  
 author: oli
+image: "/images/blog/easter"
 ---
 
 I keep thinking I should eat more liver, but I'm really not sure i like them, but I do love pate, thus, using a very similar method to the delicious muthrooms on toast from a little while ago I had a very tasty dinner.  Frozen chicken livers are super mega cheap too.  I got a 200g pack for 50p. 

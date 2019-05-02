@@ -1,23 +1,23 @@
-baseURL = "https://example.com/"
-languageCode = "en-us"
-title = "Mediumish"
+baseURL = "https:///www.omnomfrickinnom.com/"
+languageCode = "en-gb"
+title = "Om Nom Frickin Nom (dot) Com"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-copyright = "John Doe - All rights reserved"
+copyright = "Om Nom Frickin Nom (dot) Com"
 enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "your-shortname-here"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+#googleAnalytics = "UA-46298735-1"
 
 [params]
   logo = "/images/logo.png"
-  description ="the clean blog!"
+  description ="badly spelt lower case lo-fi cooking adventures in the evening"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
+  name = "Oli"
   thumbnail = "/images/author.png"
-  description = "Creator of this blog."
+  description = "Resident eejit.  Radio4, kitchen dancing, owning recipe books to read not follow"
 
 [params.index]
   picture = "/images/author.png"
@@ -31,12 +31,12 @@ Currently trying to get this blog running, still don't know what the blog will b
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
-  twitter = "<username>"
-  instagram = "<username>"
+  #github = "<username>"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "<username>"
+  #twitter = "<username>"
+  #instagram = "<username>"
 
 ## Main Menu
 [[menu.main]]

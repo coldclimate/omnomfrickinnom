@@ -4,6 +4,7 @@ title:  "Sloe gin"
 date:   2015-10-25 17:20:12
 tags: ["gin","hedgerow"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I had so much to write but it all comes down to two things: I love gin and sloe gin is just enough faff to make it feel special.

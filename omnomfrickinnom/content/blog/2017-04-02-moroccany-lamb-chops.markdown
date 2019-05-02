@@ -4,6 +4,7 @@ title:  "Moroccany Lamb Chops"
 date:   2017-04-02 18:35:30
 tags: ["lamb"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Nothing complicated here, just some lamb chops grilled fast are hard, grazed and served with a flavoured couscous.  I thought I had a pot of ras el hanout around somewhere but when I couldn't find it I improvised and loved the result

@@ -4,6 +4,7 @@ title:  "Christmas cheese nibbles suitable for eating with wine and beers in pol
 date:   2014-12-14 16:12:52
 tags: ["cheese", "nibbles"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 The batch of these I made and took to the party weren't as good as those I made for the rollings out, so I'll describe that process instead.  The photo however is of the larger ones, which were good but not quite as crisp and delicious.  Adjust amounts based on your weight of cheese.  I was having a use up.

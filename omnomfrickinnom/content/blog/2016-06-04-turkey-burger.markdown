@@ -4,6 +4,7 @@ title:  "Ramekin baked turkey brurgers"
 date:   2016-06-04 20:43:30
 tags: ["turkey", "burger"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Turkey mince makes a great burger but because it's so low fat it's difficult to keep them together in the pan.  Step forward baking.  Because all the juice is kept in they're juicy.  It's quite a bland met so lots of thyme and zest helps.

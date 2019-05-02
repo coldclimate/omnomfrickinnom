@@ -4,6 +4,7 @@ title:  "Lazy inauthentic (but delicious) one pan paella"
 date:   2015-07-15 20:20:12
 tags: ["rice","comfort food"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I joked tonight that I should rename this blog to bastardisedrecipesforthelazyandtimeshortwhohatewashingup.com, and this post might be a perfect example.  Culturally bereft, easy and delicious

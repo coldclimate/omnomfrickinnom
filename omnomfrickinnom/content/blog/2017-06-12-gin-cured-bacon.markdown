@@ -4,6 +4,7 @@ title:  "Gin cured bacon"
 date:   2017-06-12 20:44:00
 tags: ["bacon","curing"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love making bacon.  It's not hard, but it takes time, and probably costs way more than buying the best bacon, but I love it all the same.  After getting a chunk of belly pork in my meatbox I was browsing through [Curing & Smoking: River Cottage Handbook No.13](http://amzn.to/2sVtYZU) looking at bacon recipes and found the basic one looked great except I had no juniper berries.  The temptation to replace it with gin was too great.

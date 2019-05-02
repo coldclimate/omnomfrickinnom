@@ -4,6 +4,7 @@ title:  "A very rich pork chop with mushrooms"
 date:   2016-06-09 20:02:30
 tags: ["mushrooms","pork"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 One day I'll cook mushrooms without cream, but that day is not today.  I boody ove mushrooms, and when you leave them chunky they're so good as part of a main course.

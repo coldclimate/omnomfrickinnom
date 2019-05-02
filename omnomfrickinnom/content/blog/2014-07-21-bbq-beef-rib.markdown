@@ -4,6 +4,7 @@ title:  "BBQd Rib of Beef"
 date:   2014-07-09 19:22:52
 tags: ["beef","bbq"]
 author: oli
+image: "https://lh5.googleusercontent.com/-vPE-N3l01qw/U7hEf1Xlv_I/AAAAAAAAEVI/RDOPuKMlsfo/w497-h663-no/IMG_20140705_184032.jpg"
 ---
 
 No real recipe here, just another (rather serious) chunk of beef from  [G&S Organics](http://www.gandsorganics.com/) becoming dinner for a few friends. 

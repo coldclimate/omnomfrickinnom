@@ -4,6 +4,7 @@ title:  "Mushrooms on toast"
 date:   2015-08-20 18:27:12
 tags: ["mushrooms"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 Mushrooms are one of my favorite foods but I get to eat them infrequently because they're very much a marmite food and our house is 50/50 split, so when I get the chance I binge.  I imagine peoples dislike of them is related to their potential for wet dog smell however this combination of frying under a lid seems to avoid this.

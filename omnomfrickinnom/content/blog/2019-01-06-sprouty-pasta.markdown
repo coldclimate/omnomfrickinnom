@@ -3,6 +3,7 @@ layout: post
 title:  "Sprouty sausagey pasta"
 date:   2019-01-06 19:27:00
 author: oli
+image: "/images/blog/easter"
 ---
 
 After Christmas sprouts are still in the shops and excellent.  Fine sliced they can be used in loads of places.  I'd not thought of having them in pasta but the combinate with sausage is great.  If you can find it then sweet and spicy Italian sausages would be ideal, if not use the combination of spices below to evolve standard sausages.

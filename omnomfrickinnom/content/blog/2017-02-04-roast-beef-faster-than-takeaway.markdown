@@ -4,6 +4,7 @@ title:  "Rare roast beef faster than takeaway"
 date:   2017-02-04 19:00:30
 tags: ["beef"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love roast beef, and the more I cook it the faster it is to cook.  I had a chunk of excllent looking silverside from our meatbox so I decided to go for a super fast and hot roast leaving it rare in the middle.  The bonus here was that we ended up going from start to table in... 15 minutes (including time to warm the oven).  Literally faster than getting takeaway.

@@ -4,6 +4,7 @@ title:  "Reaper Roasted Salsa"
 date:   2018-03-18 13:32:00
 tags: ["snacks","hotsauce"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love hot sauses (see picture below of out fridge drawer) so when I saw a limited edition Encona sauce (already someting of a favourite brand) I couldn't resist it.  We'd been planning on making salsa for a lazy afternoon so I thought it might be fun to combine the two.  I normally include a fresh chilli in my salsa but decided to swap it out for a healthy dose of Encona instead.

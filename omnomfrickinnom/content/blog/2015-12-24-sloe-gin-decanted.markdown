@@ -4,6 +4,7 @@ title:  "Sloe gin decanted"
 date:   2015-12-24 17:20:12
 tags: ["gin","hedgerow"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Back in October I finallly (a few weeks late) bottle up my [sloe-gin] and this evening, just in time for Christmas drinkies.  Not much to say here, decant slowly to avoid sediment, sweeten if needed (I like mine dry so I didn't) and bottle in something pretty.

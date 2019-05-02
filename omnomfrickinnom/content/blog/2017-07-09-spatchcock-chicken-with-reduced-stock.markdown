@@ -4,6 +4,7 @@ title:  "Spatchcock chicken with a reduced stock"
 date:   2017-07-09 17:23:00
 tags: ["chicken"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love a good roast chicken and we very often spatchcock them for speed and even cooking.  Excellent, but lacks the gravy which is so easily made from a roasting tin.  Technically what I've made here is a rubbish demi-glace really, but it's super consentrated and brings a lot to the roast meat.

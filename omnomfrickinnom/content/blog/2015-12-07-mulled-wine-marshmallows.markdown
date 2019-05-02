@@ -4,6 +4,7 @@ title:  "Mulled wine marshmallows"
 date:   2015-12-7 20:30:30
 tags: ["sweets","wine"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 This all started with a blagging Facebook post. "Nobody mulls wine as hard as I do" (because frankly if you're not making mulled wine in lab glassware on top of an open fire, you don't).  The author of [Absinthe for Adultery](http://absintheforadultery.tumblr.com/) called me on it however and then brought up the idea of mulled wine marshmallows.  

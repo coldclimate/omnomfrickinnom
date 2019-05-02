@@ -3,6 +3,7 @@ layout: post
 title:  "Spiced pineapple slices"
 date:   2019-04-02 15:35:00
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love fresh pineapple.  Recently we've been eating it in salsa a lot (grill until blistered, mash with chilli and corriandar), and it made me thing of something I heard years ago but can't source, that ripe pineapple is great with salt and chilli powder.  I've no idea where I heard it and can't find anything online, so I figured I'd just try it.  Next time (and there will be a next time), I'm going to try fresh slices habinaro chillis.

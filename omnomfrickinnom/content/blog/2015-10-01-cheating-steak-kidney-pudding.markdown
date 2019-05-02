@@ -4,6 +4,7 @@ title:  "Cheating steak and kidney pudding"
 date:   2015-10-01 19:29:12
 tags: ["beef","pie" ,"cheating"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love a steak and kidney pudding.  The rich filling, the drama of cutting into it and steam errupting out, the spongy case, there's so much to love.  Next time I've got a spare weekend I'll have a go to make one, but with the hours of steaming it's not practical for a midweek tea.  

@@ -4,6 +4,7 @@ title:  "Honey ginger chicken"
 date:   2018-06-30 20:04:00
 tags: ["chicken"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 To try and break a bt of a food rut we've been in were trying out recipes from [Perfect Plates in 5 ingrediants](https://amzn.to/2KxnhJ6), shopping specifically for the ingrediants for chosen dishes, rather than doing a general shop and making stuff.

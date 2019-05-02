@@ -4,6 +4,7 @@ title:  "WeightWatcher Friendly Lemon Peel and Pork Meatball Pasta"
 date:   2016-11-07 20:00:30
 tags: ["pork","weightwatchers"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Pork mince isn't very diet friendly, but it is delicious and a little goes a long way.  I have a lot of [dried lemon peel](http://amzn.to/2eGmcOb) left from an experiment (to be blogged) so I thought I'd combine the two.

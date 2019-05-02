@@ -4,6 +4,7 @@ title:  "Slow cooked North African(ish) lamb"
 date:   2014-07-09 19:22:52
 tags: ["lamb","slowcooker"]
 author: oli
+image: "https://lh5.googleusercontent.com/-Xp0qfaAxo6k/U7w3KD8Ky3I/AAAAAAAAEdE/WcgbZfE_vas/w497-h663-no/IMG_20140708_191442.jpg"
 ---
 
 

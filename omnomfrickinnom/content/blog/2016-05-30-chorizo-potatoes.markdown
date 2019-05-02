@@ -4,6 +4,7 @@ title:  "Camping food: Chorizo Potatoes"
 date:   2016-05-31 19.01:30
 tags: ["camping"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Second dish of the trip, this cooks up quickly because the hard to cook bits (the potatoes) are done in advance.

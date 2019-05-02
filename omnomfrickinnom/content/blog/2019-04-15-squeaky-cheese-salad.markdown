@@ -3,6 +3,7 @@ layout: post
 title:  "Super quick squeaky cheese salad"
 date:   2019-04-15 17:35:00
 author: oli
+image: "/images/blog/easter"
 ---
 
 A super quick tea, ten minutes from coming in the door to getting in your face.  This is also a super quick write up too, sorry.

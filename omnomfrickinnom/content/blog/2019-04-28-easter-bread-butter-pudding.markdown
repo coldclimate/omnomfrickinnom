@@ -3,6 +3,8 @@ layout: post
 title:  "Easter Bread And Butter Pudding"
 date:   2019-04-28 20:18:00
 author: oli
+image: "/images/blog/easter"
+image: "/images/blog/easter-bread-butter-pudding-03.jpg"
 ---
 
 I love bread and butter pudding and I love hotcross buns, so when I left a pack of hotcross buns out and they went stale there was only one option - another using up combo recipe.

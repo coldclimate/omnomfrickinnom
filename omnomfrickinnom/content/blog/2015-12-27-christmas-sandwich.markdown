@@ -4,6 +4,7 @@ title: "Christmas Sandwich"
 date:   2015-12-27 19:10:30
 tags: ["christmas","sandwich"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 It's something of a tradition in my house to make sandwiches on Xmas night using the leftovers, but there is a rule: if it was on the table, it's in the sandwich.  Additions are allowed, but no skipping things, even sprouts.

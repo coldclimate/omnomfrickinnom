@@ -4,6 +4,7 @@ title:  "Elotes knockoff"
 date:   2017-10-21 19:46:00
 tags: ["savoury"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 At an amazing hole in the wall place in Key West we ate corn on the cob that came wrapped in foil.  I'd no idea what it was called, but a bit of googling uncovered "elotes".  Meantime I'd had a go to recreate it and it turned out I wasn't a million miles away.  The real thing has mayonise and sour cream however.

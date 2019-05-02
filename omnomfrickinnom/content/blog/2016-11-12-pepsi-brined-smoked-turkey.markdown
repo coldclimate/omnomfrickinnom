@@ -4,6 +4,7 @@ title:  "Pepsi brined smoked turkey with Southern trimmings"
 date:   2016-11-12 19:00:30
 tags: ["turkey", "bbq"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 One of the things we ate in Texas which was so much better than expected was smoked turkkey at [Kreuzs](https://www.kreuzmarket.com/) in Lockhart (after a morning of blasting away with all the firearms banned in the UK).  Much ore subtle than the hard smoked brisket and sausages, it was juicy and delicious (and the hot German style potatoe sala was excellent too).

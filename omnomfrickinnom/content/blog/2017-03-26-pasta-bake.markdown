@@ -4,6 +4,7 @@ title:  "Simple pasta bake"
 date:   2017-03-26 12:24:30
 tags: ["pasta"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I wasn't going to blog about this but the photos attracted some attention on twitter, so I'm knocking it out quickly.  The trick here is using a metal oven tray, promoting stuck on savoury bits.  It's not suer quick, but it is worth it.  The veg I used was a bit of a use up, you could probably chuck a tonne of stuff in here.  

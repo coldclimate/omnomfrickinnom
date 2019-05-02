@@ -4,6 +4,7 @@ title:  "Aubergines with szechuan spice and pork"
 date:   2017-06-27 21:17:00
 tags: ["pork", "szechuan"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I was looking for a way to use up a ripe aubergine and some excellent pork mince when I ran across this rather excellent looking [roast aubergines with Szechuan fragrant pork](https://www.theguardian.com/lifeandstyle/2015/jul/18/szechuan-aubergine-pork-recipe-courgette-feta-pie-thomasina-miers) made by  Thomasina Miers.

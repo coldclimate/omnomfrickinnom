@@ -4,6 +4,7 @@ title:  "Cheating Chicken Noodle Soup"
 date:   2014-11-12 19:22:52
 tags: ["comfort","soup","chicken"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love soups and broths.  I love chicken noodle soups, both of the rich and pleasing Jewish deli variety or the salted, spiced Asian sort.  As Week Of Illness continues, so it was deli style medicine tonight.  Super cheating, so much so your average granny would cry, but bag to bowl in less than ten minutes (yay for pre-roasted chickens)

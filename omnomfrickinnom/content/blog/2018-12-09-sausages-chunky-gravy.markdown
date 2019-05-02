@@ -3,6 +3,7 @@ layout: post
 title:  "Sausages in a chunky gravy"
 date:   2018-12-09 20:36:00
 author: oli
+image: "/images/blog/easter"
 ---
 
 It's that time of the year (that most wonderful time of the year) where you can completely justify eating comforting food. 

@@ -4,6 +4,7 @@ title:  "Lightly spiced rice pudding"
 date:   2015-06-21 17:51:52
 tags: ["comfort","food"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 On this, the Summer Solstice, it shouldd not be a day for rice pudding, especially hot rice pudding.  But it's grey and Tupperware day, so here it is, my ultimate comfort food

@@ -4,6 +4,7 @@ title:  "Crispy twice cooked pork"
 date:   2018-02-03 17:49:00
 tags: ["pork","chinese"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 One of the things that takeaways excel at (and that I assume is dreadfully bad for you) are those dishes where chunks of meat are crisp but coated in a spicy sweet unctuous sauce.  Crispy chilli beef, gingered chicken, kung po, the variations are endless.  I assume a deep fat fryer is involved and thus I've avoided making them at home, but I suspected that the air fryer might do a good job so I had a bit of an experiment (always a good idea when friend are coming round for tea).

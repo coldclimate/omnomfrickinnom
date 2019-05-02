@@ -4,6 +4,7 @@ title:  "Redneck sous vide beef"
 date:   2016-08-20 20:45:30
 tags: ["beef","sous-vide"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Sous vide (cooking at low temperature for an extended period) has been around for a while and was originally the realm of top end chefs with expensive kit.  Lately things like the [Anova Stick](http://amzn.to/2b6Ao2I) has made it much easier and more accessable, but I' m still a man who likes to experiment, so... I went redneck.  An instant read thermometer, a pan, and getting lucky with the surface area of my pan and specific heat capacity meant I could make a good stab at sous-vide beef without (yet) splashing out a fortune.

@@ -4,6 +4,7 @@ title:  "Breaded pork chop"
 date:   2016-06-04 21:02:30
 tags: ["pork"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I had a great pork chop that had been lurking in the freezer for well over a year and needed eating.  Instead of grilling it [fully loaded]({% post_url 2015-02-08-mega-pork-chop %}) or [deep fried]({% post_url 2016-01-14-deep-fried-pork-chop %}) it, I decided to bread and bake it.  

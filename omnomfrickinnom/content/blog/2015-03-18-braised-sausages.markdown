@@ -4,6 +4,7 @@ title:  "Braised Sausages"
 date:   2015-03-18 20:25:11
 tags: ["sausages","comfort","food"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Spring should have sprung by now, but it's cold and crappy outside, so sometimes you need some comfort food (one that's not just cheese and chilli based)

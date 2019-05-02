@@ -4,6 +4,7 @@ title:  "Asian style baked belly pork"
 date:   2015-06-21 18:51:52
 tags: ["asian","pork"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I doubt this is in any way authentic to any country, but get passed that and dig in.

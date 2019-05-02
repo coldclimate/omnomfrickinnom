@@ -4,6 +4,7 @@ title:  "Spinach and Lentil Roulade"
 date:   2014-09-15 09:22:52
 tags: ["vegetarian","lentils","spinach"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 A rare vegetarian meal, but one I love hot or cold.

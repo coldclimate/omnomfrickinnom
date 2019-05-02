@@ -4,6 +4,7 @@ title:  "Char sui style pork with birch syrup"
 date:   2017-08-21 19:46:00
 tags: ["lamb"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 A few months ago my friend Jim sent me a bottle from his latest venture [North Pennine Birch Syrup](https://northpenninebirch.co.uk/) and other then a quick birch gin martini (excellent) I'd not got round to having a play with it, until I was walking home tonight and had a craving for char sui pork.  A perfect excuse to break it open.

@@ -4,6 +4,7 @@ title:  "Baked chicken with Spanish flavours"
 date:   2017-03-19 12:24:30
 tags: ["chicken","spanish","baked"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 An easy supper to feed lots of folks.  I got the idea from this [Thomasina Miers’ ](https://www.theguardian.com/lifeandstyle/2017/mar/17/ancho-chicken-thighs-tray-bake-recipe-lemon-drizzle-cake-candied-citrus-thomasina-miers) post.  The [Belazu tagine paste](https://www.belazu.com/product/tagine-paste-2/) (bought from Sainsburys) adds a good base and body of flavours.  

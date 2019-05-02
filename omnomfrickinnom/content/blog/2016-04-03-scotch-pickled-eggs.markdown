@@ -4,6 +4,7 @@ title:  "Scotch Pickled Eggs or Pickled Scotch Eggs"
 date:   2016-04-03 14:13:30
 tags: ["eggs","sausage","snack"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I'm funny about eggs.  I love an omlette, but I'm not keen on soft eggs, be they fried or poached.  I'd also never eat a hardboiled egg on it's own, but I love a scotch egg or even a pickled egg.  It's a mystery.  Anyway, it occured to me I could combine my beloved pickled egg with the scotch egg to create The Uber Snack Egg.

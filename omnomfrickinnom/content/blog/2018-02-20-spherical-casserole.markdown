@@ -4,6 +4,7 @@ title:  "Mostly spherical casserole"
 date:   2018-02-10 19:49:00
 tags: ["casserole"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 A love a good casserole and there were some excellent meatballs in this months meatballs.  Casseroles are also an excuse for dumplings too.  Thus, an all spherical dinner!  Also a good excuse to use up a slightly aging red pepper and an onion going a bit soft too.

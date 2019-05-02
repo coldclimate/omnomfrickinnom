@@ -4,6 +4,7 @@ title:  "Salad topping seeds"
 date:   2016-03-06 11:00:30
 tags: ["seeds"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I had an excellent salt beef sandwich down at [Cookhouse](http://cookhouse.org/) this week and it came with a well dressed salad topped with a toasted seed mix.  A few years ago I used to throw toasted nuts and seeds onto everything but when the jar ran low I didn't ever get round to replacing them.  The salty, crunchy bite they bring to salads, sandwiches, soups and even pasta dishes is very satifying. I think I originally got the idea from a tiny tub of mixed spices and nuts I got from (the much missed) [Love Your Larder](https://twitter.com/loveyourlarder)

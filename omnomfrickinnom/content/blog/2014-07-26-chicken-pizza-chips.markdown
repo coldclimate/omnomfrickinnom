@@ -4,6 +4,7 @@ title:  "Chicken Pizza Chips"
 date:   2014-07-27 19:22:52
 tags: ["chicken","economic","guiltypleasure"]
 author: oli
+image: "https://lh6.googleusercontent.com/F2X0UHbZ8NxUuTfx928gJEFly8fIf3z1Zvu2CNqmk7E=w497-h663-no"
 ---
 
 A little while ago I ran across a [Reddit post talking about "Pizza Fries"](http://www.reddit.com/r/food/comments/266472/has_anyone_tried_pizza_fries/) which looked amazing.  I had the left overs of a roast chicken which had been been roasted over tomato, onions and peppers and couldn't resist having a go.

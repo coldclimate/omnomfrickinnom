@@ -4,6 +4,7 @@ title:  "Smoked salmon pasta"
 date:   2014-10-24 19:22:52
 tags: ["quick","cheese","pasta"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I've not bee very well this week and not able to swallow easily so this super simple pasta dish was perfect.

@@ -4,6 +4,7 @@ title:  "Pork Scratchings"
 date:   2017-06-27 17:48:00
 tags: ["pork","beersnacks"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love pork scratchings.  Often too thick, too salty and too always greasy, they've got a back name, but it's easy enough to make good por scratchings.  I've no idea if these are they, but they provide the perfect toothsome snack.  I was shopping for beer at [Block and Bottle](http://www.blocknbottle.co.uk/) when I saw Steven the butcher trimming the skin off a chunk of beutifully aged pork.  He'd done a great job of leaving most of the fat on the meat (where it should be).

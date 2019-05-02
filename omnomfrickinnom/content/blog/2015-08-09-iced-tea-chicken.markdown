@@ -4,6 +4,7 @@ title:  "Iced tea fried chicken and sharp coleslaw"
 date:   2015-08-09 18:50:12
 tags: ["comfort food","chicken"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I have a love/hate relation with fried chicken.  When it's good, it's amazing.  When it's bad it's terrible, and no matter how good it is it is still absolutely terrible for you, so if you're going to make it, make it brilliant and make it rarely.  You're going to deep fry it so don't skimp on the sugar and spices, just eat it less often.  Along with a splash of a good vinegar based habinaro hot sauce a good coleslaw is a great accompaniment.  Most coleslaw is over sloppy, bland and dull.  I'm rather proud of mine, because it's none of those things.

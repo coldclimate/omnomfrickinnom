@@ -4,6 +4,7 @@ title:  "Ribs"
 date:   2016-02-27 18:27:30
 tags: ["bbq","ribs","pork"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 BBQ masters will hate everything about this, but the result, tender, moist, hot but not crazy hot, is well work the pay off.  These were baked in the oven then finished on a reasonably hot BBQ with a smoke box.

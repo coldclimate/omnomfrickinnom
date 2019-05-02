@@ -4,6 +4,7 @@ title:  "Beef rib with Thai style salad"
 date:   2015-09-05 21:37:12
 tags: ["beef","thai"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love beef rib, but it does best when given a long and slow cook.  At some point I'll get round to doing some in the BBQ but until then, slow cooker it is.  I completely forgot to take pictures of this as I was making it, sorry.

@@ -4,6 +4,7 @@ title:  "Air fried pork chop with super green sauce"
 date:   2018-01-08 19:10:00
 tags: ["pork" ,airfryer"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I bought a [Phillips Airfryer](http://tableflip.date/philips-airfryer) when it was on sale in the New Year.  We'd talked about them for a while but the prce was crazy.  £179 reduced to £79 was to tempting.  I was hoping for fat free chips, but it turns out they're a myth.  After some experimenting, I've come to think of it as more like a super fast fan oven, which is different but interesting, and lends itself well to various cuts of meat.  More experiments to come.  

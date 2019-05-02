@@ -4,6 +4,7 @@ title:  "Summer tart"
 date:   2015-08-18 20:01:12
 tags: ["summer"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Today has been grey, cold, wet and exactly what the end of the summer shouldn't be.  Driving home tonight I decided to cook something full of summer colours and flavours.  Luckily there were some bright fresh tomatoes and discounted premade pastry for sale.

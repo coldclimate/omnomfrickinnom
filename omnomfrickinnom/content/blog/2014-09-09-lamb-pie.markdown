@@ -4,6 +4,7 @@ title:  "Left over lamb becomes spicy pie"
 date:   2014-09-09 09:22:52
 tags: ["lamb","pie","economy"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 After a rather excellent roast of lamb shoulder (from [Cranstons](http://www.cranstons.net/)) we had a load of cold lamb left over.  Rather than a quick curry we made spiced lamb pies instead.  Theres a lack of photos I'm afraid.

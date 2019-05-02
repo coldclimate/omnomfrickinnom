@@ -4,6 +4,7 @@ title:  "Twice cooked leeky pork"
 date:   2018-05-09 20:29:00
 tags: ["fish","asian"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 Cooking pork twice, once to help break down the fat/cartalidge and once to crisp up the outside seems to be a winning formula and the combination of "poor man's sous vide" and the Airfryer works brilliantly.

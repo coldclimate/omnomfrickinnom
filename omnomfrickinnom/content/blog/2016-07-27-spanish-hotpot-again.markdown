@@ -4,6 +4,7 @@ title:  "Spanish Hotpot (again)"
 date:   2016-07-28 20:24:30
 tags: ["spanish","yorkshire"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I trie dthis before and it didn't really work, but the flavours were about right and it was the consistency that was wrong.  Attempt two (mostly to use up bits in the fridge)!

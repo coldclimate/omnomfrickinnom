@@ -4,6 +4,7 @@ title:  "Curry goat"
 date:   2017-02-14 18:37:30
 tags: ["goat","curry"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 After getting a chance to buy some goat on the bone from [The Lakewood Goat Company](http://thegoatcompany.com/) whilst they were at [Jesmond Food Market](https://twitter.com/JesFoodMkt) there was only one thing on the cards, curry goat.  I can't claim and Jamaican roots, but I've got a soft spot for the spicy, rich, soured curry.

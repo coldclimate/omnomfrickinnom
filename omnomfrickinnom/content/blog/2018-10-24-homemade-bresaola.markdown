@@ -4,6 +4,7 @@ title:  "Homemade Bresaola"
 date:   2018-10-24 20:35:00
 tags: ["beef", "charcuterie"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I've been facinated with charcuterie for years (mostly because it's tasty) and I got given a copy of [Curing & Smoking: River Cottage Handbook No.13](https://amzn.to/2PSAdst) last year, so I bit the bullet and prepared to ruin a lot of very expensive ingrediants.  It was a bit of a scary journey, had a bit of a wobble in the middle, but came out ok.  As per always it was typically low tech and badly planned and thankfully came out ok.

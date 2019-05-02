@@ -4,6 +4,7 @@ title:  "Irn Fyre Chicken Drizzle"
 date:   2018-06-17 20:04:00
 tags: ["fried chicken"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 I've been experimenting with marinading wings chicken in Irn Bru before frying them to see if the Bru flavours come though.  They do, but it's not as strong as I'd hoped.  After watching wings getting drizled with a spiced honey and lime mixture I wondered if I could get the delicious Bru goodness another way - a concentrated syrup.

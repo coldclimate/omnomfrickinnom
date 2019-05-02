@@ -4,6 +4,7 @@ title:  "Pastry free individual leek and bacon quiches"
 date:   2015-07-26 17:45:12
 tags: ["eggs","posh","nibbles"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Pastry is delicious but it is a faff.  Much like the [Teeny Tiny Cheaty Leeky Goats Cheese Tarts]({% post_url 2015-02-16-teeny-tiny-cheaty-eeky-tarts %}) these rely on a hot baking tray and the wonders of fat.

@@ -4,6 +4,7 @@ title:  "Sex, drugs and Lobster Roll"
 date:   2016-02-21 18:19:30
 tags: ["lobster"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Lobster is one of life luxuries which is regularly abused.  There's just no need for cream, wine, fried onions etc, just let the gentle flavour shine right through.  The best lobster I've ever eaten was cooked over a fire on a beach in Scotland, served with a little melted butter and the tiniest bit of garlic, eaten with friends, a meal never to be repeated.  Years later at [Fish!](http://www.fishrestaurant.nyc/) in NYC I stumbled across the lobster roll and was a bit horrified.  How could the delicate flesh of a lobster be drowned in mayo and served in a hotdog bun? Surely this was taking crass American food culture too far?  I was wrong, it was tremendous, and if you've got the chance of a cheap lobster it's well worth it.

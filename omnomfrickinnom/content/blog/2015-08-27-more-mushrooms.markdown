@@ -4,6 +4,7 @@ title:  "More Mushrooms"
 date:   2015-08-27 21:37:12
 tags: ["mushrooms"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 After [my last mushroom post]({% post_url 2015-08-20-mushrooms %}) by old mate Ali got in touch

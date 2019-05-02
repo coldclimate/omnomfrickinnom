@@ -4,6 +4,7 @@ title:  "Christmas left over burritos"
 date:   2015-01-01 14:15:12
 tags: ["leftovers"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Turkey curry is the scourge of this country.  I love turkey, I love leftovers and it breaks my heart hearing people whine on about "never ending turkey".  The good news is that everything on the Christmas table is even better (IMHO) reheated.  Forgot cold sliced turkey and bedraggled veg, time to break out the burritos.

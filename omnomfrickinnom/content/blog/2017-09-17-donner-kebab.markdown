@@ -4,6 +4,7 @@ title:  "Home made donner kebab"
 date:   2017-09-17 19:46:00
 tags: ["lamb","fakeaway"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Growing up I held donner kebab is the lowest of regards, writing it off as the worst quality meat and something I'd never eat.  Indeed right though university I managed to avoid it, right up until a couple of years ago when I had a bite or two on top of a pizza (there's another story) in Middlebough.  It was delicious.  Because of it's very disctinctive smell it's banned in our house, so a forbidden treat to be eaten on the back door step, more likely after a stressful week than five pints.

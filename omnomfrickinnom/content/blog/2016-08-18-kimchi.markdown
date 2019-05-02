@@ -4,6 +4,7 @@ title:  "Kimchi miso soupy bowls"
 date:   2016-08-18 20:45:30
 tags: ["kimchi","miso","comfort"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Recently I've been really craving kimchi, the wierd fermented spicy cabbage.  It's an aquired tste, but once aquired it seems to go with anything.  

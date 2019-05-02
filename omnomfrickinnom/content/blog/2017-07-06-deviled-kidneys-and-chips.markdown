@@ -4,6 +4,7 @@ title:  "Deviled kidneys and chips"
 date:   2017-07-06 19:57:00
 tags: ["kidney","offal"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Every so often my [G&S Organics](http://www.thechristmasfarm.co.uk/) meatbox comes with a secret message on the top - CC.  It's my twitter handle, but it's also a goodd sign that Lee has popped me something exta in, knowing we're not a household which only eats steak.  This mornings box carried justsuch a label and inside... lamb kidneys and a heart!  I've been [promising myself that I will eat more offal](http://amzn.to/2uPt4hs) recently, great timing.

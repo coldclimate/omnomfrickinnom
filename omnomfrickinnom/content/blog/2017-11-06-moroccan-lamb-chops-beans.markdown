@@ -4,6 +4,7 @@ title:  "Lamb chops with moroccan spices and beans"
 date:   2017-11-05 20:13:00
 tags: ["lamb","quick"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love a quick super and lamb chops are a great starting point.  Having a big jar of olives and sundried tomatoes in the fridge is aso a good starter. The packets of quick cook grains could be replaced with rice or couscous but the chewy nutty grains are good.

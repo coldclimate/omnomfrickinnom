@@ -4,6 +4,7 @@ title:  "Glazed lamb and a Greek-like-salad"
 date:   2017-08-13 19:46:00
 tags: ["lamb"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love a bit of quick grilled lamb and a marinade and glaze never goes too far wrong.  Despite lamb being sweet I think it benefits from a slightly sweetened glazed, however if you grill lamb hot and fast (as it benefits from) sugars in the glaze burn, so I decided to try adding it at the very end of cooking.

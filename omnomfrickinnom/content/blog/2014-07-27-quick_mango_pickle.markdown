@@ -4,6 +4,7 @@ title:  "Quick pickle to use up an over ripe mango"
 date:   2014-07-27 19:22:52
 tags: ["pickle","economic"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I hate letting things go to waste, and so discovering a bruised and over ripe mango plus a few past their best chillis in the veg rack was a little upsetting, however it was an excuse to make some mango pickle.  It's a fresh pickle so won't keep long, but is super tasty.

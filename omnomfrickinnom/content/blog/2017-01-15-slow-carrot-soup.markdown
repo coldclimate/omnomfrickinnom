@@ -4,6 +4,7 @@ title:  "Slow cooker carrot soup"
 date:   2017-01-17 19:00:30
 tags: ["soup"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I love carrot soup, and it's super easy to make.  This was an experiment in cooking out the veg for an hour, almost roasting them, so that there were carmelised bits and a deep, rich flavour.  There's no stock in thi either, it didn't need it

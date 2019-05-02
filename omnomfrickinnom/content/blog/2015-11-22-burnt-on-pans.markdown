@@ -4,6 +4,7 @@ title:  "A note on burnt on pans"
 date:   2015-11-22 16:34:12
 tags: ["pans"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Because I'm a lazy and inattentive cook I quite often leave pans on a bit high and food sticks to the bottom.  Your nose will tell you before anything else but there's something about the way the food separates and bubbles on the very surface that when you see it you just know, "thats stuck".  Occasionally I go to stir a pan and that first drag across the bottom causes a rapid bubbling up as the insulating burnt layer is rubbed away and the hot food above it crashes onto the hot pan bottom.  Stuck on. Burnt.  They should all be bad things right?  I don't agree.  In a few circumstances, it's a great thing.

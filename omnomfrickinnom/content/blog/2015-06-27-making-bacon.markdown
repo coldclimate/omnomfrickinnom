@@ -4,6 +4,7 @@ title:  "Making bacon"
 date:   2015-06-27 21:10:12
 tags: ["homesteading","bacon"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 I got given a bacon making kits for Christmas.  A quick word with [G&S Organics](http://www.gandsorganics.com/) secured me a substantial piece of belly pork (about 5lbs).  This is mostly pictures because the process was very simple.

@@ -4,6 +4,7 @@ title:  "Sour Thai Style Beef"
 date:   2015-11-11 17:58:12
 tags: ["thai","beef"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 This was a quick dish that I could stick on to cook whilst I did a million and one things one evening.  It's a bastardization of flavours and cuisines, but it's tasty in your face. 

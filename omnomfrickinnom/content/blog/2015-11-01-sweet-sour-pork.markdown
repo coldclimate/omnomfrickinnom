@@ -4,6 +4,7 @@ title:  "Sweet and sour pork"
 date:   2015-11-01 17:58:12
 tags: ["chinese","pork"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 When I first got interested in cooking in the early 90s I was living in Cumbria, there was not a lot of cultural diversity in local food.  For some reason I got a bit obsessed within Chinese sweet and sour and (much to the chagrin of my parents I imagine) I messed on with soy, ketchup and sherry, producing endless dishes of meat cooked in goo.  It was one of the first things I ever ordered from a takeaway after I left home only to be disappointed but the large chunks of doughy batter in neon coloured over sweet goop not much better than my efforts.

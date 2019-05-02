@@ -4,6 +4,7 @@ title:  "Cheating Chinese lemon Chicken"
 date:   2015-04-18 19:22:52
 tags: ["takeaway","chicken","chinese"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 A while ago I made a cheating version of one of my favourite Chinese takeaway dishes, [orange chicken]({% post_url 2014-11-11-chinese-orange-chicken %}).  Last week I made a lemon version and it was even better!  Follow the orange chicken instructions but use the following for the pour over/boil sauce.

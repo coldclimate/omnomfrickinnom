@@ -4,6 +4,7 @@ title:  "Lamb stew"
 date:   2017-05-15 21:25:00
 tags: ["lamb"] 
 author: oli
+image: "/images/blog/easter"
 ---
 
 In this week's rather excellent [Our Man Inside](http://documentally.com/newsletter/) our man [Documentally](http://documentally.com/) mentioned hit last meal would include [Iraqi Lamb and Eggplant Stew](https://www.keyingredient.com/recipes/2073565035/iraqi-lamb-and-eggplant-stew-with-pitas/?locale=en_US) which sounded like a great use for some lamb neck steaks that were in our meatbox this month.  Sadly, after looking though the kitchen cupboards I didn't have half the ingrediants, so I improvised.

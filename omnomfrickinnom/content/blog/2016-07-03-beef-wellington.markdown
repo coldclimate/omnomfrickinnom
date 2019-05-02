@@ -4,6 +4,7 @@ title:  "Beef Wellington"
 date:   2016-07-03 18:47:30
 tags: ["beef", "posh"]
 author: oli
+image: "/images/blog/easter"
 ---
 
 Beef wellington is one of those things which looks amazing, combines some expensive ingrediants but it surprisingly easy.  The trick to it is manage to cook the pastry whilst keep keeping the beef rare.  
