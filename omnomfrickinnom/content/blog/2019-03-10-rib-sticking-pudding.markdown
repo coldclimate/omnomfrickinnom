@@ -3,7 +3,7 @@ layout: post
 title:  "Rib sticking using up pudding for a cold day"
 date:   2019-03-10 18:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/rib-sticking-use-up-pudding/rib-sticking-use-up-pudding-7.jpg"
 ---
 
 The weather turned cold and miserable today, so I decided to kill four birds with one stone:

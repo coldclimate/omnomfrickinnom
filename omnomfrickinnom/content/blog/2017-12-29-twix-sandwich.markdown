@@ -4,7 +4,7 @@ title:  "Twix Sandwich"
 date:   2017-12-29 13:39:00
 tags: ["twix","toastie"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/twix_sandwich/twix_sandwich_04.jpg"
 ---
 
 It all started with Facebook's vile bonhomie "What's on your mind?" prompt, leading me to write "What's on my mind? Whether a Twix sandwich is feasible, and if so, legal?" and so, this delicious nightmare was born.

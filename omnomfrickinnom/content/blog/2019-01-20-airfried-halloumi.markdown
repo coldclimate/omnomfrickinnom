@@ -3,7 +3,7 @@ layout: post
 title:  "Airfried Halloumi"
 date:   2019-01-20 19:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/airfried-halloumi-02.jpg"
 ---
 
 After seeing deep fried halloumi on TV this week, I wondered whether it could be airfried.  Good news, it can!

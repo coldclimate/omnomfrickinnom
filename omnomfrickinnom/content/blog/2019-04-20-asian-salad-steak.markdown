@@ -3,7 +3,7 @@ layout: post
 title:  "Rare steak and asian flavours noodle salad"
 date:   2019-04-20 17:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/asian-salad-steak/asian-salad-steak-3.jpg"
 ---
 
 A super quick tea with lots colour, crunch and spice.  The rare steak melts in the mouth

@@ -3,7 +3,7 @@ layout: post
 title:  "Red roast sausages"
 date:   2019-02-03 18:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/red-roast-sausages/red-roast-sausages-6.jpg"
 ---
 
 This was inspired by a Nigel Slater recipe that involved a lot of standing at the stove and stirring.  Being a lazy and busy man, I shoved it all in the oven and relied on a bit of vigerous stirring at the end.  Once again, a really good non-stick roasting tin is the way forward here.

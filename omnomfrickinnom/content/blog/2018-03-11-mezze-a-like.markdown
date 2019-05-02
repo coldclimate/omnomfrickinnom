@@ -4,7 +4,7 @@ title:  "A lazy Sunday meze-a-like"
 date:   2018-03-11 16:49:00
 tags: ["lamb"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/mezze-a-like/mezze-a-like-05.jpg"
 ---
 
 I love meals which can be prepared in advance and with a little prep work come together like magic at the end.  This is one where everything benefits from a little marinading time.

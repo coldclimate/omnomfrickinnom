@@ -4,7 +4,7 @@ title:  "Improvised squash curry"
 date:   2018-11-04 18:35:00
 tags: ["comfort food", "curry", "squash"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/squash_curry_2.jpg"
 ---
 
 It's the time of year (the week really) when squashes and pumpkins are super discounted.  I've generally no idea what to do with them, but I pinched the method that HelloFresh often uses, roasting in the oven and then saucing.  This was mostly having a use up of other veg that had seen better days.

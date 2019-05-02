@@ -3,7 +3,7 @@ layout: post
 title:  "Spicy dry fried beef with roast tomato salsa taco-a-likes"
 date:   2019-03-17 15:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/dry-beef-roast-salsa-tacos-a-likes.jpg"
 ---
 
 Another using up meal which turned out really well.  I firmly believe that food you put togehter with your hands at the table is always the most fun, this being no exception.

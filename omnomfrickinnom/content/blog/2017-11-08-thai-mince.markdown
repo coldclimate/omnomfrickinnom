@@ -4,7 +4,7 @@ title:  "Thai pork mince"
 date:   2017-11-08 19:52:00
 tags: ["pork","thai"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/thai_mince.jpg"
 ---
 
 There's something very satifying about eating spicy food scooped up in a leaf.  This is 10 mins from start to face.

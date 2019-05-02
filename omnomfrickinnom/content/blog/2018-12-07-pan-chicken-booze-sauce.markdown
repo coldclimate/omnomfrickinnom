@@ -3,7 +3,7 @@ layout: post
 title:  "Pan fried meat with rich sauce"
 date:   2018-12-07 19:10:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pan-chicken-booze-sauce/pan-chicken-booze-sauce-04.jpg"
 ---
 
 There's nothing cleer here, in fact it's all a bit 70s French, but it is delicious.  If you want a cleaner finish, skip the onions.  For a richer one, finish with a drop of single cream.  I used a turkey breast because I love the lean, dense meat, but a chicken breast, a pork fillet or maybe even a piece of beef would work just as well.  For those who like mashed potato I'd guess this would go well  Add a leafy green veg (savoy cabbage this time of year) if you must be an adult.

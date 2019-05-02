@@ -3,7 +3,7 @@ layout: post
 title:  "Jerk spiced beef stew"
 date:   2019-04-13 17:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/jerk-beef-stew/jerk-beef-stew-3.jpg"
 ---
 
 For April is still unfeasibly cold and grey, so I fancied some sunny flavours.  Nothing tastes more like the sun that jerk with is sweat chilli, bright thyme and fragrent spices.  Sadly I didn't have any pork or chicken in so I tried the same sorts of flavours with stewing beef.  Success, though surprisingly hot.

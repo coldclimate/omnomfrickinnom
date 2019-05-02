@@ -4,7 +4,7 @@ title:  "Double salmon en croute"
 date:   2017-09-22 19:46:00
 tags: ["salmon","poshtea"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/double-salmon-encroute/double-salmon-encroute-02.jpg"
 ---
 
 Years ago, possibly on Junior Masterchef, I remember seeing a lass cook a dish with both smoked salmon and fresh.  My mum was horrified (what a waste!) and I was horriffied (I hated both ingrediants).  Luckily if you roll forward the clock some 20 years (at a guess) both those things will have changed, so when I remembered we'd got the end of a large pack of smoked salmon and wanted to cook something a bit more fancy than normal, it sprang back to mind.

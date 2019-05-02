@@ -3,7 +3,7 @@ layout: post
 title:  "Slow cooking beef with dumplings"
 date:   2019-01-14 18:35:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/slow-beef-dumplings/slow-beef-dumplings-5.jpg"
 ---
 
 Yep, it's still winter, so it's still legally required to eat stew once a week.  Shin beef always slow cooks brilliantly but the probelm is you can't do dumplings in the slowcooker (I've not tried it yet anyway), thus this was slow cooked for 8 hours, then finished in the oven.

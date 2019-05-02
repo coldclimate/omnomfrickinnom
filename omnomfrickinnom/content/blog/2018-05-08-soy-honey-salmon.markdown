@@ -4,7 +4,7 @@ title:  "Sticky soy honey salmon"
 date:   2018-05-08 20:32:00
 tags: ["fish","asian"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/soy-honey-salmon/soy-honey-salmon_03.jpg"
 ---
 
 I have a bit of a thing for sticky sweet meat dishes, and so this mid-week dinner was a bit of a guilty plesure.  The poached bak choi is a good foil to the rich fish.

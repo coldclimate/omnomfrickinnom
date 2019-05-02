@@ -3,7 +3,7 @@ layout: post
 title:  "A quick and tasty tart"
 date:   2019-01-05 20:42:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/quick-easy-tasty-pie/quick-easy-tasty-pie-6.jpg"
 ---
 
 Starting the year as I mean to go on, this is quick and tasty.  Also it uses my awesome non-tick roasting tin for nearly no washing up.

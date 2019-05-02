@@ -4,7 +4,7 @@ title:  "Better fried chicken"
 date:   2018-05-29 20:44:00
 tags: ["fried chicken"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/better-fried-chicken/better-fried-chicken-03.jpg"
 ---
 
 Fried chicken is something I obsess a bit about.  I make it rarely (because it's deep fried), so I try to make the most of it.  Recently I read a Serious Eats article for [Extra-Crispy Fried Chicken With Caramelized Honey and Spice](https://www.seriouseats.com/recipes/2018/05/extra-crispy-fried-chicken-with-caramelized-honey-and-spice.html) which talked about cooking at a lower temperature but avoiding greasiness and wanted to try it (skipping the honey bits).

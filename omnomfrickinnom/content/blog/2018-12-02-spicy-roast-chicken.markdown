@@ -3,7 +3,7 @@ layout: post
 title:  "Spicy roast chicken"
 date:   2018-12-02 19:10:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/spicy-baked-chicken/spicy-baked-chicken_03.jpg"
 ---
 
 Marinading chicken pieces and baking them in the oven is super simple and delicious.  I always seem to have lots of yoghurt marinade left and there's nothing you can do with it because it's full of raw chicken.  I hate waste, so I thought I'd try double dipping, recoating the pieces of chicken half way through cooking.  The result was a really thick and spicy finish.

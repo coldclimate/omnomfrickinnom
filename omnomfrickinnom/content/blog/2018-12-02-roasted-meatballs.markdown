@@ -4,7 +4,7 @@ title:  "Meatballs with roasted tomato sauce"
 date:   2018-12-02 15:35:00
 tags: ["pasta", "tomato", "beef"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/roasted_meatballs/roasted_meatballs_04.jpg"
 ---
 
 [Perfect Plates in 5 Ingredients by John Whaite](https://amzn.to/2zFuz6L) is a tremendous read and really quite an inspiring book.  This dish was very much inspired by it, with a bit more garlic.

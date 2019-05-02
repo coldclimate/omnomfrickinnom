@@ -4,7 +4,7 @@ title:  "Quickie mackerel pate"
 date:   2018-01-14 15:36:00
 tags: ["mackerel","pate"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/mackrel_pate.jpg"
 ---
 
 I love mackerel pate.  It's super quick to make, deeply savoury and satifying.  If the mackrel, lemon and cremefresh are all fridge cold you can serve it straight away.

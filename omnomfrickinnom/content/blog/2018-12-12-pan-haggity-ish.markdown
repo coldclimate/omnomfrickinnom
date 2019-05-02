@@ -3,7 +3,7 @@ layout: post
 title:  "Pan Haggityish"
 date:   2018-12-12 19:42:00
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pan_haggityish/pan_haggityish_04.jpg"
 ---
 
 
