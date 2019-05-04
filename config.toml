@@ -16,7 +16,7 @@ publishDir = "docs"
 
 [params.author]
   name = "Oli"
-  thumbnail = "/images/author.png"
+  thumbnail = "/images/author.jpg"
   description = "Resident eejit.  Radio4, kitchen dancing, owning recipe books to read not follow"
 
 [params.index]
