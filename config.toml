@@ -39,13 +39,13 @@ Currently trying to get this blog running, still don't know what the blog will b
   #instagram = "<username>"
 
 ## Main Menu
-[[menu.main]]
-    name = "Blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 200
-    url = "/static/about"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog"
+#[[menu.main]]
+#    name = "About"
+#    identifier = "about"
+#    weight = 200
+#    url = "/static/about"
