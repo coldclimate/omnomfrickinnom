@@ -4,7 +4,7 @@ title:  "Cranberry chicken"
 date:   2015-12-17 20:30:30
 tags: ["chicken", "xmas"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/cranberry_chicken/cranberry_chicken_2.jpg"
 ---
 
 A good way to use up Christmas trimmings or, in my case, christmas party leftovers and bargins to be had hen shopping.

@@ -4,7 +4,7 @@ title:  "Crusty roast mutton"
 date:   2015-10-04 19:20:12
 tags: ["mutton","roast"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/crusty-roast-mutton/crusty-roast-mutton-5.jpg"
 ---
 
 Having a freezer clear out we were left with a 2kg chunk of mutton, prime for pot roasting and indeed just roasting.  Muttons got a storing flavor than lamb and needs something with some punch.  This herbs, salty crust is great.

@@ -4,7 +4,7 @@ title:  "Spanish Fish"
 date:   2016-07-06 18:47:30
 tags: ["fish","spanish"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/spanish-fish-02.jpg"
 ---
 
 A little while ago the [Two Hungry Boys](http://twohungryboys.uk/) mentioned [Perfect Plates in 5 Ingredients by John Whaite](http://amzn.to/29jujvw) and I impulse bought a copy.  It's excellent, and a lovely read.  This is loosely based on a recipe in it I stumbled on last Sunday morning, but I think beneftted with the extra bite of the harissa paste (I'd opened up one of those small tins and now need to use it up)

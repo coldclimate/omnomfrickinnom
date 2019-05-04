@@ -4,7 +4,7 @@ title:  "Homemade chicken kebab"
 date:   2016-01-22 21:34:30
 tags: ["chicken", "kebab"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/kebab.jpg"
 ---
 
 Kebabs have a bad name in the UK and looking at the pavement detritus on a Sunday morning, I'd agree. However a good kebab is a think of wonder, and one of the things which makes it great is a good bread rather than a poor pita.  I buy my breads from an Asian supermarket on my way home, still warm, because I couldn't make one as good. I used a ridged cast iron pan because I could get it hot and then put it under the grill, cooking the chicken quickly so that it stayed juicy.

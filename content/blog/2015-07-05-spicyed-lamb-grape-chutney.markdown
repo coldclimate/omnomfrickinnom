@@ -4,7 +4,7 @@ title:  "Spiced roast lamb with a fresh grape chutney"
 date:   2015-07-05 19:20:12
 tags: ["lamb","spicy","bbq"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/lamb-grape/lamb4.jpg"
 ---
 
 Another chunk of lamb, spiced, blackened and then left to rest.  This was a leg of lamb I boned out and flattened.  The grape chutney was a use up of some past their best grapes, I've been rather facinated with "fresh pickles" of ate.  They don't keep, but they are delicious. 

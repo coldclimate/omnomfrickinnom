@@ -4,7 +4,7 @@ title:  "Pinked Gin"
 date:   2016-01-21 19:01:30
 tags: ["gin"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pinked_gin.jpg"
 ---
 
 I love a gin martini and I love sloe gin (of which I have an excess), but sometimes sloe gin needs that extra kick of strong alcohol.  Step forth The Pinked Gin

@@ -4,7 +4,7 @@ title:  "Chicken and Chorizo salad with fried chicken skin coutons"
 date:   2015-09-23 21:12:12
 tags: ["chicken","salad"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/chicken-chorizo/chicken-chorizo-6.jpg"
 ---
 
 A week or so ago my friends [the two hungry boys](https://twitter.com/twohungryboys/status/643487361075122177) posted a salad with two different fried meats.  This sounds excellent.  I doubled up on the greenary and added a lemony dressing and... fried chicken skin as coutons and roast potatoes for a gluten free tea with a friend.  So good.

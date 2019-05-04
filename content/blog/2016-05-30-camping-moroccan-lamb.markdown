@@ -4,7 +4,7 @@ title:  "Camping food: Moroccan Lamb"
 date:   2016-05-31 18:43:30
 tags: ["camping","lamb"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/moroccan-lamb/moroccan-lamb-5.jpg"
 ---
 
 I'm just back from driving round [The North Coat 500](https://www.northcoast500.com) whih was tremendous fun.  Knowing I was camping for a few days I wanted to take some food with me but everything I read in "quick ccampfire meal" type blog posts involved boiling huge amounts of water.  It's tough to heat water because of it's high specific heat capacity and I only have a tiny stove so I wanted to find things I could prepare in advance which didn't involve boiling the ocean.
@@ -38,5 +38,3 @@ Spicy, warming, the oil of the olives and the lamb is not greasy surprisingly.
 ![All in](/images/blog/moroccan-lamb/moroccan-lamb-3.jpg)
 ![Bagged (note stock pot in bag)](/images/blog/moroccan-lamb/moroccan-lamb-4.jpg)
 ![Cooking](/images/blog/moroccan-lamb/moroccan-lamb-5.jpg)
-
-

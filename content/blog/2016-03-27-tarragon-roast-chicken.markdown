@@ -4,7 +4,7 @@ title:  "Rich tarragon roast chicken"
 date:   2016-03-27 17:21:30
 tags: ["chicken","dinner","cream"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/tarragon-chicken.jpg"
 ---
 
 I didn't manage to get any photos of the cooking process here sadly, and only just remembered to get a picture before it all vanished. I mentioed this recipe on here years ago, but have never got round to writing it up.

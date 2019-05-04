@@ -4,7 +4,7 @@ title:  "Barbequed watermelon, feta and mint salad"
 date:   2015-07-21 20:13:12
 tags: ["salad","bbq"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/melon-mint-feta.jpg"
 ---
 
 This seems really odd but was really good and an excellent way to use the heat when you put the BBQ on.
@@ -32,5 +32,3 @@ This seems really odd but was really good and an excellent way to use the heat w
 Sweet and savoury.  The melon is surprisingly meaty.  Seen here with some fast and hard grilled lamb.
 
 ![Finished result](/images/blog/melon-mint-feta.jpg)
-
-

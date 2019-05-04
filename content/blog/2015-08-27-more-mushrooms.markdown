@@ -4,7 +4,7 @@ title:  "More Mushrooms"
 date:   2015-08-27 21:37:12
 tags: ["mushrooms"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/more_mushrooms/more_mushrooms_5.jpg"
 ---
 
 After [my last mushroom post]({% post_url 2015-08-20-mushrooms %}) by old mate Ali got in touch
@@ -57,7 +57,3 @@ Tarragon is always too punchy and bitter when you eat it raw but a little cookin
 ![Pre cream](/images/blog/more_mushrooms/more_mushrooms_3.jpg)
 ![Post cream](/images/blog/more_mushrooms/more_mushrooms_4.jpg)
 ![Finished](/images/blog/more_mushrooms/more_mushrooms_5.jpg)
-
-
-
-

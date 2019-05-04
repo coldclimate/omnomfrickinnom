@@ -4,6 +4,7 @@ title:  "Sushi"
 date:   2016-02-07 17:17:30
 tags: ["sushi"]  
 author: Awesome Lily
+image: /images/blog/sushi.jpg
 ---
 
 Hello! I am an interloper!

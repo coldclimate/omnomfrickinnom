@@ -4,7 +4,7 @@ title:  "WeightWatcher Friendly Salmon En Croute"
 date:   2016-10-17 20:00:30
 tags: ["salmon","weightwatchers"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/weightwatchers-friendly-salmon-en-croute.jpg"
 ---
 
 After an epic roadtrip round the States (more on this another day) I'm back on Weightwatchers and tryng to keep my daily calorie intake down.  Filo pastry is an excellent WW "cheat" - it's way less points than other pastry and yet crunchy.  Using Philadelphia cheese is another sneaky cheat too.  Green beans with carmelized onions are something I had in Harlem and am trying to reproduce (without the huge amounts of butter).

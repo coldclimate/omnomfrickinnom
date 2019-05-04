@@ -4,7 +4,7 @@ title:  "A tale of two pizza toppings"
 date:   2015-08-12 19:26:12
 tags: ["pizza"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pizza/pizza-6.jpg"
 ---
 
 I have a soft spot for pizza (other than my tummy) and probably always will have.  From the brown self-raising scone mix bases topped with mature cheddar and slices of tomato of my youth (mum desperately trying to sneak in some whole grains), past the deep cheesy messes from the only takeaway place in town as a teenager to take in the delights of first thin crust real pizza in Rome and then deep pan Chicago style pizza eaten in down town Chicago (whilst hunting for hotdogs as it happens) through to what I honestly believe is the best pizza I've eaten in years at [Cal's Own](http://www.calsown.co.uk/), I'll never stop loving the bread and cheese.  At it's worst it's a greasy mess when drunk, at it's finest it's a perfect meal from a few ingredients.

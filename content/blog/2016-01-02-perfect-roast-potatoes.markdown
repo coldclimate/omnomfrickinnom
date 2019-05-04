@@ -4,7 +4,7 @@ title:  "Perfect roast potatoes"
 date:   2016-01-02 20:31:30
 tags: ["roast","potatoes"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/perfect-roasties/perfect-roasties-7.jpg"
 ---
 
 Perfect is a big claim, but these are pretty damned good.  I've pinched a bunch of ideas from other people over time I've no idea who but probably my gran, Nigel Slater and Nigella.  If you can use the fat off a roast instead of the sunflower all the better.  Same tin - even more better.

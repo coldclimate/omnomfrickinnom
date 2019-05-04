@@ -4,7 +4,7 @@ title:  "Baked lemon chicken"
 date:   2016-06-29 19:24:30
 tags: ["chicken", "chinese"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/baked-lemon-chicken/baked-lemon-chicken-02.jpg"
 ---
 
 I love takeaway Chinese lemon chicken so much.  Even when it's bad, it's good.  I've already blogged a fakeaway version already using chicken being quickly deep fried, but this version is very easy on the weight watchers points, and that's pretty important to me right now.  The coating criss up inn the oven, not as much as deep frying but with enough batter to hold the sauce

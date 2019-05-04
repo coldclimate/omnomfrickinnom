@@ -4,7 +4,7 @@ title:  "Moroccan Livers"
 date:   2016-03-16 19:33:30
 tags: ["liver","moroccan"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/moroccan-liver/moroccan-liver-4.jpg"
 ---
 
 I don' like liver, until I crave it, so when I read an excellent looking recipe for [a Lebanese liver dish](http://www.louchegastronomique.com/2016/chicken-livers-with-pomegranate-molasses-sawda-djej/) a few days ago I was suddenly craving it hard.  Irritatingly I couldn't find the recipe as I was walking home to look up the ingredients, and I misremembered it as being Moroccan, so set about making it up as I went along.

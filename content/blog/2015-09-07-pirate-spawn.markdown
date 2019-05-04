@@ -4,7 +4,7 @@ title:  "Pirate Spawn"
 date:   2015-09-07 19:47:12
 tags: ["cordial","rum"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pirate-spawn.jpg"
 ---
 
 Years ago I shared a flat with a workmate called Darius, and one night we got very drunk of cocktails of rum, ginger beer and lime.  We called them "Pirate Juice Yarrr!" (complete with "waving tankard aloft" hand gesture).  In our drunken stupour we decided we'd quit our jobs for the summer and travel the festivals selling Pirate Juice Yarrrr! and whilst not making our fortunes having an amazing summer.  We should have done it too, because I resigned a year later, broken, grumpy and without having spent a summer having an amazing time.  Before you point it out, yes, we didn't known we'd reinvented the Dark and Stormy but hey, we were young(er) and foolish.

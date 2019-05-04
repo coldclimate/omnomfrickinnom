@@ -4,7 +4,7 @@ title:  "Warm chicken and tarragon salad"
 date:   2015-06-29 21:10:12
 tags: ["salad","summer","chicken"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/tarragon-chicken/chicken6.jpg"
 ---
 
 Years ago I baked chicken pieces in cream, tarragon and carmelised onions for a dinner party. It was excellent, but very rich.  This is a lighter alternative, perfect for a summer evening tea.

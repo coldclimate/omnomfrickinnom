@@ -4,7 +4,7 @@ title:  "Sour Thai Style Beef"
 date:   2015-11-11 17:58:12
 tags: ["thai","beef"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/soured-thai-beef.jpg"
 ---
 
 This was a quick dish that I could stick on to cook whilst I did a million and one things one evening.  It's a bastardization of flavours and cuisines, but it's tasty in your face. 
@@ -41,7 +41,3 @@ Sharp, pungent, powerful and tremendous in things.  You'd not want a whole plate
 Lack of process photos because I wasn't going to write this up
 
 ![Finished product](/images/blog/soured-thai-beef.jpg)
-
-
-
-

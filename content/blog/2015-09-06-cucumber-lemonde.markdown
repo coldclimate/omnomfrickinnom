@@ -4,7 +4,7 @@ title:  "Super green cucumber lemonade"
 date:   2015-09-05 21:37:12
 tags: ["cordial","gin"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/cucumber-lemonade/cucumber-lemonade-6.jpg"
 ---
 
 I saw this on [Smitten Kitchen](http://smittenkitchen.com/blog/2014/09/cucumber-lemonade/) a few years ago and was reminded about it this week (a retweet I think).  The original recipe discards the skins of the cucumbers to create a much subtler colour and flavour.  I'm not a subtle person, so I included the lot.  I also made a cordial rather than straight lemonade.  It mixes well with soda water with a roast chicken Sunday lunch and I imagine it will be brilliant with gin and ice.
@@ -38,7 +38,3 @@ I saw this on [Smitten Kitchen](http://smittenkitchen.com/blog/2014/09/cucumber-
 ![Before dissolvingg](/images/blog/cucumber-lemonade/cucumber-lemonade-4.jpg)
 ![The final result](/images/blog/cucumber-lemonade/cucumber-lemonade-5.jpg)
 ![Perfect with lunch](/images/blog/cucumber-lemonade/cucumber-lemonade-6.jpg)
-
-
-
-

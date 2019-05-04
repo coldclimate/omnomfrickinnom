@@ -4,7 +4,7 @@ title:  "Beef braised with French flavours"
 date:   2015-11-29 18:27:12
 tags: ["french","beef"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/french-beef/french-beef-3.jpg"
 ---
 
 Braising steak is sometimes a difficult thing to use.  You can use it in stir-frys etc but what it needs it a bit of slow cook to help break down the fibres.  Braising for an hour and then resting results in tender and delicious chunks of meat and it perfect for reducing and thickening the sauce.

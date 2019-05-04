@@ -4,7 +4,7 @@ title:  "Crispy sticky deep fried beef"
 date:   2015-07-21 21:13:12
 tags: ["chinese","beef"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/crispy-beef/crispy-beef-7.jpg"
 ---
 
 Years ago I had crispy ginger beef in a restarunt in Vancouver.  I've never found anything quite as good, but I've an idea how to reproduce the beef now. This was very dark, sweet, morish.

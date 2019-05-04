@@ -4,7 +4,7 @@ title:  "Blue cheese and mango pickle crumpets"
 date:   2016-01-02 21:31:30
 tags: ["cheese","crumpets"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/blue-cheese-mango-crumpets.jpg"
 ---
 
 I first had blue cheese and mango pickle in a sandwich in the much missed Tony & Frankies.  Good in a sandwich, better on a crumpet.  Great way to up end of cheese from Christmas too

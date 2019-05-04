@@ -4,7 +4,7 @@ title:  "Sausage Rolls"
 date:   2016-06-12 19:24:30
 tags: ["sausage"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/sausage-roll/sausage-roll-6.jpg"
 ---
 
 I love a good sausage roll.  Every so often I buy a cold one from a shop and they're always dissapointing.  With pre-made pastry they're stupidly easy to make too.  I added a bunch of thyme and black pepper to pep up some slightly underwelming sausages

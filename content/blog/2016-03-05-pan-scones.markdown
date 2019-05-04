@@ -4,7 +4,7 @@ title:  "Pan scones"
 date:   2016-03-05 16:42:30
 tags: ["scones","weightwatchers"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pan-scones-2.jpg"
 ---
 
 I've been craving scones and baked things.  Sadly they're not great for weightwatchers points.  Today I stumbled upon [cheese gridle scones](https://tamarindandthyme.wordpress.com/2016/03/03/cheese-girdle-scones/) on the excellent food blog [tamarindandthyme](https://tamarindandthyme.wordpress.com/2016/03/03/cheese-girdle-scones/).  I decided to have a go a making something which ticked all the boxes for me, but cost me less points, but removing the cheese and butter.

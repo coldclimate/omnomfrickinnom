@@ -4,7 +4,7 @@ title:  "Weightwatchers friendly Sweet and Sour Prawns"
 date:   2016-02-15 18:41:30
 tags: ["chinese","prawns"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/sweet_and_sour_prawns/sweet_and_sour_prawns_4.jpg"
 ---
 
 As I started writing this up I realised I'd already written up [sweet and sour pork]({% post_url 2015-11-01-sweet-sour-pork %}) which is pretty much identical.  This one however is much lower in fat and thus far less WeightWatchers points (which I'm counting at the moment.)

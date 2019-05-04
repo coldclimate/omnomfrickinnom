@@ -4,7 +4,7 @@ title:  "3 minute stir fry"
 date:   2016-07-13 20:24:30
 tags: ["stir-fry"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/3min.jpg"
 ---
 
 I completely forgot to take a photo before this was basically all eatten, sorry about that. This went from ingrediants to IN MY FACE in less than 5 minutes, including plating up and contementation.

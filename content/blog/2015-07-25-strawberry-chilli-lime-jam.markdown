@@ -4,7 +4,7 @@ title:  "Strawberry jam with chilli and lime"
 date:   2015-07-25 13:05:12
 tags: ["fruit","jam","strawberry","chilli"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/strawberry/strawberry-3.jpg"
 ---
 
 It's the time of year when you get lots of discounted soft fruit in the supermarkets which should be labeled "eat today or watch me rot".  This was how I ended up with several huge punnets of English strawberries which I've munch though this week.  As they were reaching the end of their life span it was time to get them used up in a "fresh jam", much like a "fresh pickle" it's less a preserve and more something you make and eat quickly

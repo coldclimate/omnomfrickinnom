@@ -4,7 +4,7 @@ title:  "Baked red cabbage"
 date:   2015-12-13 20:30:30
 tags: ["winter","sidedish","cabbage"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/baked_red_cabbage/baked_red_cabbage_4.jpg"
 ---
 
 Snow started falling as I started cooking this, which is pretty fitting. It's gently spiced, slightly sticky, sweeter than it should be and unctuous is exactly the right way.  Apart from the chopping it's dead easy (red cabbages are hard and you'll need a very sharp knife).  It was also a chance to christen my new [Le Creuset Classic Cast Iron Round Casserole Dish](http://amzn.to/1QdlVzW) (£100 off in an Amazon sale!).   It does really well with roasted meats, sausages or (my guilty pleasure) eaten cold front he pan with a pan just before bed.

@@ -4,7 +4,7 @@ title:  "Simple savory pasta"
 date:   2015-12-11 20:30:30
 tags: ["pasta","mushrooms","prawns"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/creamy_pasta/creamy_pasta_2.jpg"
 ---
 
 Quick tea, very similar to the [mushrooms on toast](mushrooms) but with added seafood.  Lemon peel for flavour, lemon juice to cut the grease.

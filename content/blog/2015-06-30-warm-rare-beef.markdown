@@ -4,7 +4,7 @@ title:  "Warm rare beef salad"
 date:   2015-06-30 21:57:12
 tags: ["salad","summer","beef","bbq"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/rare-beef/beef6.jpg"
 ---
 
 Another warm salad this evening, this time a piece of topside done on the BBQ.  Topside would probably better slow roasted but a hot short grill and a decent rest leaves it juicy and delicious.  I tried using Matso crackers as a substitute for croutons.  This was a mistake. 
@@ -51,4 +51,3 @@ Creamy wihtout being too heavy.  Lemon offsets the grease of the chicken (no ext
 ![Just finishingg](/images/blog/rare-beef/beef4.jpg)
 ![Wrapped and resting](/images/blog/rare-beef/beef5.jpg)
 ![Ready to get eaten](/images/blog/rare-beef/beef6.jpg)
-

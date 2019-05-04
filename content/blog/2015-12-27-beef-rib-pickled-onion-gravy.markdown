@@ -4,7 +4,7 @@ title:  "Roast rib of beef with a pickled onion cream gravy"
 date:   2015-12-27 17:14:30
 tags: ["roast","beef"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/beef-rib-pickled-onion-gravy/beef-rib-pickled-onion-gravy-8.jpg"
 ---
 
 I love a good roast but it's a tricky bit of timing sometimes.  Roast potatoes take ages, rare meat  doesn't and making gravy can only happen after everything is ready to go, what a nightmare.  This was also a chance to experiment with something I thought* would work - roasted pickled onions.

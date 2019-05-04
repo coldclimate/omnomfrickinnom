@@ -4,7 +4,7 @@ title:  "Deep fried pork chop"
 date:   2016-01-14 19:02:30
 tags: ["pork","deep","fried"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/deep-fried-pork-chop/deep-fried-pork-chop-5.jpg"
 ---
 
 Years ago I saw a South American dish on TV which involved a double chop (side to side, not 2 bones thick) with the strip of belly attached that was marinades in garlic and other things then deep fried.  It looked amazing but I wasn't really paying attention and I've never been able to find it again.  However in last months meat box there was a stonking pork chop, so I cracked on.

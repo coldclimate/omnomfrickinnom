@@ -4,7 +4,7 @@ title:  "Haggis, rice and spice"
 date:   2016-02-01 19:27:30
 tags: ["haggis","one bowl"]  
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/haggis.jpg"
 ---
 
 I follow and love several American food blogs, but one of the things that gets right under my skin is the trite banging together of cultures in one dish. "Mexican lasagne", "burrito with Thai lime butter" and a million others, they just, to use a lovely geordie phrase, boil my piss.

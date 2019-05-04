@@ -4,7 +4,7 @@ title:  "Hipster pot noodles"
 date:   2015-09-08 19:47:12
 tags: ["lunch","noodles"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/hipster-potnoodle/hipster-potnoodle-4.jpg"
 ---
 
 This idea was everywhere a few years ago, especially on the American food blogs. I didn't ever get round to having a go (as a packed lunch) but given how much noodly soups feature in our house, it was only a matter of time.  Luckily at work there are hot water dispensers everywhere so come lunchtime I just added hot water and everything was go. 

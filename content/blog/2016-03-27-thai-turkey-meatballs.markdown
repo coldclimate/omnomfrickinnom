@@ -4,7 +4,7 @@ title:  "Thai turkey meatballs"
 date:   2016-03-29 17:21:30
 tags: ["turkey" ,"thai"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/thai-turkey-meatballs-2.jpg"
 ---
 
 I love turkey.  It's a great meat, seemingly only eaten at Christmas, but it's low fat, super tasty and often on offer.  I'm planning on eating more of it this year and although tasty in itself it's great at soaking up flavours.  The dry frying here leads to a great favour and finish.  The dried peanutbutter is a strange ingrediant and could be replaced with normal peanut butter, but as PB2 is far lower in fat it's worth experimenting with.
