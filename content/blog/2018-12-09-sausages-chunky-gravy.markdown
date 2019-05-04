@@ -6,7 +6,8 @@ author: oli
 image: "/images/blog/sausages-chunky-gravy/sausages-chunky-gravy-05.jpg"
 ---
 
-It's that time of the year (that most wonderful time of the year) where you can completely justify eating comforting food. 
+It's that time of the year (that most wonderful time of the year) where you can completely justify eating comforting food.
+
 
 ## You will need
 

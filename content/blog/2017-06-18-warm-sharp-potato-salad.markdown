@@ -4,7 +4,7 @@ title:  "Warm and sharp potato salad"
 date:   2017-06-18 18:25:00
 tags: ["sidedish","potato"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/warm-sharp-potato-salad/warm-sharp-potato-salad-03.jpg"
 ---
 
 One of the fringe benefits of eating a lot of BBQ in the States was eating a ot of BBQ side dishes.  It was facinating how many variations on potato salad there were, from the mayo coated gloop at one end to the warm, sharp, vinegar laden jobs at the other.  The best I think we had as at [Kreuz's](https://www.kreuzmarket.com/) which had chunkys of pork in it.

@@ -4,7 +4,7 @@ title:  "Slow cooked beef shin chilli"
 date:   2017-04-23 18:32:30
 tags: ["beef","chilli"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/shin_beef_chilli/shin_beef_chilli_15.jpg"
 ---
 
 I do love a good chilli.  Actualy, I'll happily eat bad chilli if somebody else is cooking, but life's too short to make bad chilli.  I ran across a write up claiming to be [The Best Chilli Ever](http://www.seriouseats.com/2010/01/how-to-make-the-best-chili-ever-recipe-super-bowl.html) over on Serious Eats which had some interesting ideas in it.  Science behind chunks of meat verses mince, how to avoid the powdery spice mouth feel etc etc.

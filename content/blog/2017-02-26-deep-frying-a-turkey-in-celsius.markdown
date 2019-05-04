@@ -4,7 +4,7 @@ title:  "Deep frying a turkey in Celsius"
 date:   2017-02-26 12:32:30
 tags: ["turkey","Celsius"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/deep_frying_a_turkey_in_celsius/deep_frying_a_turkey_in_celsius_14.jpg"
 ---
 
 Ever since I ran across it somewhere on the Internet I've wanted to deep fry a turkey.  At first it looks like the most redneck and crass thing, but... it's the best turkey  I've ever eaten.  All the instructions I could find online were American and thus in Fahrenheit but as a proud European (for another year or two I'd guess), so I've translated them into nice scientific Celsius.  Whist I was going to have 20 litres of boiling fat it made sense to deep fry a load of potatoes and some hams.  Because reasons.

@@ -4,7 +4,7 @@ title:  "Crispy chicken wings"
 date:   2017-04-17 18:35:30
 tags: ["chicken"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/crispy_chicken_wings/crispy_chicken_wings_06.jpg"
 ---
 
 I love chicken wings and until recently I thought deep frying was the only way to get really crispy results.  I was wrong.  The combination of baking at two temperatures and a little baking powder makes all the difference.

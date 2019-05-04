@@ -4,7 +4,7 @@ title:  "Filthy pie and super green salad"
 date:   2017-05-27 21:25:00
 tags: ["pie","curry","chicken","cheese"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/filthy-pie-and-super-green-salad/filthy-pie-and-super-green-salad-15.jpg"
 ---
 
 I've been working up in Scotland quite a lot over the last few months and whilst there came across two excellent local treats: macaroni pies (maracroni cheese, in a pie) and chicken tikka pie (you can figure it out).  Good as they are I had to wonder, what happens when the two meet?  Filthy dirty deliciousness, that's what.

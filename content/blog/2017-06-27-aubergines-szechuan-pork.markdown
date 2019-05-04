@@ -4,7 +4,7 @@ title:  "Aubergines with szechuan spice and pork"
 date:   2017-06-27 21:17:00
 tags: ["pork", "szechuan"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/aubergines-szechuan-pork/aubergines-szechuan-pork-05.jpg"
 ---
 
 I was looking for a way to use up a ripe aubergine and some excellent pork mince when I ran across this rather excellent looking [roast aubergines with Szechuan fragrant pork](https://www.theguardian.com/lifeandstyle/2015/jul/18/szechuan-aubergine-pork-recipe-courgette-feta-pie-thomasina-miers) made by  Thomasina Miers.
@@ -51,5 +51,3 @@ The bright yellow with it is fine sliced cabbage cooked with fresh tumric and to
 ![Pre-oven](/images/blog/aubergines-szechuan-pork/aubergines-szechuan-pork-03.jpg)
 ![Post-oven](/images/blog/aubergines-szechuan-pork/aubergines-szechuan-pork-04.jpg)
 ![GET IN MY FACE](/images/blog/aubergines-szechuan-pork/aubergines-szechuan-pork-05.jpg)
-
-

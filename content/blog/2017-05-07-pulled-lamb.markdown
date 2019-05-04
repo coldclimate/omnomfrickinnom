@@ -4,7 +4,7 @@ title:  "Pulled lamb"
 date:   2017-05-07 19:36:00
 tags: ["lamb"] 
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pulled-lamb/pulled-lamb-07.jpg"
 ---
 
 I stumbled across an excellent [slow cooker pulled brisket](https://smittenkitchen.com/2010/01/southwestern-pulled-brisket/) this week and had cravings.  I also had a small leg of lamb in the freezer which needed using.  Swapping beef for lamb, turns out to work well.

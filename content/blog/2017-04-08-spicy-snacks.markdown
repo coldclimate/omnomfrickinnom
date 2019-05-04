@@ -4,7 +4,7 @@ title:  "Spicy pulses"
 date:   2017-04-08 18:35:30
 tags: ["snacks"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/snacks_02.jpg"
 ---
 
 I love Graze boxes and I especially love their spicy crunchy snak thing.  I started to try and bulk buy such things online but it was pointed out they could probably be replicated easily enough.  You can use any pulses and hatever spices you like.  I aimed to have salt, heat and depth.
