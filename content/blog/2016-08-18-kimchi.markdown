@@ -2,7 +2,7 @@
 layout: post
 title:  "Kimchi miso soupy bowls"
 date:   2016-08-18 20:45:30
-tags: ["kimchi","miso","comfort"]
+tags: ["kimchi","miso","comfort food"]
 author: oli
 image: "/images/blog/kimchi-02.jpg"
 ---

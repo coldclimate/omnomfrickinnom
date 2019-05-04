@@ -2,7 +2,7 @@
 layout: post
 title:  "Amazing Cheating Chinese Orange Chicken"
 date:   2014-11-11 13:22:52
-tags: ["comfort","takeaway","chicken"]
+tags: ["comfort food","takeaway","chicken"]
 author: oli
 image: "/images/blog/orange_chicken.jpg"
 ---
