@@ -4,7 +4,7 @@ title:  "Miso poached teriyai chicken"
 date:   2016-08-08 20:23:30
 tags: ["chicken","miso"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/miso-poached-teriyaki-chicken.jpg"
 ---
 
 After a trip to Wagamammas this weekend I realised I'd not had miso in ages, and my donburi had some excellent sweat sticky chicken.  I thought the combo of the two would be rather good.

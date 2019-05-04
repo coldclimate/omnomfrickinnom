@@ -4,7 +4,7 @@ title:  "Charred steaks"
 date:   2016-08-03 20:24:30
 tags: ["beef","blowtorch"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/charred-steak/charred-steak-3.jpg"
 ---
 
 I love thin cut steak, but it's virtually impossible to cook well. On a thick cut steak I love crispy blacken outside and a super rare middle.  Adding a little drama to the table is no bad thing.

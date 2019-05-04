@@ -4,7 +4,6 @@ title:  "Beef and Aubergine Casserole"
 date:   2018-04-21 19:32:00
 tags: ["beef","comfort food"] 
 author: oli
-image: "/images/blog/easter"
 ---
 
 Even on the hottest day of the year, casserole with dumplings is still my favorite comfort food.  The aubergine ended up in there becaue I was having a use up of veg, but the texture was tremendous.
