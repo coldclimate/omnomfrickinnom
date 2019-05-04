@@ -4,12 +4,7 @@
     <div class="container pr-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ .Site.BaseURL }}/">
-
-            {{ with .Site.Params.logo }}
-            <img src="{{ . | urlize | relURL }}" alt="logo">
-            {{ else }}
-            <span style="font-family:Righteous;">{{.Site.Title}}</span>
-            {{ end }}
+            <h2 class="sitetitle">{{ .Site.Title }}</h2>
         </a>
         <!-- End Logo -->
 
