@@ -1,0 +1,56 @@
+baseURL = "https:///www.omnomfrickinnom.com/"
+languageCode = "en-gb"
+title = "Om Nom Frickin Nom (dot) Com"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Om Nom Frickin Nom (dot) Com"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-46298735-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="badly spelt lower case lo-fi cooking adventures in the evening"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Oli"
+  thumbnail = "/images/author.png"
+  description = "Resident eejit.  Radio4, kitchen dancing, owning recipe books to read not follow"
+
+[params.index]
+  picture = "/images/author.png"
+  title = "John Doe"
+  subtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  #github = "<username>"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "<username>"
+  #twitter = "<username>"
+  #instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"
