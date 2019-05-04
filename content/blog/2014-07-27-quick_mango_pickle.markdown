@@ -4,7 +4,7 @@ title:  "Quick pickle to use up an over ripe mango"
 date:   2014-07-27 19:22:52
 tags: ["pickle","economic"]
 author: oli
-image: "https://lh3.googleusercontent.com/-DdTzN1ore8g/U9Tx6immYfI/AAAAAAAAFEo/OOWT2i2Zgxg/w497-h663-no/IMG_20140727_133146.jpg"
+image: "/images/blog/quick_mango_pickle-3.jpg"
 ---
 
 I hate letting things go to waste, and so discovering a bruised and over ripe mango plus a few past their best chillis in the veg rack was a little upsetting, however it was an excuse to make some mango pickle.  It's a fresh pickle so won't keep long, but is super tasty.
@@ -33,8 +33,8 @@ I hate letting things go to waste, and so discovering a bruised and over ripe ma
 
 The pickle is great with lots of things and was a spicy sharp accompaniment to the chicken pizza chips.  It even made a great marinade for some beef because of the digestive properties of mango.
 
-![The pickle on the boil](https://lh6.googleusercontent.com/-MtBKvovmh14/U9KlBQ5EPQI/AAAAAAAAE-U/bkhaj5a-ae8/w497-h663-no/IMG_20140725_194035.jpg "The pickle on the boil")
+![The pickle on the boil](/images/blog/quick_mango_pickle-1.jpg "The pickle on the boil")
 
-![Beef marinading](https://lh5.googleusercontent.com/-qpZIA-GO8RA/U9TyYoN6KzI/AAAAAAAAFFA/9ZMH-wm-wLA/w884-h663-no/IMG_20140727_133517.jpg "Beef marinading")
+![Beef marinading](/images/blog/quick_mango_pickle-2.jpg "Beef marinading")
 
-![Even toasted cheese sandwiches go well with mango pickle](https://lh3.googleusercontent.com/-DdTzN1ore8g/U9Tx6immYfI/AAAAAAAAFEo/OOWT2i2Zgxg/w497-h663-no/IMG_20140727_133146.jpg "Even toasted cheese sandwiches go well with mango pickle")
+![Even toasted cheese sandwiches go well with mango pickle](/images/blog/quick_mango_pickle-3.jpg "Even toasted cheese sandwiches go well with mango pickle")

@@ -4,7 +4,7 @@ title:  "Day two of slow cooker lamb"
 date:   2014-07-09 19:22:52
 tags: ["lamb","slowcooker"]
 author: oli
-image: "https://lh3.googleusercontent.com/-8jJHkfpXobY/U72JkPT98fI/AAAAAAAAEcU/MNnc30M6usQ/w497-h663-no/IMG_20140709_191436.jpg"
+image: "/images/blog/lamb-day-two.jpg"
 ---
 
 
@@ -44,4 +44,4 @@ Use whatever you have around.  I was trying to get a balance of crunchy, sharp a
 
 ## Result
 j
-![Slow cooked lamb with crunchy salad](https://lh3.googleusercontent.com/-8jJHkfpXobY/U72JkPT98fI/AAAAAAAAEcU/MNnc30M6usQ/w497-h663-no/IMG_20140709_191436.jpg "Slow cooked lamb with crunchy salad")
+![Slow cooked lamb with crunchy salad](/images/blog/lamb-day-two.jpg "Slow cooked lamb with crunchy salad")

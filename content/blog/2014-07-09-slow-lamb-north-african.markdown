@@ -4,7 +4,7 @@ title:  "Slow cooked North African(ish) lamb"
 date:   2014-07-09 19:22:52
 tags: ["lamb","slowcooker"]
 author: oli
-image: "https://lh5.googleusercontent.com/-Xp0qfaAxo6k/U7w3KD8Ky3I/AAAAAAAAEdE/WcgbZfE_vas/w497-h663-no/IMG_20140708_191442.jpg"
+image: "/images/blog/slow-lamb-north-african.jpg"
 ---
 
 
@@ -46,4 +46,4 @@ After seeing several delicious things like [this](http://www.closetcooking.com/2
 
 ## Result
 
-![Slow cooked North African(ish) lamb](https://lh5.googleusercontent.com/-Xp0qfaAxo6k/U7w3KD8Ky3I/AAAAAAAAEdE/WcgbZfE_vas/w497-h663-no/IMG_20140708_191442.jpg "Slow cooked North African(ish) lamb")
+![Slow cooked North African(ish) lamb](/images/blog/slow-lamb-north-african.jpg "Slow cooked North African(ish) lamb")

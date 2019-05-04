@@ -4,8 +4,8 @@ title:  "Left over lamb becomes spicy pie"
 date:   2014-09-09 09:22:52
 tags: ["lamb","pie","economy"]
 author: oli
-image: "https://lh6.googleusercontent.com/-XLqJI4YJOiI/VAtT_E_RhgI/AAAAAAAAGro/RaL-obWDX3o/w419-h558-no/IMG_20140906_193358.jpg"
 ---
+image: "/images/blog/lamb-pie-3.jpg"
 
 After a rather excellent roast of lamb shoulder (from [Cranstons](http://www.cranstons.net/)) we had a load of cold lamb left over.  Rather than a quick curry we made spiced lamb pies instead.  Theres a lack of photos I'm afraid.
 
@@ -41,8 +41,8 @@ After a rather excellent roast of lamb shoulder (from [Cranstons](http://www.cra
 
 ## Result
 
-![Filling ready to go onto the heat](https://lh4.googleusercontent.com/-TOSVYeiPdZI/VAtHiaxyNZI/AAAAAAAAGrE/7b7jaxxHH5Q/w419-h558-no/IMG_20140906_184046.jpg "Filling ready to go onto the heat")
+![Filling ready to go onto the heat](/images/blog/lamb-pie-1.jpg "Filling ready to go onto the heat")
 
-![Filled pie before lidding](https://lh3.googleusercontent.com/-A3f5F39MM7E/VAtMJDmQhkI/AAAAAAAAGrU/f85HLFKnAVY/w419-h558-no/IMG_20140906_190029.jpg "Filled pie before lidding")
+![Filled pie before lidding](/images/blog/lamb-pie-2.jpg "Filled pie before lidding")
 
-![Just before hitting the plates](https://lh6.googleusercontent.com/-XLqJI4YJOiI/VAtT_E_RhgI/AAAAAAAAGro/RaL-obWDX3o/w419-h558-no/IMG_20140906_193358.jpg "Just before hitting the plates")
+![Just before hitting the plates](/images/blog/lamb-pie-3.jpg "Just before hitting the plates")

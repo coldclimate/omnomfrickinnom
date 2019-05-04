@@ -4,7 +4,7 @@ title:  "Chicken Pizza Chips"
 date:   2014-07-27 19:22:52
 tags: ["chicken","economic","guiltypleasure"]
 author: oli
-image: "https://lh6.googleusercontent.com/F2X0UHbZ8NxUuTfx928gJEFly8fIf3z1Zvu2CNqmk7E=w497-h663-no"
+image: "/images/blog/chicken-pizza-chips-2.jpg"
 ---
 
 A little while ago I ran across a [Reddit post talking about "Pizza Fries"](http://www.reddit.com/r/food/comments/266472/has_anyone_tried_pizza_fries/) which looked amazing.  I had the left overs of a roast chicken which had been been roasted over tomato, onions and peppers and couldn't resist having a go.
@@ -38,6 +38,6 @@ This is without doubt the least classy dish I've cooked in a while and the most 
 
 Something that is far better than it has any right to be.  The sauces oozes though and bakes onto the tin tray leaving an unctuous, velvertine, umami rich clag which is a joy to scrape off.
 
-![Ready for the oven](https://lh4.googleusercontent.com/-Ta_-4en_hQ4/U9Ki2bVcDpI/AAAAAAAAE94/M7FYNHrxni8/w497-h663-no/IMG_20140725_193139.jpg "Ready for the oven")
+![Ready for the oven](/images/blog/chicken-pizza-chips-1.jpg "Ready for the oven")
 
-![The crispy, cheesy, delicious mess](https://lh6.googleusercontent.com/F2X0UHbZ8NxUuTfx928gJEFly8fIf3z1Zvu2CNqmk7E=w497-h663-no "The crispy, cheesy, delicious mess")
+![The crispy, cheesy, delicious mess](/images/blog/chicken-pizza-chips-2.jpg "The crispy, cheesy, delicious mess")

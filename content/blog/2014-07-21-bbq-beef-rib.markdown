@@ -4,7 +4,7 @@ title:  "BBQd Rib of Beef"
 date:   2014-07-09 19:22:52
 tags: ["beef","bbq"]
 author: oli
-image: "https://lh5.googleusercontent.com/-vPE-N3l01qw/U7hEf1Xlv_I/AAAAAAAAEVI/RDOPuKMlsfo/w497-h663-no/IMG_20140705_184032.jpg"
+image: "/images/blog/bbq-beef-rib-3.jpg"
 ---
 
 No real recipe here, just another (rather serious) chunk of beef from  [G&S Organics](http://www.gandsorganics.com/) becoming dinner for a few friends. 
@@ -43,7 +43,7 @@ No real recipe here, just another (rather serious) chunk of beef from  [G&S Orga
 
 ## Result
 
-![The beef going on, note the amount of seasoning](https://lh6.googleusercontent.com/-XMYRAVVrTMI/U7gxTM-Lu7I/AAAAAAAAET8/d49Tp0qq1HQ/w884-h663-no/IMG_20140705_180710.jpg "The beef going on, note the amount of seasoning")
-![Cooking off the fat](https://lh5.googleusercontent.com/-sNevy0qtLHA/U7g1RtEQfoI/AAAAAAAAEUg/pBqueONfhms/w497-h663-no/IMG_20140705_182058-EFFECTS.jpg "Cooking off the fat")
+![The beef going on, note the amount of seasoning](/images/blog/bbq-beef-rib-1.jpg "The beef going on, note the amount of seasoning")
+![Cooking off the fat](/images/blog/bbq-beef-rib-2.jpg "Cooking off the fat")
 
-![The finished beef](https://lh5.googleusercontent.com/-vPE-N3l01qw/U7hEf1Xlv_I/AAAAAAAAEVI/RDOPuKMlsfo/w497-h663-no/IMG_20140705_184032.jpg "The finished beef")
+![The finished beef](/images/blog/bbq-beef-rib-3.jpg "The finished beef")
