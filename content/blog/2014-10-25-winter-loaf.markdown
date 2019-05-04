@@ -4,7 +4,7 @@ title:  "Winter loaf"
 date:   2014-10-26 15:44:52
 tags: ["winter","bread"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/winter-loaf.jpg"
 ---
 
 As it gets colder and darker I start to fancy hotcross buns, which is a chronological shame.  Instead, I made this fruit bread on a whim.  It was excellent fresh (with butter) and toasted a few days later when it had gone a bit dry.

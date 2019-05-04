@@ -4,7 +4,7 @@ title:  "Amazing Cheating Chinese Orange Chicken"
 date:   2014-11-11 13:22:52
 tags: ["comfort","takeaway","chicken"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/orange_chicken.jpg"
 ---
 
 One (of my many) guilty pleasures is cheap Chinese takeaway.  I love real amazing Chinese food, but sometimes nothing else will do but crispy friend chunks of chicken in a slightly sweet sauce with enough chilli to make it interesting.

@@ -4,7 +4,7 @@ title:  "Homemade ricotta and spinach pizza"
 date:   2014-10-30 19:22:52
 tags: ["ricotta","cheese","pasta"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pizza_steam.jpg"
 ---
 
 After an amazing pizza at [Cal's Own](http://www.calsown.co.uk/) I decided it was time to have a go at making ricotta.

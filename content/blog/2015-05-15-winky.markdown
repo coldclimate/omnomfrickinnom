@@ -4,7 +4,7 @@ title:  "The Winky"
 date:   2015-05-15 20:36:52
 tags: ["cocktails"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/winky.jpg"
 ---
 
 Sometimes things come together perfectly, almost as if they were planned or predestined.  Today was such a day.  I was extolling the virtues of my new favourite drink at work and one of my colleagues mentioned something his partner said and the drink was named.  I present The Winky, named by Lyndsey Tait.  Why? For she perfect observation that "the lemon 16%* is the winkyiest**"

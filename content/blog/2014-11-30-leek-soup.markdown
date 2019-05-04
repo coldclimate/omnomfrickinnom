@@ -4,7 +4,7 @@ title:  "Leek and potato soup"
 date:   2014-11-30 19:12:52
 tags: ["vegetarian","leek","soup","winter"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/leek_soup/leek_soup_ingrediants.jpg"
 ---
 
 Winter is here and a lazy Saturday afternoon demanded soup.  Ready in 30 minutes, creamy and luxurious, the potato reduces the slimyness that you sometimes get with leeks and the butter ups the creamy feel.

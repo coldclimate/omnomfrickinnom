@@ -4,7 +4,7 @@ title:  "Overloaded Pork Chop"
 date:   2015-02-08 20:19:15
 tags: ["pork","luxury","cheese","apple"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/pork-chop/pork-chop-in-my-face.jpg"
 ---
 
 I love a good pork chop but unless you're careful they can get dry.  Ignore those dreadful things with the fat taken off in the supermarket and get yourself with the skin still on and a good layer of fat on them from your butcher (or meatbox).  When I got an amazing pair from G&S Organics I couldn't wait to get them under the grill for a quick and sharp cook.

@@ -4,7 +4,7 @@ title:  "Baconated Sprouts"
 date:   2015-02-16 20:19:15
 tags: ["sidedish","bacon","sprouts"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/baconatedsprouts/baconated-sprouts-finished.jpg"
 ---
 
 I've never really enjoyed sprouts but one of my friends pointed out that you could treat them like tiny cabbages and in the same week I saw another friend referring to "baconating the sprouts".  I couldn't resist.

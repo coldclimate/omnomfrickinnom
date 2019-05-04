@@ -4,7 +4,7 @@ title:  "Baked pearl barley chicken"
 date:   2015-01-08 21:22:52
 tags: ["chicken","bake","left-overs"]
 author: oli
-image: "/images/blog/easter"
+image: "/images/blog/baked-pearl-barley-chicken.jpg"
 ---
 
 I've never considered doing anything with pearl barley other than sticking it in broth but since getting [The Thug Kitchen Cookbook](http://www.amazon.co.uk/gp/product/B00JV1W2YG?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00JV1W2YG&linkCode=shr&tag=wwwcoldclimat-21&linkId=VR4Z75P4NIWZOK72&=books&qid=1420752396&sr=1-1&keywords=thug+kitchen) for Christmas (it's mother fucking excellent) I've been playing around with it.  Cooks like rice but with so much more body and rough to it, once baked it's silken and luxurious.  Baking it helps it absorb flavours and a great texture.
