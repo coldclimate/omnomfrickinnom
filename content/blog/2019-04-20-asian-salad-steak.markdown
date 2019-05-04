@@ -6,7 +6,8 @@ author: oli
 image: "/images/blog/asian-salad-steak/asian-salad-steak-3.jpg"
 ---
 
-A super quick tea with lots colour, crunch and spice.  The rare steak melts in the mouth
+A super quick tea with lots colour, crunch and spice.  The rare steak melts in the mouth.
+
 
 ## You will need
 
