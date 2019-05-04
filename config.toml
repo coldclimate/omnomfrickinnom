@@ -45,12 +45,7 @@ Currently trying to get this blog running, still don't know what the blog will b
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "About Me"
+    name = "About"
     identifier = "about"
     weight = 200
-    url = "/"
-[[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 200
-    url = "/static/imprint"
+    url = "/static/about"
