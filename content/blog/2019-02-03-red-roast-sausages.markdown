@@ -3,6 +3,7 @@ layout: post
 title:  "Red roast sausages"
 date:   2019-02-03 18:35:00
 author: oli
+tags: ["sausages", "sticky", "baked"]
 image: "/images/blog/red-roast-sausages/red-roast-sausages-6.jpg"
 ---
 

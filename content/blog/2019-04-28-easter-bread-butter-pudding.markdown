@@ -3,7 +3,7 @@ layout: post
 title:  "Easter Bread And Butter Pudding"
 date:   2019-04-28 20:18:00
 author: oli
-image: "/images/blog/easter"
+tags: ["pudding", "bread"]
 image: "/images/blog/easter-bread-butter-pudding-03.jpg"
 ---
 

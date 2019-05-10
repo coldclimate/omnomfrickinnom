@@ -3,6 +3,7 @@ layout: post
 title:  "Spiced pineapple slices"
 date:   2019-04-02 15:35:00
 author: oli
+tags: ["pineapple"]
 image: "/images/blog/spiced-pineapple.jpg"
 ---
 

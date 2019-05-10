@@ -3,6 +3,7 @@ layout: post
 title:  "Airfried Halloumi"
 date:   2019-01-20 19:35:00
 author: oli
+tags: ["cheese", "airfrier"]
 image: "/images/blog/airfried-halloumi-02.jpg"
 ---
 

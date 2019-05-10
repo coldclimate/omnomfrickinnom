@@ -3,6 +3,7 @@ layout: post
 title:  "Friday night tacos with corn and pineapple salsa"
 date:   2019-05-10 21:35:00
 author: oli
+tags: ["tacos", "pineapple"]
 image: "/images/blog/tacos-pineapple-salsa-1.jpg"
 ---
 
