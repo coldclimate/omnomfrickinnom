@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easter Bread And Butter Pudding"
+title:  "Easter Bread & Butter Pudding"
 date:   2019-04-28 20:18:00
 author: oli
 tags: ["pudding", "bread"]

@@ -37,8 +37,5 @@ All the best food is interactive, and some rare beef tacos with a sweet and spic
 
 The rare meat is melt in the mount.  The salsa is a great mix of sweet, hot, charred and chunky.  Piling food together and eating with your hands is the way to get close.
 
-/home/boy/Downloads/tacos-pineapple-salsa-2.jpg
-/home/boy/Downloads/
-
 ![Ready for assembly](/images/blog/tacos-pineapple-salsa-1.jpg)
 ![GET IN MY FACE](/images/blog/tacos-pineapple-salsa-2.jpg)
