@@ -2,8 +2,9 @@
 layout: post
 title:  "Rare steak and asian flavours noodle salad"
 date:   2019-04-20 17:35:00
+publishdate:   2019-04-20 17:35:00
 author: oli
-tags: ["beef", "noodle", "salad"]
+tags: ["beef", "noodles", "salad"]
 image: "/images/blog/asian-salad-steak/asian-salad-steak-3.jpg"
 ---
 

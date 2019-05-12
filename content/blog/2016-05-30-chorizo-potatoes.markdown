@@ -2,6 +2,7 @@
 layout: post
 title:  "Camping food: Chorizo Potatoes"
 date:   2016-05-31 19:01:30
+publishdate:   2016-05-31 19:01:30
 tags: ["camping"]
 author: oli
 image: "/images/blog/camping-chorizo-potatoes/camping-chorizo-potatoes-5.jpg"

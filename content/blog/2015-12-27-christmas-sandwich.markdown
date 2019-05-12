@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Sandwich"
 date:   2015-12-27 19:10:30
+publishdate:   2015-12-27 19:10:30
 tags: ["christmas","sandwich"]
 author: oli
 image: "/images/blog/christmas-sandwich/christmas-sandwich-2.jpg"

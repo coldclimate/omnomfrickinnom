@@ -2,6 +2,7 @@
 layout: post
 title:  "Beef braised with French flavours"
 date:   2015-11-29 18:27:12
+publishdate:   2015-11-29 18:27:12
 tags: ["french","beef"]
 author: oli
 image: "/images/blog/french-beef/french-beef-3.jpg"

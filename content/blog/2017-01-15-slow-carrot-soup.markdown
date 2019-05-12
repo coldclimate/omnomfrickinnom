@@ -2,6 +2,7 @@
 layout: post
 title:  "Slow cooker carrot soup"
 date:   2017-01-17 19:00:30
+publishdate:   2017-01-17 19:00:30
 tags: ["soup"]
 author: oli
 image: "/images/blog/carrot_soup3.jpg"

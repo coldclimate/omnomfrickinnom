@@ -2,6 +2,7 @@
 layout: post
 title:  "Making bacon"
 date:   2015-06-27 21:10:12
+publishdate:   2015-06-27 21:10:12
 tags: ["homesteading","bacon"]
 author: oli
 image: "/images/blog/bacon/bacon15.jpg"

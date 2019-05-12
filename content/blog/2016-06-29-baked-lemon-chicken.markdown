@@ -2,6 +2,7 @@
 layout: post
 title:  "Baked lemon chicken"
 date:   2016-06-29 19:24:30
+publishdate:   2016-06-29 19:24:30
 tags: ["chicken", "chinese"]
 author: oli
 image: "/images/blog/baked-lemon-chicken/baked-lemon-chicken-02.jpg"

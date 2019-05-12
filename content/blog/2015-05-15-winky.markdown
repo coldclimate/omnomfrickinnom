@@ -2,6 +2,7 @@
 layout: post
 title:  "The Winky"
 date:   2015-05-15 20:36:52
+publishdate:   2015-05-15 20:36:52
 tags: ["cocktails"]
 author: oli
 image: "/images/blog/winky.jpg"

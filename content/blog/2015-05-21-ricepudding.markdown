@@ -2,6 +2,7 @@
 layout: post
 title:  "Lightly spiced rice pudding"
 date:   2015-06-21 17:51:52
+publishdate:   2015-06-21 17:51:52
 tags: ["comfort food"]
 author: oli
 image: "/images/blog/ricepudding.jpg"

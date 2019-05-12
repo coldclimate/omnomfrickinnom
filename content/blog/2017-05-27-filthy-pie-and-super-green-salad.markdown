@@ -2,6 +2,7 @@
 layout: post
 title:  "Filthy pie and super green salad"
 date:   2017-05-27 21:25:00
+publishdate:   2017-05-27 21:25:00
 tags: ["pie","curry","chicken","cheese"] 
 author: oli
 image: "/images/blog/filthy-pie-and-super-green-salad/filthy-pie-and-super-green-salad-15.jpg"

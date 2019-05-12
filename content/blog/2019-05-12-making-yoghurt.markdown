@@ -2,6 +2,7 @@
 layout: post
 title:  "Making yoghurt"
 date:   2019-05-12 20:18:00
+publishdate:   2019-05-12 20:18:00
 author: oli
 image: "/images/blog/making-yoghurt/making-yoghurt-1.jpg"
 tags: ["yoghurt", "fermenting"]

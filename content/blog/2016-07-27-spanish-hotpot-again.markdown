@@ -2,6 +2,7 @@
 layout: post
 title:  "Spanish Hotpot (again)"
 date:   2016-07-28 20:24:30
+publishdate:   2016-07-28 20:24:30
 tags: ["spanish","yorkshire"]
 author: oli
 image: "/images/blog/spanish-hotpot-again/spanish-hotpot-again-6.jpg"

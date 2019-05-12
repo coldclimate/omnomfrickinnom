@@ -2,6 +2,7 @@
 layout: post
 title:  "Haggis, rice and spice"
 date:   2016-02-01 19:27:30
+publishdate:   2016-02-01 19:27:30
 tags: ["haggis","one bowl"]  
 author: oli
 image: "/images/blog/haggis.jpg"

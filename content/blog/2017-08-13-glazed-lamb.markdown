@@ -2,6 +2,7 @@
 layout: post
 title:  "Glazed lamb and a Greek-like-salad"
 date:   2017-08-13 19:46:00
+publishdate:   2017-08-13 19:46:00
 tags: ["lamb"]
 author: oli
 image: "/images/blog/glazed-lamb/glazed-lamb-06.jpg"

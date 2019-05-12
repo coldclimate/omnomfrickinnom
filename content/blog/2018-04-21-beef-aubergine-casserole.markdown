@@ -2,6 +2,7 @@
 layout: post
 title:  "Beef and Aubergine Casserole"
 date:   2018-04-21 19:32:00
+publishdate:   2018-04-21 19:32:00
 tags: ["beef","comfort food"] 
 author: oli
 ---

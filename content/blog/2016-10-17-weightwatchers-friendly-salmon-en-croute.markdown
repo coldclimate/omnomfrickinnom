@@ -2,6 +2,7 @@
 layout: post
 title:  "WeightWatcher Friendly Salmon En Croute"
 date:   2016-10-17 20:00:30
+publishdate:   2016-10-17 20:00:30
 tags: ["salmon","weightwatchers"]
 author: oli
 image: "/images/blog/weightwatchers-friendly-salmon-en-croute.jpg"

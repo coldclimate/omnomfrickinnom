@@ -2,6 +2,7 @@
 layout: post
 title:  "Air fried pork chop with super green sauce"
 date:   2018-01-08 19:10:00
+publishdate:   2018-01-08 19:10:00
 tags: ["pork" ,airfryer"] 
 author: oli
 image: "/images/blog/airfry-pork-2.jpg"

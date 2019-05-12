@@ -2,6 +2,7 @@
 layout: post
 title:  "Lamb chops with moroccan spices and beans"
 date:   2017-11-05 20:13:00
+publishdate:   2017-11-05 20:13:00
 tags: ["lamb","quick"]
 author: oli
 image: "/images/blog/lamb-beans.jpg"

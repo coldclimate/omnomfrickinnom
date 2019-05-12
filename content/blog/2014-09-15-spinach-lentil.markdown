@@ -2,6 +2,7 @@
 layout: post
 title:  "Spinach and Lentil Roulade"
 date:   2014-09-15 09:22:52
+publishdate:   2014-09-15 09:22:52
 tags: ["vegetarian","lentils","spinach"]
 author: oli
 image: "/images/blog/finished.jpg"

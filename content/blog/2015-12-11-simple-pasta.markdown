@@ -2,6 +2,7 @@
 layout: post
 title:  "Simple savory pasta"
 date:   2015-12-11 20:30:30
+publishdate:   2015-12-11 20:30:30
 tags: ["pasta","mushrooms","prawns"]
 author: oli
 image: "/images/blog/creamy_pasta/creamy_pasta_2.jpg"

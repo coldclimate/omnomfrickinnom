@@ -2,6 +2,7 @@
 layout: post
 title:  "Spanish Fish"
 date:   2016-07-06 18:47:30
+publishdate:   2016-07-06 18:47:30
 tags: ["fish","spanish"]
 author: oli
 image: "/images/blog/spanish-fish-02.jpg"

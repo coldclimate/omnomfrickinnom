@@ -2,6 +2,7 @@
 layout: post
 title:  "Quickie mackerel pate"
 date:   2018-01-14 15:36:00
+publishdate:   2018-01-14 15:36:00
 tags: ["mackerel","pate"]  
 author: oli
 image: "/images/blog/mackrel_pate.jpg"

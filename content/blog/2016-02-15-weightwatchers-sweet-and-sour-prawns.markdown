@@ -2,6 +2,7 @@
 layout: post
 title:  "Weightwatchers friendly Sweet and Sour Prawns"
 date:   2016-02-15 18:41:30
+publishdate:   2016-02-15 18:41:30
 tags: ["chinese","prawns"]
 author: oli
 image: "/images/blog/sweet_and_sour_prawns/sweet_and_sour_prawns_4.jpg"

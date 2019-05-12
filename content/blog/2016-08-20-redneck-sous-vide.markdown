@@ -2,6 +2,7 @@
 layout: post
 title:  "Redneck sous vide beef"
 date:   2016-08-20 20:45:30
+publishdate:   2016-08-20 20:45:30
 tags: ["beef","sous-vide"]
 author: oli
 image: "/images/blog/redneck-sous-vide/redneck-sous-vide-6.jpg"

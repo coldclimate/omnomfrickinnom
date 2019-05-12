@@ -2,6 +2,7 @@
 layout: post
 title:  "Better fried chicken"
 date:   2018-05-29 20:44:00
+publishdate:   2018-05-29 20:44:00
 tags: ["fried chicken"] 
 author: oli
 image: "/images/blog/better-fried-chicken/better-fried-chicken-03.jpg"

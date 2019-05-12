@@ -2,6 +2,7 @@
 layout: post
 title:  "A very rich pork chop with mushrooms"
 date:   2016-06-09 20:02:30
+publishdate:   2016-06-09 20:02:30
 tags: ["mushrooms","pork"]
 author: oli
 image: "/images/blog/mushroom-pork/mushroom-pork-5.jpg"

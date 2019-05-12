@@ -2,6 +2,7 @@
 layout: post
 title:  "Salad topping seeds"
 date:   2016-03-06 11:00:30
+publishdate:   2016-03-06 11:00:30
 tags: ["seeds"]
 author: oli
 image: "/images/blog/salad-topping-seeds.jpg"

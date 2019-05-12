@@ -2,6 +2,7 @@
 layout: post
 title:  "Pirate Spawn"
 date:   2015-09-07 19:47:12
+publishdate:   2015-09-07 19:47:12
 tags: ["cordial","rum"] 
 author: oli
 image: "/images/blog/pirate-spawn.jpg"

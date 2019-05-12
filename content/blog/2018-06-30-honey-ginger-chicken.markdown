@@ -2,6 +2,7 @@
 layout: post
 title:  "Honey ginger chicken"
 date:   2018-06-30 20:04:00
+publishdate:   2018-06-30 20:04:00
 tags: ["chicken"] 
 author: oli
 image: "/images/blog/ginger-honey-chicken/ginger-honey-chicken-03.jpg"

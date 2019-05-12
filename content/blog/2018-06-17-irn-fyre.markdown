@@ -2,6 +2,7 @@
 layout: post
 title:  "Irn Fyre Chicken Drizzle"
 date:   2018-06-17 20:04:00
+publishdate:   2018-06-17 20:04:00
 tags: ["fried chicken"] 
 author: oli
 image: "/images/blog/irn_fyre_02.jpg"

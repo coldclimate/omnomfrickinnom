@@ -2,6 +2,7 @@
 layout: post
 title:  "Cheating Chinese lemon Chicken"
 date:   2015-04-18 19:22:52
+publishdate:   2015-04-18 19:22:52
 tags: ["takeaway","chicken","chinese"] 
 author: oli
 image: "/images/blog/lemon_chicken.jpg"

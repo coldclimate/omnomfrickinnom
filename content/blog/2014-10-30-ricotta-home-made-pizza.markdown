@@ -2,6 +2,7 @@
 layout: post
 title:  "Homemade ricotta and spinach pizza"
 date:   2014-10-30 19:22:52
+publishdate:   2014-10-30 19:22:52
 tags: ["ricotta","cheese","pasta"]
 author: oli
 image: "/images/blog/pizza_steam.jpg"

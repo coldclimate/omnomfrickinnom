@@ -2,6 +2,7 @@
 layout: post
 title:  "Ramekin baked turkey brurgers"
 date:   2016-06-04 20:43:30
+publishdate:   2016-06-04 20:43:30
 tags: ["turkey", "burger"]
 author: oli
 image: "/images/blog/turkey_burger.jpg"

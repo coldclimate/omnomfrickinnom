@@ -2,6 +2,7 @@
 layout: post
 title:  "Winter loaf"
 date:   2014-10-26 15:44:52
+publishdate:   2014-10-26 15:44:52
 tags: ["winter","bread"]
 author: oli
 image: "/images/blog/winter-loaf.jpg"

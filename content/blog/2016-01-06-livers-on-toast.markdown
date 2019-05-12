@@ -2,6 +2,7 @@
 layout: post
 title:  "Livers on toast"
 date:   2016-01-06 18:31:30
+publishdate:   2016-01-06 18:31:30
 tags: ["toast","liver","cream"]  
 author: oli
 image: "/images/blog/liver-on-toast-2.jpg"

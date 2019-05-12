@@ -2,6 +2,7 @@
 layout: post
 title:  "Deep fried pork chop"
 date:   2016-01-14 19:02:30
+publishdate:   2016-01-14 19:02:30
 tags: ["pork","deep fried"]  
 author: oli
 image: "/images/blog/deep-fried-pork-chop/deep-fried-pork-chop-5.jpg"

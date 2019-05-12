@@ -2,6 +2,7 @@
 layout: post
 title:  "Pan scones"
 date:   2016-03-05 16:42:30
+publishdate:   2016-03-05 16:42:30
 tags: ["scones","weightwatchers"]
 author: oli
 image: "/images/blog/pan-scones-2.jpg"

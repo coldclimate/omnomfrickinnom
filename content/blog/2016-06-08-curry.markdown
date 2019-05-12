@@ -2,6 +2,7 @@
 layout: post
 title:  "A midweek curry (that started life as ragu)"
 date:   2016-06-08 20:02:30
+publishdate:   2016-06-08 20:02:30
 tags: ["beef","curry"]
 author: oli
 image: "/images/blog/curry-3.jpg"

@@ -2,6 +2,7 @@
 layout: post
 title:  "Baked red cabbage"
 date:   2015-12-13 20:30:30
+publishdate:   2015-12-13 20:30:30
 tags: ["winter","sidedish","cabbage"]
 author: oli
 image: "/images/blog/baked_red_cabbage/baked_red_cabbage_4.jpg"

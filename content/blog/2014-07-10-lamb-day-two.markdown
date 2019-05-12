@@ -2,6 +2,7 @@
 layout: post
 title:  "Day two of slow cooker lamb"
 date:   2014-07-09 19:22:52
+publishdate:   2014-07-09 19:22:52
 tags: ["lamb","slowcooker"]
 author: oli
 image: "/images/blog/lamb-day-two.jpg"

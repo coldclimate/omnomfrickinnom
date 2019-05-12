@@ -2,6 +2,7 @@
 layout: post
 title:  "Pepsi brined smoked turkey with Southern trimmings"
 date:   2016-11-12 19:00:30
+publishdate:   2016-11-12 19:00:30
 tags: ["turkey", "bbq"]
 author: oli
 image: "/images/blog/pepsi-brined-smoked-turkey/pepsi-brined-smoked-turkey-17.jpg"

@@ -2,6 +2,7 @@
 layout: post
 title:  "Cheating Chicken Noodle Soup"
 date:   2014-11-12 19:22:52
+publishdate:   2014-11-12 19:22:52
 tags: ["comfort food","soup","chicken"]
 author: oli
 image: "/images/blog/cheating_chicken_noodle_soup.jpg"

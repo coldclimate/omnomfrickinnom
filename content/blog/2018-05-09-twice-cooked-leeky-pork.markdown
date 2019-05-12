@@ -2,6 +2,7 @@
 layout: post
 title:  "Twice cooked leeky pork"
 date:   2018-05-09 20:29:00
+publishdate:   2018-05-09 20:29:00
 tags: ["fish","asian"] 
 author: oli
 image: "/images/blog/twice-cooked-leeky-pork/twice-cooked-leeky-pork-07.jpg"

@@ -2,6 +2,7 @@
 layout: post
 title:  "Slow cooked beef shin chilli"
 date:   2017-04-23 18:32:30
+publishdate:   2017-04-23 18:32:30
 tags: ["beef","chilli"]
 author: oli
 image: "/images/blog/shin_beef_chilli/shin_beef_chilli_15.jpg"

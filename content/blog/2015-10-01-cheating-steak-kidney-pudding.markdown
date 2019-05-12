@@ -2,6 +2,7 @@
 layout: post
 title:  "Cheating steak and kidney pudding"
 date:   2015-10-01 19:29:12
+publishdate:   2015-10-01 19:29:12
 tags: ["beef","pie" ,"cheating"]
 author: oli
 image: "/images/blog/steak-kidney/steak-kidney-8.jpg"
