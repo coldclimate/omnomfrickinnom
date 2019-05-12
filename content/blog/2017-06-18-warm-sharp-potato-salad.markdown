@@ -2,7 +2,7 @@
 layout: post
 title:  "Warm and sharp potato salad"
 date:   2017-06-18 18:25:00
-tags: ["sidedish","potato"] 
+tags: ["sidedish","potatoes"] 
 author: oli
 image: "/images/blog/warm-sharp-potato-salad/warm-sharp-potato-salad-03.jpg"
 ---

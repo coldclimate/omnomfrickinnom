@@ -3,7 +3,7 @@ layout: post
 title:  "Slow cooking beef with dumplings"
 date:   2019-01-14 18:35:00
 author: oli
-tags: ["slow cooker", "comfort food", "beef"]
+tags: ["slowcooker", "comfort food", "beef"]
 image: "/images/blog/slow-beef-dumplings/slow-beef-dumplings-5.jpg"
 ---
 

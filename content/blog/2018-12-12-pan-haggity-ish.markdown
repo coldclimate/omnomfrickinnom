@@ -3,7 +3,7 @@ layout: post
 title:  "Pan Haggityish"
 date:   2018-12-12 19:42:00
 author: oli
-tags: ["potato", "cheese", "bacon"]
+tags: ["potatoes", "cheese", "bacon"]
 image: "/images/blog/pan_haggityish/pan_haggityish_04.jpg"
 ---
 

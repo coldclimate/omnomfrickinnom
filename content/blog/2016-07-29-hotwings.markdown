@@ -2,7 +2,7 @@
 layout: post
 title:  "Hotwings"
 date:   2016-07-29 20:24:30
-tags: ["chicken","american"]
+tags: ["chicken","fried chicken", "spicy"]
 author: oli
 image: "/images/blog/hotwings/hotwings-5.jpg"
 ---

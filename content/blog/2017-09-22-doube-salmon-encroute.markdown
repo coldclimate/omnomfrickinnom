@@ -2,7 +2,7 @@
 layout: post
 title:  "Double salmon en croute"
 date:   2017-09-22 19:46:00
-tags: ["salmon","poshtea"]
+tags: ["salmon","posh tea", "pastry"]
 author: oli
 image: "/images/blog/double-salmon-encroute/double-salmon-encroute-02.jpg"
 ---
