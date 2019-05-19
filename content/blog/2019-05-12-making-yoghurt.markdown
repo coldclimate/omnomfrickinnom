@@ -41,7 +41,7 @@ As with all fermenting/uncooked things, cleanliness is the key.  Make sure that 
 
 A little sour, a nice "pouring and coating" consistency.  It's creamy and rich, great on it's own or for cooking with.  Now what needs 3 litres of yoghurt?
 
-![Ingrediants](/images/blog/making-yoghurt/making-yoghurt-01.jpg)
-![Nearly up to temperature](/images/blog/making-yoghurt/making-yoghurt-02.jpg)
-![Snug as a bug in a blanket in my favorite chair](/images/blog/making-yoghurt/making-yoghurt-03.jpg)
-![The finished article](/images/blog/making-yoghurt/making-yoghurt-04.jpg)
+![Ingrediants](/images/blog/making-yoghurt/making-yoghurt-1.jpg)
+![Nearly up to temperature](/images/blog/making-yoghurt/making-yoghurt-2.jpg)
+![Snug as a bug in a blanket in my favorite chair](/images/blog/making-yoghurt/making-yoghurt-3.jpg)
+![The finished article](/images/blog/making-yoghurt/making-yoghurt-4.jpg)
