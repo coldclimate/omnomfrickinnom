@@ -4,7 +4,7 @@ title:  "Soft wraps with oven roast veg and two cheee"
 date:   2019-05-19 20:18:00
 publishdate:   2019-05-19 20:18:00
 author: oli
-image: "/images/blog/making-yoghurt/making-yoghurt-1.jpg"
+image: "/images/blog/double-cheese-oven-baked-flatbreads-03.jpg"
 tags: ["flat bread", "halloumi"]
 ---
 
