@@ -4,7 +4,7 @@ title:  "Saag paneer"
 date:   2019-05-31 19:18:00
 publishdate:   2019-05-31 19:18:00
 author: oli
-image: "/images/blog/lamb-kofta-bitey-salsa-verde-1.jpg"
+image: "/images/blog/saag-paneer/saag-paneer-1.jpg"
 tags: ["cheese", "spinach", "indian"]
 ---
 
