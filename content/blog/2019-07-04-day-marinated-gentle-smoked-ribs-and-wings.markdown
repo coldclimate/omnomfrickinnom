@@ -4,7 +4,7 @@ title:  "Day long marinades and lightly smoked wings and ribs"
 date:   2019-07-05 19:18:00
 publishdate:   2019-07-05 19:18:00
 author: oli
-image: "/images/blog/bbq-garlic-mint-lamb/bbq-garlic-mint-lamb-4.jpg"
+image: "/images/blog/day-marinated-gentle-smoked-ribs-and-wings/day-marinated-gentle-smoked-ribs-and-wings-8.jpg"
 tags: ["bbq", "garlic", "pork", "chicken", "apple wood"]
 ---
 
