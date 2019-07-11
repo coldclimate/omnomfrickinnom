@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Saag Black Pudding"
-date:   2019-07-11 19:54:00
-publishdate:   2019-07-11 19:54:00
+date:   2019-07-11 16:54:00
+publishdate:   2019-07-11 16:54:00
 author: oli
 image: "/images/blog/saag-blackpudding-01.jpg"
 tags: ["spicy","black pudding", "saag"]
@@ -14,13 +14,13 @@ This week I've had a near terminal case of manflu.  I also found 300g of blackpu
 
 ## You will need
 
-* Everything except the cheese in the XXXXXXXX
+* Everything except the cheese in the {{< ref "/blog/2019-05-31-saag-paneer" >}}
 * Black pudding cut into thick rounds
 
 
 ## Do
 
-* Follow all the steps in XXXXXXX other than those for the cheese
+* Follow all the steps in {{< ref "/blog/2019-05-31-saag-paneer" >}} other than those for the cheese
 * Grill the blackpudding until crisp on the outside
 * Reserve the fat that leeches out
 * Stir the blankpudding and it's fat though the spinach sauce
