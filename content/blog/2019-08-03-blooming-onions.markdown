@@ -4,7 +4,7 @@ title:  "Blooming onions and fried chicken"
 date:   2019-08-03 16:54:00
 publishdate:   2019-08-03 16:54:00
 author: oli
-image: "/images/blog/green-beans-dry-pork.jpg"
+image: "/images/blog/blooming-onions/blooming-onions-06.jpg"
 tags: ["fried","onion", "fried chicken", "fried onion"]
 ---
 
