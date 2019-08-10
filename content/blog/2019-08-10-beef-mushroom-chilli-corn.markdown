@@ -4,7 +4,7 @@ title:  "Beef and mushroom chilli with sweatcorn cornbread muffins"
 date:   2019-08-10 16:54:00
 publishdate:   2019-08-10 16:54:00
 author: oli
-image: "/images/blog/blooming-onions/blooming-onions-06.jpg"
+image: "/images/blog/beef-mushroom-chilli-corn-2.jpg"
 tags: ["beef", "chilli", "cornbread"]
 ---
 
