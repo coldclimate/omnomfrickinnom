@@ -23,6 +23,7 @@ The traditional accompaniment to chilli (not that this is a real chilli, my Texa
 * A heaped teaspoon of tomato paste
 * A heaped teaspoon of english mustard (I was having a use up)
 * About 200ml of beer
+* A tin of blackbeans
 * A big handful of mixed herbs - I had marjoram and thyme
 * A clove of garlic
 * Chillis (I used 3 long cayenne)
