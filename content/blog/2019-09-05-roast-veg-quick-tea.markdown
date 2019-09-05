@@ -4,7 +4,7 @@ title:  "Quick roast vegetable tea"
 date:   2019-09-05 16:54:00
 publishdate:   2019-09-05 16:54:00
 author: oli
-image: "/images/blog/roast-veg-quick-tea-01.jpg"
+image: "/images/blog/roast-veg-quick-tea-02.jpg"
 tags: ["vegetables", "halloumi", "lentils"]
 ---
 
