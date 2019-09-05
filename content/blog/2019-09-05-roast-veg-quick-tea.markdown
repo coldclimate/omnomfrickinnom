@@ -23,7 +23,7 @@ Oh, and there was halloumi, which is always welcome.
 * A big red onion cut into 32 pieces
 * A block of halloumi cut into 1.5cm cubes
 * A couple of heaped teaspoons of garlic butter
-* A packet of ready made grains (a bit like these ones)[https://amzn.to/2LkYRlq]
+* A packet of ready made grains [a bit like these ones](https://amzn.to/2LkYRlq)
 * A handful of fresh herbs (I used up some sprouting parsley, a few mint leaves and some soft leaf thyme) finely chopped
 * A blob of plain yoghurt
 * A splash (a scant teaspoon) of wine vinegar (of fruit vinegar, something to take to edge off the fat)
@@ -31,7 +31,7 @@ Oh, and there was halloumi, which is always welcome.
 ## Do
 
 * Pop the oven on 180oC
-* Dump everything except the grains, herbs, vinegar and yoghurt into a roasting tin (yes, another excuse to break out the (Le Creuset Roasting Tin)[https://amzn.to/2LoQAx7])
+* Dump everything except the grains, herbs, vinegar and yoghurt into a roasting tin (yes, another excuse to break out the [Le Creuset Roasting Tin](https://amzn.to/2LoQAx7)
 * Roast until it's all golden and softened and delicious
 * Dump the lentil packet in, give it a stir and return to the oven for 5 minutes
 * Serve with the vinegar, herbs and yoghurt on the top
