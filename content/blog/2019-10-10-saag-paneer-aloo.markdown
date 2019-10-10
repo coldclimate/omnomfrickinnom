@@ -26,6 +26,7 @@ I've always loves saag paneer, but it's a serious quantity of cheese in a meal. 
 * A fresh chilli sliced along it's length
 * A heaped teaspoon of kashmiri chilli powder
 * A heaped teaspoon of garam masala
+* A heaped teaspoon of tumeric
 * A tablespoon of butter
 * A good pinch of salt
 * A couple of teaspoons of natural oil (mine is in a spray bottle)
