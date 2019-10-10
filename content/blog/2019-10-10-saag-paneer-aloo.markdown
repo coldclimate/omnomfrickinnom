@@ -45,7 +45,7 @@ I've always loves saag paneer, but it's a serious quantity of cheese in a meal. 
 
 ## Result
 
-Just a little too greesy, very spicy, nicely bitter.  The chicken comes away from the bone, the onion has broken down enough to to form a velvety sauce.  The naans should have puffed up but have a slightly "layered" texture.
+Freaking delicious
 
 ![Roast potatoes](/images/blog/saag-paneer-aloo-01.jpg)
 ![GET IN MY FACE](/images/blog/saag-paneer-aloo-02.jpg)
