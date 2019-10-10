@@ -13,8 +13,6 @@ The airfrier came into it's own this week when I discovered I could use it to ma
 I've always loves saag paneer, but it's a serious quantity of cheese in a meal.  Using an equal amount of cheese and roast potato really lightens the dish.
 
 
-
-
 ## You will need
 
 * A block of paneer cut into 1.5sm chunks
