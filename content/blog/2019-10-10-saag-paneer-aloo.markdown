@@ -4,7 +4,7 @@ title:  "Saag Aloo Paneer"
 date:   2019-10-10 17:30:00
 publishdate:   2019-10-10 17:30:00
 author: oli
-image: "/images/blog/fakeaway-vindaloo/fakeaway-vindaloo-6.jpg"
+image: "/images/blog/saag-paneer-aloo-02.jpg"
 tags: ["spinach", "curry", "takeaway", "potato"]
 ---
 
