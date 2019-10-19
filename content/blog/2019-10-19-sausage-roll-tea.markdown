@@ -20,7 +20,7 @@ Yet more [Completely Perfect](https://amzn.to/2OA8sqI) for a Saturday tea, but t
 * A heavy pinch of mustard powder
 * A couple teaspons of really cold water
 * An egg
-* A teaspoon of nigella seeds 
+* A teaspoon of [nigella seeds](https://amzn.to/2BpDgCD) 
 
 ### The meat filling
 
