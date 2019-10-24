@@ -8,15 +8,15 @@ image: "/images/blog/saag-paneer-aloo-02.jpg"
 tags: ["spinach", "curry", "takeaway", "potato"]
 ---
 
-The airfrier came into it's own this week when I discovered I could use it to make tiny cubed roast potatoes. Delicious in their own right, but excellent as part of the bulk of a meal.
+The airfrier came into its own this week when I discovered I could use it to make tiny cubed roast potatoes. Delicious in their own right, but excellent as part of the bulk of a meal.
 
-I've always loves saag paneer, but it's a serious quantity of cheese in a meal.  Using an equal amount of cheese and roast potato really lightens the dish.
+I've always loved saag paneer, but it's a serious quantity of cheese in a meal.  Using an equal amount of cheese and roast potato really lightens the dish.
 
 
 ## You will need
 
 * A block of paneer cut into 1.5sm chunks
-* A couple of potatos, roughly twice the volume of the cheese, cut into 1.5sm chunks
+* A couple of potatoes, roughly twice the volume of the cheese, cut into 1.5sm chunks
 * A massive bag of fresh spinach (mine was 500g)
 * A small onion finely sliced
 * A heaped teaspooon of grated ginger
