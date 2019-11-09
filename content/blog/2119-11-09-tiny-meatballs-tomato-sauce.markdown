@@ -8,7 +8,7 @@ image: "/images/blog/tiny-meatballs-tomato-sauce-2.jpg"
 tags: ["tomato", "beef", "pasta"]
 ---
 
-Roughly this time last year I made {{< ref "2018-12-02-roasted-meatballs.md" >}} for the first time and it is excellent, we've had it numerous times.  Tonight I decided to enrich it a little with some leftover double cream and tweak the spice mix a bit.  It worked out well, hence, a new post.
+Roughly this time last year I made {{< ref "2018-12-02-roasted-meatballs.markdown" >}} for the first time and it is excellent, we've had it numerous times.  Tonight I decided to enrich it a little with some leftover double cream and tweak the spice mix a bit.  It worked out well, hence, a new post.
 
 ## You will need
 
