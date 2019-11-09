@@ -4,7 +4,7 @@ title:  "Tiny meatballs in roast tomato sauce"
 date:   2019-11-09 18:30:00
 publishdate:   2019-11-09 18:30:00
 author: oli
-image: "/images/blog/tiny-meatballs-tomato-sauce-2.jpg"
+image: "/images/blog/tiny-meatballs-tomato-sauce-1.jpg"
 tags: ["tomato", "beef", "pasta"]
 ---
 
@@ -45,5 +45,5 @@ Roughly this time last year I made {{< ref "2018-12-02-roasted-meatballs.markdow
 The sauce is sharp but sharp.  The small size of meatballs means that they're crunchy on the outside.  Resting it all together before serving gives the pasta a chance to soak up some of the sauce.
 
 
-![Ingrediants](/images/blog/tiny-meatballs-tomato-sauce-1.jpg)
-![GET IN MY FACE](/images/blog/tiny-meatballs-tomato-sauce-2.jpg)
+![Ingrediants](/images/blog/tiny-meatballs-tomato-sauce-2.jpg)
+![GET IN MY FACE](/images/blog/tiny-meatballs-tomato-sauce-1.jpg)
