@@ -4,7 +4,7 @@ title:  "Christmas Loaf"
 date:   2019-11-30 18:30:00
 publishdate:   2019-11-30 18:30:00
 author: oli
-image: "/images/blog/christmas-loaf/christmas-loaf-01.jpg"
+image: "(/images/blog/christmas-loaf/christmas-loaf-4.jpg"
 tags: ["bread", "christmas", "spice"]
 ---
 
