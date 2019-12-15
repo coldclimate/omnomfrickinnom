@@ -3,7 +3,7 @@ layout: post
 title:  "Sticky soy honey salmon"
 date:   2018-05-08 20:32:00
 publishdate:   2018-05-08 20:32:00
-tags: ["fish","asian"] 
+tags: ["fish","asian", "2018"]
 author: oli
 image: "/images/blog/soy-honey-salmon/soy-honey-salmon_03.jpg"
 ---

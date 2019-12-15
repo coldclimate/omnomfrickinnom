@@ -4,7 +4,7 @@ title:  "Sausages in a chunky gravy"
 date:   2018-12-09 20:36:00
 publishdate:   2018-12-09 20:36:00
 author: oli
-tags: ["sausages", "gravy", "comfort food"]
+tags: ["sausages", "gravy", "comfort food", "2018"]
 image: "/images/blog/sausages-chunky-gravy/sausages-chunky-gravy-05.jpg"
 ---
 

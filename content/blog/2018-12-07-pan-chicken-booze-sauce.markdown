@@ -4,7 +4,7 @@ title:  "Pan fried meat with rich sauce"
 date:   2018-12-07 19:10:00
 publishdate:   2018-12-07 19:10:00
 author: oli
-tags: ["pan fried", "booze"]
+tags: ["pan fried", "booze", "2018"]
 image: "/images/blog/pan-chicken-booze-sauce/pan-chicken-booze-sauce-04.jpg"
 ---
 

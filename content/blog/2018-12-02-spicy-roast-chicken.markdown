@@ -4,7 +4,7 @@ title:  "Spicy roast chicken"
 date:   2018-12-02 19:10:00
 publishdate:   2018-12-02 19:10:00
 author: oli
-tags: ["chicken", "spicy"]
+tags: ["chicken", "spicy", "2018"]
 image: "/images/blog/spicy-baked-chicken/spicy-baked-chicken_03.jpg"
 ---
 

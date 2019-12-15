@@ -3,7 +3,7 @@ layout: post
 title:  "Reaper Roasted Salsa"
 date:   2018-03-18 13:32:00
 publishdate:   2018-03-18 13:32:00
-tags: ["snacks","hotsauce"] 
+tags: ["snacks","hotsauce", "2018"]
 author: oli
 image: "/images/blog/reaper-roasted-salsa/reaper-roasted-salsa_03.jpg"
 ---

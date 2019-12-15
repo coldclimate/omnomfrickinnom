@@ -3,7 +3,7 @@ layout: post
 title:  "Mostly spherical casserole"
 date:   2018-02-10 19:49:00
 publishdate:   2018-02-10 19:49:00
-tags: ["casserole"] 
+tags: ["casserole", "2018"]
 author: oli
 image: "/images/blog/easter"
 ---
