@@ -3,7 +3,7 @@ layout: post
 title:  "Leek and potato soup"
 date:   2014-11-30 19:12:52
 publishdate:   2014-11-30 19:12:52
-tags: ["vegetarian","leek","soup","winter"]
+tags: ["vegetarian","leek","soup","winter", "2014"]
 author: oli
 image: "/images/blog/leek_soup/leek_soup_ingrediants.jpg"
 ---

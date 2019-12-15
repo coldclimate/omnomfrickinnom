@@ -3,7 +3,7 @@ layout: post
 title:  "Miso poached teriyai chicken"
 date:   2016-08-08 20:23:30
 publishdate:   2016-08-08 20:23:30
-tags: ["chicken","miso"]
+tags: ["chicken","miso", "2016"]
 author: oli
 image: "/images/blog/miso-poached-teriyaki-chicken.jpg"
 ---

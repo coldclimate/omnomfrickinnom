@@ -3,7 +3,7 @@ layout: post
 title:  "Sweet and sour pork"
 date:   2015-11-01 17:58:12
 publishdate:   2015-11-01 17:58:12
-tags: ["chinese","pork"]
+tags: ["chinese","pork", "2015"]
 author: oli
 image: "/images/blog/sweet-and-sour-pork/sweet-and-sour-pork-6.jpg"
 ---

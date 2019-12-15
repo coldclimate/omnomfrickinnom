@@ -3,7 +3,7 @@ layout: post
 title:  "Baconated Sprouts"
 date:   2015-02-16 20:19:15
 publishdate:   2015-02-16 20:19:15
-tags: ["sidedish","bacon","sprouts"]
+tags: ["sidedish","bacon","sprouts", "2015"]
 author: oli
 image: "/images/blog/baconatedsprouts/baconated-sprouts-finished.jpg"
 ---

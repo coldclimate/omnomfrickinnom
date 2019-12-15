@@ -3,7 +3,7 @@ layout: post
 title:  "Ribs"
 date:   2016-02-27 18:27:30
 publishdate:   2016-02-27 18:27:30
-tags: ["bbq","ribs","pork"]
+tags: ["bbq","ribs","pork", "2016"]
 author: oli
 image: "/images/blog/ribs/ribs-3.jpg"
 ---

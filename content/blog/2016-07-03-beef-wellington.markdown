@@ -3,7 +3,7 @@ layout: post
 title:  "Beef Wellington"
 date:   2016-07-03 18:47:30
 publishdate:   2016-07-03 18:47:30
-tags: ["beef", "posh"]
+tags: ["beef", "posh", "2016"]
 author: oli
 image: "/images/blog/beef-wellington/beef-wellington-09.jpg"
 ---

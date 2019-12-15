@@ -3,7 +3,7 @@ layout: post
 title:  "Perfect roast potatoes"
 date:   2016-01-02 20:31:30
 publishdate:   2016-01-02 20:31:30
-tags: ["roast","potatoes"]  
+tags: ["roast","potatoes", "2016"]
 author: oli
 image: "/images/blog/perfect-roasties/perfect-roasties-7.jpg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "BBQd Rib of Beef"
 date:   2014-07-09 19:22:52
 publishdate:   2014-07-09 19:22:52
-tags: ["beef","bbq"]
+tags: ["beef","bbq", "2014"]
 author: oli
 image: "/images/blog/bbq-beef-rib-3.jpg"
 ---

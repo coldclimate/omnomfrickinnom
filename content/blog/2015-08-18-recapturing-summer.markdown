@@ -3,7 +3,7 @@ layout: post
 title:  "Summer tart"
 date:   2015-08-18 20:01:12
 publishdate:   2015-08-18 20:01:12
-tags: ["summer"]
+tags: ["summer", "2015"]
 author: oli
 image: "/images/blog/summer-tart/summer-5.jpg"
 ---

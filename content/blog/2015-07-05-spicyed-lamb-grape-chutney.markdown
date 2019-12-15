@@ -3,7 +3,7 @@ layout: post
 title:  "Spiced roast lamb with a fresh grape chutney"
 publishdate:   2015-07-05 19:20:12
 date:   2015-07-05 19:20:12
-tags: ["lamb","spicy","bbq"]
+tags: ["lamb","spicy","bbq", "2015"]
 author: oli
 image: "/images/blog/lamb-grape/lamb4.jpg"
 ---

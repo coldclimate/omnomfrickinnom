@@ -3,7 +3,7 @@ layout: post
 title:  "Sloe gin"
 date:   2015-10-25 17:20:12
 publishdate:   2015-10-25 17:20:12
-tags: ["gin","hedgerow"]
+tags: ["gin","hedgerow", "2015"]
 author: oli
 image: "/images/blog/sloe-gin-2.jpg"
 ---

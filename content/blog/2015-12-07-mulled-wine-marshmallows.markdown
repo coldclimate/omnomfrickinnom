@@ -3,7 +3,7 @@ layout: post
 title:  "Mulled wine marshmallows"
 date:	2015-12-6 20:30:12
 publishdate:	2015-12-6 20:30:12
-tags: ["sweets","wine"]
+tags: ["sweets","wine", "2015"]
 author: oli
 image: "/images/blog/mulled_wine_marshmallows/mulled_wine_marshmallows_7.jpg"
 ---

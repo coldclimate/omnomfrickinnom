@@ -3,7 +3,7 @@ layout: post
 title:  "Slow cooked North African(ish) lamb"
 date:   2014-07-09 19:22:52
 publishdate:   2014-07-09 19:22:52
-tags: ["lamb","slowcooker"]
+tags: ["lamb","slowcooker", "2014"]
 author: oli
 image: "/images/blog/slow-lamb-north-african.jpg"
 ---

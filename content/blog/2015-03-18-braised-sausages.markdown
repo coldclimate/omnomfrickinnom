@@ -3,7 +3,7 @@ layout: post
 title:  "Braised Sausages"
 date:   2015-03-18 20:25:11
 publishdate:   2015-03-18 20:25:11
-tags: ["sausages","comfort food"]
+tags: ["sausages","comfort food", "2015"]
 author: oli
 image: "/images/blog/sausages/braised_sausages_4.jpg"
 ---

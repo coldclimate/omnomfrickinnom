@@ -3,7 +3,7 @@ layout: post
 title:  "Baked pearl barley chicken"
 date:   2015-01-08 21:22:52
 publishdate:   2015-01-08 21:22:52
-tags: ["chicken","baked","left-overs"]
+tags: ["chicken","baked","left-overs", "2014"]
 author: oli
 image: "/images/blog/baked-pearl-barley-chicken.jpg"
 ---

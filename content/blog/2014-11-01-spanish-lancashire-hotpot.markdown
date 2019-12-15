@@ -3,7 +3,7 @@ layout: post
 title:  "Spain Vs Lancashire"
 date:   2014-11-01 13:22:52
 publishdate:   2014-11-01 13:22:52
-tags: ["comfort food"] 
+tags: ["comfort food", "2014"]
 author: oli
 image: "/images/blog/spanish_on_the_plate.jpg"
 ---

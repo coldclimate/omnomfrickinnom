@@ -3,7 +3,7 @@ layout: post
 title:  "Hipster pot noodles"
 date:   2015-09-08 19:47:12
 publishdate:   2015-09-08 19:47:12
-tags: ["lunch","noodles"]
+tags: ["lunch","noodles", "2015"]
 author: oli
 image: "/images/blog/hipster-potnoodle/hipster-potnoodle-4.jpg"
 ---

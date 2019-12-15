@@ -3,7 +3,7 @@ layout: post
 title:  "Camping food: Moroccan Lamb"
 date:   2016-05-31 18:43:30
 publishdate:   2016-05-31 18:43:30
-tags: ["camping","lamb"]
+tags: ["camping","lamb", "2016"]
 author: oli
 image: "/images/blog/moroccan-lamb/moroccan-lamb-5.jpg"
 ---

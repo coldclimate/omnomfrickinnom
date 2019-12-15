@@ -3,7 +3,7 @@ layout: post
 title:  "Beef rib with Thai style salad"
 date:   2015-09-05 21:37:12
 publishdate:   2015-09-05 21:37:12
-tags: ["beef","thai"] 
+tags: ["beef","thai", "2015"]
 author: oli
 image: "/images/blog/beef-rib-thai-salad.jpg"
 ---

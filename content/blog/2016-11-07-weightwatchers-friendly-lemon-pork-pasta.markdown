@@ -3,7 +3,7 @@ layout: post
 title:  "WeightWatcher Friendly Lemon Peel and Pork Meatball Pasta"
 date:   2016-11-07 20:00:30
 publishdate:   2016-11-07 20:00:30
-tags: ["pork","weightwatchers"]
+tags: ["pork","weightwatchers", "2016"]
 author: oli
 image: "/images/blog/lemon-pork-pasta/lemon-pork-pasta-08.jpg"
 ---

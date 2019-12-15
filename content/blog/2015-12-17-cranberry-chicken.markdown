@@ -3,7 +3,7 @@ layout: post
 title:  "Cranberry chicken"
 date:   2015-12-17 20:30:30
 publishdate:   2015-12-17 20:30:30
-tags: ["chicken", "xmas"] 
+tags: ["chicken", "xmas", "2015"]
 author: oli
 image: "/images/blog/cranberry_chicken/cranberry_chicken_2.jpg"
 ---

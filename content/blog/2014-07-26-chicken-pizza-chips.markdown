@@ -3,7 +3,7 @@ layout: post
 title:  "Chicken Pizza Chips"
 date:   2014-07-27 19:22:52
 publishdate:   2014-07-27 19:22:52
-tags: ["chicken","economic","guilty pleasure"]
+tags: ["chicken","economic","guilty pleasure", "2014"]
 author: oli
 image: "/images/blog/chicken-pizza-chips-2.jpg"
 ---

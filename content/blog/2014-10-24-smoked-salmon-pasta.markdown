@@ -3,7 +3,7 @@ layout: post
 title:  "Smoked salmon pasta"
 date:   2014-10-24 19:22:52
 publishdate:   2014-10-24 19:22:52
-tags: ["quick","cheese","pasta"]
+tags: ["quick","cheese","pasta", "2014"]
 author: oli
 image: "/images/blog/smoked_salmon_spinch_pasta.jpg"
 ---

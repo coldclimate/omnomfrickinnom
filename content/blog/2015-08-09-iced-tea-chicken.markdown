@@ -3,7 +3,7 @@ layout: post
 title:  "Iced tea fried chicken and sharp coleslaw"
 date:   2015-08-09 18:50:12
 publishdate:   2015-08-09 18:50:12
-tags: ["comfort food","chicken"] 
+tags: ["comfort food","chicken", "2015"]
 author: oli
 image: "/images/blog/idea-tea-chicken/iced_tea_chicken_9.jpg"
 ---

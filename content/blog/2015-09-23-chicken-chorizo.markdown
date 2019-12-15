@@ -3,7 +3,7 @@ layout: post
 title:  "Chicken and Chorizo salad with fried chicken skin coutons"
 date:   2015-09-23 21:12:12
 publishdate:   2015-09-23 21:12:12
-tags: ["chicken","salad"]
+tags: ["chicken","salad", "2015"]
 author: oli
 image: "/images/blog/chicken-chorizo/chicken-chorizo-6.jpg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Barbequed watermelon, feta and mint salad"
 publishdate:   2015-07-21 20:13:12
 date:   2015-07-21 20:13:12
-tags: ["salad","bbq"]
+tags: ["salad","bbq", "2015"]
 author: oli
 image: "/images/blog/melon-mint-feta.jpg"
 ---

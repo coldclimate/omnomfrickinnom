@@ -3,7 +3,7 @@ layout: post
 title:  "Charred steaks"
 date:   2016-08-03 20:24:30
 publishdate:   2016-08-03 20:24:30
-tags: ["beef","blowtorch"]
+tags: ["beef","blowtorch", "2016"]
 author: oli
 image: "/images/blog/charred-steak/charred-steak-3.jpg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Strawberry jam with chilli and lime"
 date:   2015-07-25 13:05:12
 publishdate:   2015-07-25 13:05:12
-tags: ["fruit","jam","strawberry","chilli"]
+tags: ["fruit","jam","strawberry","chilli", "2015"]
 author: oli
 image: "/images/blog/strawberry/strawberry-3.jpg"
 ---

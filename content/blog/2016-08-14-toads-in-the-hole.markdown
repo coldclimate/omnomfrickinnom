@@ -3,7 +3,7 @@ layout: post
 title:  "Toads in the hole"
 date:   2016-08-14 19:05:30
 publishdate:   2016-08-14 19:05:30
-tags: ["sausages"]
+tags: ["sausages", "2016"]
 author: oli
 image: "/images/blog/toads-in-the-holes-2.jpg"
 ---

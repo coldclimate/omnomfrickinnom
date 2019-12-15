@@ -3,7 +3,7 @@ layout: post
 title:  "Breaded pork chop"
 date:   2016-06-04 21:02:30
 publishdate:   2016-06-04 21:02:30
-tags: ["pork"]
+tags: ["pork", "2016"]
 author: oli
 image: "/images/blog/breaded_pork/breaded_pork_3.jpg"
 ---

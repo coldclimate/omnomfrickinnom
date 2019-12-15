@@ -3,7 +3,7 @@ layout: post
 title:  "More Mushrooms"
 date:   2015-08-27 21:37:12
 publishdate:   2015-08-27 21:37:12
-tags: ["mushrooms"] 
+tags: ["mushrooms", "2015"]
 author: oli
 image: "/images/blog/more_mushrooms/more_mushrooms_5.jpg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Sex, drugs and Lobster Roll"
 date:   2016-02-21 18:19:30
 publishdate:   2016-02-21 18:19:30
-tags: ["lobster"]
+tags: ["lobster", "2016"]
 author: oli
 image: "/images/blog/lobster-roll/lobster-roll-4.jpg"
 ---

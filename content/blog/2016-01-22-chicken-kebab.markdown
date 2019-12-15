@@ -3,7 +3,7 @@ layout: post
 title:  "Homemade chicken kebab"
 date:   2016-01-22 21:34:30
 publishdate:   2016-01-22 21:34:30
-tags: ["chicken", "kebab"]  
+tags: ["chicken", "kebab", "2016"]
 author: oli
 image: "/images/blog/kebab.jpg"
 ---

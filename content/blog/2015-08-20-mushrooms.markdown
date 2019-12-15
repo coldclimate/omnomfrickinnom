@@ -3,7 +3,7 @@ layout: post
 title:  "Mushrooms on toast"
 date:   2015-08-20 18:27:12
 publishdate:   2015-08-20 18:27:12
-tags: ["mushrooms"] 
+tags: ["mushrooms", "2015"]
 author: oli
 image: "/images/blog/mushrooms/mushrooms-4.jpg"
 ---

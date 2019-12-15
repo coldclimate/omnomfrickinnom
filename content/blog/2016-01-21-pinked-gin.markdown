@@ -3,7 +3,7 @@ layout: post
 title:  "Pinked Gin"
 date:   2016-01-21 19:01:30
 publishdate:   2016-01-21 19:01:30
-tags: ["gin"]  
+tags: ["gin", "2016"]
 author: oli
 image: "/images/blog/pinked_gin.jpg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Sloe gin decanted"
 date:   2015-12-24 17:20:12
 publishdate:   2015-12-24 17:20:12
-tags: ["gin","hedgerow"]
+tags: ["gin","hedgerow", "2015"]
 author: oli
 image: "/images/blog/sloe_gin_finished_3.jpg"
 ---

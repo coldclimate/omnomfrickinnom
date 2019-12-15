@@ -3,7 +3,7 @@ layout: post
 title:  "Moroccan Livers"
 date:   2016-03-16 19:33:30
 publishdate:   2016-03-16 19:33:30
-tags: ["liver","moroccan"]
+tags: ["liver","moroccan", "2016"]
 author: oli
 image: "/images/blog/moroccan-liver/moroccan-liver-4.jpg"
 ---

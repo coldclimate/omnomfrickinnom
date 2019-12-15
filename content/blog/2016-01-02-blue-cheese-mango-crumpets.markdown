@@ -3,7 +3,7 @@ layout: post
 title:  "Blue cheese and mango pickle crumpets"
 date:   2016-01-02 21:31:30
 publishdate:   2016-01-02 21:31:30
-tags: ["cheese","crumpets"]
+tags: ["cheese","crumpets", "2016"]
 author: oli
 image: "/images/blog/blue-cheese-mango-crumpets.jpg"
 ---

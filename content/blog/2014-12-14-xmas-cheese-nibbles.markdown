@@ -3,7 +3,7 @@ layout: post
 title:  "Christmas cheese nibbles suitable for eating with wine and beers in polite company, possibly where you need to not get too drunk and tell inappropriate stories"
 date:   2014-12-14 16:12:52
 publishdate:   2014-12-14 16:12:52
-tags: ["cheese", "nibbles"]
+tags: ["cheese", "nibbles", "2014"]
 author: oli
 image: "/images/blog/cheese-snacks/cheese-snacks.jpg"
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Crispy sticky deep fried beef"
 publishdate:   2015-07-21 21:13:12
 date:   2015-07-21 21:13:12
-tags: ["chinese","beef"]
+tags: ["chinese","beef", "2015"]
 author: oli
 image: "/images/blog/crispy-beef/crispy-beef-7.jpg"
 ---
