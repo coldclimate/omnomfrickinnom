@@ -3,7 +3,7 @@ layout: post
 title:  "Deviled kidneys and chips"
 date:   2017-07-06 19:57:00
 publishdate:   2017-07-06 19:57:00
-tags: ["kidney","offal"]
+tags: ["kidney","offal", "2017"]
 author: oli
 image: "/images/blog/devilled-kidneys-and-chips/devilled-kidneys-and-chips-04.jpg"
 ---

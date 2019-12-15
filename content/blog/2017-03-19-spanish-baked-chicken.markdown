@@ -3,7 +3,7 @@ layout: post
 title:  "Baked chicken with Spanish flavours"
 date:   2017-03-19 12:24:30
 publishdate:   2017-03-19 12:24:30
-tags: ["chicken","spanish","baked"]
+tags: ["chicken","spanish","baked", "2017"]
 author: oli
 image: "/images/blog/spanish_baked_chicken.jpg"
 ---

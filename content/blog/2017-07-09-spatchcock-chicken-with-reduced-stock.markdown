@@ -3,7 +3,7 @@ layout: post
 title:  "Spatchcock chicken with a reduced stock"
 date:   2017-07-09 17:23:00
 publishdate:   2017-07-09 17:23:00
-tags: ["chicken"]
+tags: ["chicken", "2017"]
 author: oli
 image: "/images/blog/spatchcock-chicken-reduced-stock/spatchcock-chicken-reduced-stock-06.jpg"
 ---

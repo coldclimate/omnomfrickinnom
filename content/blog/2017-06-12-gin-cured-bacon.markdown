@@ -3,7 +3,7 @@ layout: post
 title:  "Gin cured bacon"
 date:   2017-06-12 20:44:00
 publishdate:   2017-06-12 20:44:00
-tags: ["bacon","curing"] 
+tags: ["bacon","curing", "2017"]
 author: oli
 image: "/images/blog/gin_cured_bacon/gin_cured_bason_00.jpg"
 ---

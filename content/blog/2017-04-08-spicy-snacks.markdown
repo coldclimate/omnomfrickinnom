@@ -3,7 +3,7 @@ layout: post
 title:  "Spicy pulses"
 date:   2017-04-08 18:35:30
 publishdate:   2017-04-08 18:35:30
-tags: ["snacks"]
+tags: ["snacks", "2017"]
 author: oli
 image: "/images/blog/snacks_02.jpg"
 ---

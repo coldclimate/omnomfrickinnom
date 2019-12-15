@@ -3,7 +3,7 @@ layout: post
 title:  "Crispy chicken wings"
 date:   2017-04-17 18:35:30
 publishdate:   2017-04-17 18:35:30
-tags: ["chicken"]
+tags: ["chicken", "2017"]
 author: oli
 image: "/images/blog/crispy_chicken_wings/crispy_chicken_wings_06.jpg"
 ---

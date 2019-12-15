@@ -3,7 +3,7 @@ layout: post
 title:  "Deep frying a turkey in Celsius"
 date:   2017-02-26 12:32:30
 publishdate:   2017-02-26 12:32:30
-tags: ["turkey","Celsius"]
+tags: ["turkey","Celsius", "2017"]
 author: oli
 image: "/images/blog/deep_frying_a_turkey_in_celsius/deep_frying_a_turkey_in_celsius_14.jpg"
 ---

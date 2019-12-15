@@ -3,7 +3,7 @@ layout: post
 title:  "Thai pork mince"
 date:   2017-11-08 19:52:00
 publishdate:   2017-11-08 19:52:00
-tags: ["pork","thai"]
+tags: ["pork","thai", "2017"]
 author: oli
 image: "/images/blog/thai_mince.jpg"
 ---

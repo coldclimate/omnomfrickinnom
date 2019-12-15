@@ -3,7 +3,7 @@ layout: post
 title:  "Curry goat"
 date:   2017-02-14 18:37:30
 publishdate:   2017-02-14 18:37:30
-tags: ["goat","curry"]
+tags: ["goat","curry", "2017"]
 author: oli
 image: "/images/blog/curry_goat/curry_goat_09.jpg"
 ---

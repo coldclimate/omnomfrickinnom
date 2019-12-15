@@ -13,7 +13,7 @@
                 <h2><span>All {{ humanize $currentTag }} Posts</span></h2>
             </div>            
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (.Pages) 12 }}
+                {{ $post_paginator := .Paginate (.Pages) 90 }}
                 {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}

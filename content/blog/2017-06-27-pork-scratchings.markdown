@@ -3,7 +3,7 @@ layout: post
 title:  "Pork Scratchings"
 date:   2017-06-27 17:48:00
 publishdate:   2017-06-27 17:48:00
-tags: ["pork","beer snacks"]
+tags: ["pork","beer snacks", "2017"]
 author: oli
 image: "/images/blog/pork-scratchings/pork-scratchings-04.jpg"
 ---

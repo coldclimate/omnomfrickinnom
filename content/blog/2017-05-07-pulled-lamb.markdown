@@ -3,7 +3,7 @@ layout: post
 title:  "Pulled lamb"
 date:   2017-05-07 19:36:00
 publishdate:   2017-05-07 19:36:00
-tags: ["lamb"] 
+tags: ["lamb", "2017"]
 author: oli
 image: "/images/blog/pulled-lamb/pulled-lamb-07.jpg"
 ---

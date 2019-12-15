@@ -3,7 +3,7 @@ layout: post
 title:  "Moroccany Lamb Chops"
 date:   2017-04-02 18:35:30
 publishdate:   2017-04-02 18:35:30
-tags: ["lamb"]
+tags: ["lamb", "2017"]
 author: oli
 image: "/images/blog/moroccany-lamb-chops/moroccany-lamb-chops_03.jpg"
 ---

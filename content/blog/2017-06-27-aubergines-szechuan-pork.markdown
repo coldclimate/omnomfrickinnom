@@ -3,7 +3,7 @@ layout: post
 title:  "Aubergines with szechuan spice and pork"
 date:   2017-06-27 21:17:00
 publishdate:   2017-06-27 21:17:00
-tags: ["pork", "szechuan"]
+tags: ["pork", "szechuan", "2017"]
 author: oli
 image: "/images/blog/aubergines-szechuan-pork/aubergines-szechuan-pork-05.jpg"
 ---

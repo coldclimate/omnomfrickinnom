@@ -3,7 +3,7 @@ layout: post
 title:  "Simple pasta bake"
 date:   2017-03-26 12:24:30
 publishdate:   2017-03-26 12:24:30
-tags: ["pasta"]
+tags: ["pasta", "2017"]
 author: oli
 image: "/images/blog/pasta-bake.jpg"
 ---
