@@ -5,7 +5,7 @@ date:   2019-12-15 15:30:00
 publishdate:   2019-12-15 15:30:00
 author: oli
 image: "(/images/blog/spicy-sweet-potato-instantpot-soup/spicy-sweet-potato-instantpot-soup-3.jpg"
-tags: ["soup", "instantpot", "sweet potato"]
+tags: ["soup", "instantpot", "sweet potato", "2019"]
 ---
 
 Instance I joined the Cult of Instant Pot I've become a fulltime convert.  The thing I love about it most is having everything in one pot which does everything.  It leads me to using multiple cooking methods in one dish (and with no washing up).  Pressure cooking isn't for everything, but it works brilliantly for soup.

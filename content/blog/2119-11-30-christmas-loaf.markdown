@@ -5,7 +5,7 @@ date:   2019-11-30 18:30:00
 publishdate:   2019-11-30 18:30:00
 author: oli
 image: "(/images/blog/christmas-loaf/christmas-loaf-4.jpg"
-tags: ["bread", "christmas", "spice"]
+tags: ["bread", "christmas", "spice", "2019"]
 ---
 
 This is an enriched bread dough, with a bunch of seasonal fruit, a dose of spice and some light brown sugar.  I threw in a tangarine too, which lead to too much moisture and to load sinking in the middle, but it tasted great.
