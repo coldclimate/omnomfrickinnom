@@ -4,7 +4,7 @@ title:  "Spicy dry fried beef with roast tomato salsa taco-a-likes"
 date:   2019-03-17 15:35:00
 publishdate:   2019-03-17 15:35:00
 author: oli
-tags: ["beef", "tacos", "hummus"]
+tags: ["beef", "tacos", "hummus","2019"]
 image: "/images/blog/dry-beef-roast-salsa-tacos-a-likes.jpg"
 ---
 

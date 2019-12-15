@@ -5,7 +5,7 @@ date:   2019-09-08 16:54:00
 publishdate:   2019-09-08 16:54:00
 author: oli
 image: "/images/blog/fakeaway/fakeaway-duck-pancakes-lemon-chicken-salt-pepper-prawns-6.jpg"
-tags: ["chinese", "duck", "takeaway", "lemon chicken", "prawns"]
+tags: ["chinese", "duck", "takeaway", "lemon chicken", "prawns","2019"]
 ---
 
 I love Chinese food, especially dim sum and Sichuan hot pot, but when it comes to takeaway, naff English style dishes are my weakness.  There's something about crispy fried things in a slightly gelatinous sauce that really hits the spot.

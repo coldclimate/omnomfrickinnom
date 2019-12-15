@@ -5,7 +5,7 @@ date:   2019-10-19 18:30:00
 publishdate:   2019-10-12 18:30:00
 author: oli
 image: "/images/blog/sausage-roll-tea/sausage-roll-tea-5.jpg"
-tags: ["sausage", "tea"]
+tags: ["sausage", "tea","2019"]
 ---
 
 Yet more [Completely Perfect](https://amzn.to/2OA8sqI) for a Saturday tea, but this time I went off piste when following [the perfect sausage rolls](https://www.theguardian.com/lifeandstyle/wordofmouth/2010/dec/02/how-make-perfect-sausage-rolls).  I love a sausage roll, they're much better than the sad limp party food they are thought of as. For these I asked the gang at [Block'n'Bottle](https://blocknbottle.com/) to mince me a piece of pork belly and a couple of slices of smoked bacon, skipping the pork shoulder that The Cloake suggests.  The end result was a touch greasy, so next time maybe I'll listen. I also upped the ratio of herbs and peel to meat.

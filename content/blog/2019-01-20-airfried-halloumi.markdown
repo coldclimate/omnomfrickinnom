@@ -4,7 +4,7 @@ title:  "Airfried Halloumi"
 date:   2019-01-20 19:35:00
 publishdate:   2019-01-20 19:35:00
 author: oli
-tags: ["cheese", "airfryer"]
+tags: ["cheese", "airfryer","2019"]
 image: "/images/blog/airfried-halloumi-02.jpg"
 ---
 

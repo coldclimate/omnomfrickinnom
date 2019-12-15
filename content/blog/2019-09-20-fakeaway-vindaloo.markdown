@@ -5,7 +5,7 @@ date:   2019-09-20 20:22:00
 publishdate:   2019-09-20 20:22:00
 author: oli
 image: "/images/blog/fakeaway-vindaloo/fakeaway-vindaloo-6.jpg"
-tags: ["chicken", "curry", "takeaway", "naan"]
+tags: ["chicken", "curry", "takeaway", "naan","2019"]
 ---
 
 Another Friday night fake takeaway, though this time probably just as unhealthy as the bought variety.  I realised I'd never had a vindaloo before, always writing them off as too hot (and thus generally not very flavoursom), but the combination of pork and mustard always sounded good.  Hence I made a chicken one, because that's what I had in.

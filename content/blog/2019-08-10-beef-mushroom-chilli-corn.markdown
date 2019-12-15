@@ -5,7 +5,7 @@ date:   2019-08-10 16:54:00
 publishdate:   2019-08-10 16:54:00
 author: oli
 image: "/images/blog/beef-mushroom-chilli-corn-2.jpg"
-tags: ["beef", "chilli", "cornbread"]
+tags: ["beef", "chilli", "cornbread","2019"]
 ---
 
 This year I've had more success than last year growing chillis, so it was high time I made a chilli with them.  I also managed to grow a tonne of herbs, so I thought I'd make use of them too.

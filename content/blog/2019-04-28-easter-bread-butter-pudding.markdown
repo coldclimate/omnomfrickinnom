@@ -4,7 +4,7 @@ title:  "Easter Bread & Butter Pudding"
 date:   2019-04-28 20:18:00
 publishdate:   2019-04-28 20:18:00
 author: oli
-tags: ["pudding", "bread"]
+tags: ["pudding", "bread","2019"]
 image: "/images/blog/easter-bread-butter-pudding-03.jpg"
 ---
 

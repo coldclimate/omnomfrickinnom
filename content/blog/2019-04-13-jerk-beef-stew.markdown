@@ -4,7 +4,7 @@ title:  "Jerk spiced beef stew"
 date:   2019-04-13 17:35:00
 publishdate:   2019-04-13 17:35:00
 author: oli
-tags: ["jerk", "stew", "beef"]
+tags: ["jerk", "stew", "beef","2019"]
 image: "/images/blog/jerk-beef-stew/jerk-beef-stew-3.jpg"
 ---
 

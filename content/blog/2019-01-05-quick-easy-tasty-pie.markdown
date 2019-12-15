@@ -4,7 +4,7 @@ title:  "A quick and tasty tart"
 date:   2019-01-05 20:42:00
 publishdate:   2019-01-05 20:42:00
 author: oli
-tags: ["quick", "tart", "pastry"]
+tags: ["quick", "tart", "pastry","2019"]
 image: "/images/blog/quick-easy-tasty-pie/quick-easy-tasty-pie-6.jpg"
 ---
 

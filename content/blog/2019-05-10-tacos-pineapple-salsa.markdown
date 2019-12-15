@@ -4,7 +4,7 @@ title:  "Friday night tacos with corn & pineapple salsa"
 date:   2019-05-10 21:35:00
 publishdate:   2019-05-10 21:35:00
 author: oli
-tags: ["tacos", "pineapple"]
+tags: ["tacos", "pineapple","2019"]
 image: "/images/blog/tacos-pineapple-salsa-1.jpg"
 ---
 

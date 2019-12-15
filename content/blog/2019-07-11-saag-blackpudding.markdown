@@ -5,7 +5,7 @@ date:   2019-07-11 16:54:00
 publishdate:   2019-07-11 16:54:00
 author: oli
 image: "/images/blog/saag-blackpudding-01.jpg"
-tags: ["spicy","black pudding", "saag"]
+tags: ["spicy","black pudding", "saag","2019"]
 ---
 
 Recently I've been cooking a lot of spiced spinach dishes.  It's a tonne of green vegetables, full of spicy goodness and if you squint you can convince yourself it's healthy.

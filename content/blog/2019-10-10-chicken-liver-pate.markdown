@@ -5,7 +5,7 @@ date:   2019-10-10 21:30:00
 publishdate:   2019-10-10 21:30:00
 author: oli
 image: "/images/blog/chicken-liver-pate/chicken-liver-pate-1.jpg"
-tags: ["chicken", "liver", "pate", "perfect"]
+tags: ["chicken", "liver", "pate", "perfect","2019"]
 ---
 
 I got a copy of Felicity Cloake's [Completely Perfect](https://amzn.to/2OA8sqI) for my birthday and I've been working through it for the last few months.  It's brilliant, you should absolutely buy a copy.  I've been trying to stick to the recipes too, rather than going too of piste.  The Cloake has put endless work into research, it seems a waste to not stick to it.

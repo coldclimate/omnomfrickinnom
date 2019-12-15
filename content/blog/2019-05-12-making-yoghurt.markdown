@@ -5,7 +5,7 @@ date:   2019-05-12 20:18:00
 publishdate:   2019-05-12 20:18:00
 author: oli
 image: "/images/blog/making-yoghurt/making-yoghurt-1.jpg"
-tags: ["yoghurt", "fermenting"]
+tags: ["yoghurt", "fermenting","2019"]
 ---
 
 In a recent tweet my friend Branden mentioned [making his own yoghurt](https://twitter.com/omphe/status/1124278187536596992) to reduce the amount of single use plastic in the house and it reminded me that I'd always meant to have a go.  Rather than buying a yoghurt maker (though I might consider it in the future) I figurd I'd give it whirl lo-fi.

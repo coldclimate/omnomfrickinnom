@@ -4,7 +4,7 @@ title:  "Super quick squeaky cheese salad"
 date:   2019-04-15 17:35:00
 publishdate:   2019-04-15 17:35:00
 author: oli
-tags: ["cheese", "middle easten"]
+tags: ["cheese", "middle easten","2019"]
 image: "/images/blog/super_quick_squeaky_cheese_salad.jpg"
 ---
 

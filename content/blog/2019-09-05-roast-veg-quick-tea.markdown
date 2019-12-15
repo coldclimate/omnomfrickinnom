@@ -5,7 +5,7 @@ date:   2019-09-05 16:54:00
 publishdate:   2019-09-05 16:54:00
 author: oli
 image: "/images/blog/roast-veg-quick-tea-02.jpg"
-tags: ["vegetables", "halloumi", "lentils"]
+tags: ["vegetables", "halloumi", "lentils","2019"]
 ---
 
 Tonight was one of those nights where I wanted something quick, tasty and passingly healthy.  "Vegetable corner" of the kitchen looked like it needed a clearing out, so it was a good excuse to roast it all.  Originally it was going to be mixed in with pasta but recently we bought a handful of packets of microwavable lentils and grains, so I stirred one of those thought too.   You can could swap in lots of different vegetables, adjust the time they go in.

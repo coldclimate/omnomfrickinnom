@@ -5,7 +5,7 @@ date:   2019-07-04 19:18:00
 publishdate:   2019-07-04 19:18:00
 author: oli
 image: "/images/blog/day-marinated-gentle-smoked-ribs-and-wings/day-marinated-gentle-smoked-ribs-and-wings-8.jpg"
-tags: ["bbq", "garlic", "pork", "chicken", "apple wood"]
+tags: ["bbq", "garlic", "pork", "chicken", "apple wood","2019"]
 ---
 
 I've not had a lot of time for fun cooking recently, but I've bene really enjoying simply cooked meat on the BBQ with fresh salad.  Today though I had the time and headspace to have a play.  I realised that I could buy meat at lunchtime, marinade it in the fridge at work and then BBQ it when I get home, after it's 6 hour marinade.  Nothing smart, now I write it down, but I was chuffed with myself.

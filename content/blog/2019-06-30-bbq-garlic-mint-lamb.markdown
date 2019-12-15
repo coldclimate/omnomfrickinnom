@@ -5,7 +5,7 @@ date:   2019-06-30 19:18:00
 publishdate:   2019-06-30 19:18:00
 author: oli
 image: "/images/blog/bbq-garlic-mint-lamb/bbq-garlic-mint-lamb-4.jpg"
-tags: ["bbq", "garlic", "lamb"]
+tags: ["bbq", "garlic", "lamb","2019"]
 ---
 
 My garden is producting a tonne of mint and parsely this summer so everything at the moment is being made with as much of both as I can get away with.  Lamb chops (or in this case chump chops) are great on a BBQ where a reasonably hot and fast grilling gives you juicy tasty meat and the delicious burnt bits. 

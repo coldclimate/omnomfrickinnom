@@ -5,7 +5,7 @@ date:   2019-05-27 19:18:00
 publishdate:   2019-05-27 19:18:00
 author: oli
 image: "/images/blog/lamb-kofta-bitey-salsa-verde-1.jpg"
-tags: ["flat bread", "lamb", "herbs"]
+tags: ["flat bread", "lamb", "herbs","2019"]
 ---
 
 Another meal wrapped in a flatbread!  I think I have an obsession, possibly an addiction.  

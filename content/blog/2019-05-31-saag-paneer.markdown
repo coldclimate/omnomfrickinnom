@@ -5,7 +5,7 @@ date:   2019-05-31 19:18:00
 publishdate:   2019-05-31 19:18:00
 author: oli
 image: "/images/blog/saag-paneer/saag-paneer-1.jpg"
-tags: ["cheese", "spinach", "indian"]
+tags: ["cheese", "spinach", "indian","2019"]
 ---
 
 After a busy week mostly fuelled by snacks and black coffee we needed a dinner full of vegatables than was also satisfying.  The combination of a tonne of spinach and cheese fitted the bill.

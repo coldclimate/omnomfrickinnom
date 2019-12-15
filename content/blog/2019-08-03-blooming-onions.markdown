@@ -5,7 +5,7 @@ date:   2019-08-03 16:54:00
 publishdate:   2019-08-03 16:54:00
 author: oli
 image: "/images/blog/blooming-onions/blooming-onions-06.jpg"
-tags: ["fried","onion", "fried chicken", "fried onion"]
+tags: ["fried","onion", "fried chicken", "fried onion","2019"]
 ---
 
 Many years ago, whilst watching Buffy, Spike (the best Buffy character) mentioned Blooming Onions.  The idea piqued my interest, and then I forgot about it.  Many years later my old friend James tweeted me a link about them seeing if I fancied making them, and I did, but... I forgot again.  A few months later my friend John sent me a tweet linking to them, James piled in and so we decided to get together and make them.

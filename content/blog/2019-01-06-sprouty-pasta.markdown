@@ -4,7 +4,7 @@ title:  "Sprouty sausagey pasta"
 date:   2019-01-06 19:27:00
 publishdate:   2019-01-06 19:27:00
 author: oli
-tags: ["pasta"]
+tags: ["pasta","2019"]
 image: "/images/blog/sprouty-pasta.jpg"
 ---
 

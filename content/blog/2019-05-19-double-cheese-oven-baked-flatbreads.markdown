@@ -5,7 +5,7 @@ date:   2019-05-19 20:18:00
 publishdate:   2019-05-19 20:18:00
 author: oli
 image: "/images/blog/double-cheese-oven-baked-flatbreads-03.jpg"
-tags: ["flat bread", "halloumi"]
+tags: ["flat bread", "halloumi","2019"]
 ---
 
 Reasonably often we make flat breads, pile them full of tasty things and hot sauce and at them with our faces.  It might be a bit formulaic, but it's always tasty.

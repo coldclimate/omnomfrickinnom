@@ -5,7 +5,7 @@ date:   2019-07-18 16:54:00
 publishdate:   2019-07-18 16:54:00
 author: oli
 image: "/images/blog/green-beans-dry-pork.jpg"
-tags: ["spicy","pork", "beans", "lentils"]
+tags: ["spicy","pork", "beans", "lentils","2019"]
 ---
 
 A quick writ eup for a quick tea.  I had a big bag of green beans that I neeed to use up and some diced pork shoulder in th freezer.  I really like dry fried bowls where everything is mixed rather than being "something on rice" or "such and such with noodles"

@@ -5,7 +5,7 @@ date:   2019-10-12 17:30:00
 publishdate:   2019-10-12 17:30:00
 author: oli
 image: "/images/blog/chicken-tikka-masala-naan/chicken-tikka-masala-naan-5.jpg"
-tags: ["chicken", "curry", "takeaway", "naan"]
+tags: ["chicken", "curry", "takeaway", "naan","2019"]
 ---
 
 I'm continuing to work my way though Felicity Cloake's excellent [Completely Perfect](https://amzn.to/2OA8sqI) and for a Saturday night what's more fitting than [the perfect chicken tikka masala](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/apr/24/how-to-cook-perfect-chicken-tikka-masala) with [the perfect naan](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/oct/02/how-to-make-perfect-naan-bread-recipe).

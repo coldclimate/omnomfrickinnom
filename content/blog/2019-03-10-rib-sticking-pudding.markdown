@@ -4,7 +4,7 @@ title:  "Rib sticking using up pudding for a cold day"
 date:   2019-03-10 18:35:00
 publishdate:   2019-03-10 18:35:00
 author: oli
-tags: ["pudding", "slowcooker"]
+tags: ["pudding", "slowcooker","2019"]
 image: "/images/blog/rib-sticking-use-up-pudding/rib-sticking-use-up-pudding-7.jpg"
 ---
 
