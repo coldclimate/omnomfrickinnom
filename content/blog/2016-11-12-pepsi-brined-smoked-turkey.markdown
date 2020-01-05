@@ -12,7 +12,7 @@ One of the things we ate in Texas which was so much better than expected was smo
 
 Sometime I've been waiting to try for ages is ham baked in CocaCola (made famous by Nigella, actually another old Southern recipe).  However having bought Pepsi (it's was 99p for 2 litres and Coke wasn't on offer) I found myself wondering if the two things coud be combined?  I'll save baking ham in coke for another time.
 
-End result - turkey brined in sweet and spicey Pepsi (which smells like Chritmas when you make the brine), smoked for the afternoon, with greens (Harlem style, mixing my regions) and cornbread (thank to (The Cloake)[https://www.theguardian.com/lifeandstyle/wordofmouth/2014/sep/18/how-to-cook-perfect-cornbread]).
+End result - turkey brined in sweet and spicey Pepsi (which smells like Chritmas when you make the brine), smoked for the afternoon, with greens (Harlem style, mixing my regions) and cornbread (thank to [The Cloake](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/sep/18/how-to-cook-perfect-cornbread) ).
 
 If I've not mentioned these before, the [charcoal chimneys](http://amzn.to/2fmwqUU) are great kit.  Makes BBQing a 100x easier (also, buy a quality one, mine is cheap and I burn myself everytime, especially since the handle fell off).
 

@@ -12,7 +12,8 @@ image: "/images/blog/lamb-day-two.jpg"
 ## You will need
 
 ### For the lamb
-* A couple of ladles of yesterdays [lamb]({% post_url 2014-07-09-slow-lamb-north-african %})
+
+* A couple of ladles of yesterdays [lamb]({{<ref "2014-07-09-slow-lamb-north-african.markdown">}})
 
 ### Crunchy salad
 
