@@ -48,7 +48,6 @@ Creamy wihtout being too heavy.  Lemon offsets the grease of the chicken (no ext
 
 ![Coals firing up](/images/blog/rare-beef/beef1.jpg)
 ![Salad dressingg](/images/blog/rare-beef/beef2.jpg)
-![Ready to go](/images/blog/rare-beef/beef3.jpg)
 ![Just finishingg](/images/blog/rare-beef/beef4.jpg)
 ![Wrapped and resting](/images/blog/rare-beef/beef5.jpg)
 ![Ready to get eaten](/images/blog/rare-beef/beef6.jpg)

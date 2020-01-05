@@ -10,7 +10,7 @@ image: "/images/blog/sloe_gin_finished_3.jpg"
 
 Back in October I finallly (a few weeks late) bottle up my [sloe-gin] and this evening, just in time for Christmas drinkies.  Not much to say here, decant slowly to avoid sediment, sweeten if needed (I like mine dry so I didn't) and bottle in something pretty.
 
-I got a load of lovely glass bottles thanks to [The Herb Garden](http://www.theherbgardenuk.com/) who stashed away some of the lovely sparkling water bottles they use.  Recycling at it's best.  I used a teapot to fill the bottles because I couldn't find my funnel anywhere.
+I got a load of lovely glass bottles thanks to [The Herb Garden](https://www.tripadvisor.co.uk/Restaurant_Review-g186394-d5505226-Reviews-The_Herb_Garden-Newcastle_upon_Tyne_Tyne_and_Wear_England.html) who stashed away some of the lovely sparkling water bottles they use.  Recycling at it's best.  I used a teapot to fill the bottles because I couldn't find my funnel anywhere.
 
 Next time I might use a gin with a higher alcohol gin (export strength) because I swear it's lost some of the booze.
 

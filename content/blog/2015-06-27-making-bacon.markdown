@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/bacon/bacon15.jpg"
 ---
 
-I got given a bacon making kits for Christmas.  A quick word with [G&S Organics](http://www.gandsorganics.com/) secured me a substantial piece of belly pork (about 5lbs).  This is mostly pictures because the process was very simple.
+I got given a bacon making kits for Christmas.  A quick word with [G&S Organics](https://www.thechristmasfarm.co.uk/) secured me a substantial piece of belly pork (about 5lbs).  This is mostly pictures because the process was very simple.
 
 Bonus: you get  to make pork scratchings too!
 

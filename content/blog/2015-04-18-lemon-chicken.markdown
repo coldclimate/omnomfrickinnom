@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/lemon_chicken.jpg"
 ---
 
-A while ago I made a cheating version of one of my favourite Chinese takeaway dishes, [orange chicken]({% post_url 2014-11-11-chinese-orange-chicken %}).  Last week I made a lemon version and it was even better!  Follow the orange chicken instructions but use the following for the pour over/boil sauce.
+A while ago I made a cheating version of one of my favourite Chinese takeaway dishes, [orange chicken]({{<ref "2014-11-11-chinese-orange-chicken.markdown">}}).  Last week I made a lemon version and it was even better!  Follow the orange chicken instructions but use the following for the pour over/boil sauce.
 
 
 ## You will need
