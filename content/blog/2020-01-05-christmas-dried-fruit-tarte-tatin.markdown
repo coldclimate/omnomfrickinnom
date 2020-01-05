@@ -4,8 +4,8 @@ title:  "Christmas dried fruit tart tatin"
 date:   2020-01-05 10:30:00
 publishdate:   2020-01-05 10:30:00
 author: oli
-image: "(/images/blog/christmas-dried-fruit-tarte-tatin/christmas-dried-fruit-tarte-tatin-5.jpg"
-tags: ["desert", "pastry", "figs", "prunes", "port" "2020"]
+image: "/images/blog/christmas-dried-fruit-tarte-tatin/christmas-dried-fruit-tarte-tatin-5.jpg"
+tags: ["desert", "pastry", "figs", "prunes", "port", "2020"]
 ---
 
 Whilst noodling through John Whaite's very excellent [Comfort](https://amzn.to/2MVjZiP) I ran across his fig, prune and port tart tatin.  I've alwaysrather enjoyed tart tatin, with it's unctuous and gooey fruits and pleasingly crisp base/top, and it's the time of year when dired fruits are often on offer in the supermarkets.  I ended up adding different dried fruits and using almost half the quantaties in the recipe because it was only for the four of us.  I'm pretty sure you could swap in dried apricots and maybe some plump raisens into here, but not miss out the figs, the star of the show.
