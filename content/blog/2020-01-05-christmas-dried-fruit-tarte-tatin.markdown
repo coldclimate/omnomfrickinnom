@@ -4,7 +4,7 @@ title:  "Christmas dried fruit tart tatin"
 date:   2020-01-05 10:30:00
 publishdate:   2020-01-05 10:30:00
 author: oli
-image: "(/images/blog/christmas-dried-fruit-tarte-tatin/christmas-dried-fruit-tarte-tatin-5.jpg"
+image: "/images/blog/christmas-dried-fruit-tarte-tatin/christmas-dried-fruit-tarte-tatin-5.jpg"
 tags: ["desert", "pastry", "figs", "prunes", "port" "2020"]
 ---
 
