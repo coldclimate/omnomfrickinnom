@@ -1,5 +1,6 @@
 # Hugo default output directory
 /docs
+/tmp
 
 ## OS Files
 # Windows
