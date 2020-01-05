@@ -17,10 +17,10 @@ I don' like liver, until I crave it, so when I read an excellent looking recipe 
 * A small red onion
 * A pomegranate
 * A heaped teaspoon of ras el hanout
-* A good slug of pomegranate juice - I used  [POM Wonderful Pomegranate Juice](http://amzn.to/1UAaYsu )
+* A good slug of pomegranate juice - I used  [POM Wonderful Pomegranate Juice](https://www.amazon.co.uk/POM-Wonderful-Pomegranate-Juice-710ml/dp/B015QA22YA/ref=as_li_ss_tl?keywords=POM+Wonderful+Pomegranate+Juice&qid=1578226564&sr=8-1&linkCode=ll1&tag=wwwcoldclimat-21&linkId=240d1acf545db6273fc4807d7ed646fb&language=en_GB)
 * A large bunch of parsley, stems chopped and tops roughly chopped
 * A flatbread.
-* I put a sprinkle of my [salad topping seeds]({% post_url 2016-03-06-salad-seeds %})
+* I put a sprinkle of my [salad topping seeds]({{<ref "2016-03-06-salad-seeds.markdown">}})
 
 
 
