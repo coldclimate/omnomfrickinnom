@@ -8,9 +8,9 @@ author: oli
 image: "/images/blog/airfry-pork-2.jpg"
 ---
 
-I bought a [Phillips Airfryer](http://tableflip.date/philips-airfryer) when it was on sale in the New Year.  We'd talked about them for a while but the prce was crazy.  £179 reduced to £79 was to tempting.  I was hoping for fat free chips, but it turns out they're a myth.  After some experimenting, I've come to think of it as more like a super fast fan oven, which is different but interesting, and lends itself well to various cuts of meat.  More experiments to come.  
+I bought a [Phillips Airfryer](https://www.amazon.co.uk/Philips-Airfryer-Technology-Healthy-Grilling/dp/B07CT45FBT/ref=as_li_ss_tl?keywords=Phillips+Airfryer&qid=1578227539&refinements=p_89:Philips&rnid=1632651031&sr=8-2&linkCode=ll1&tag=wwwcoldclimat-21&linkId=9416644806b80d73ef9b7b5a7a8a543b&language=en_GB) when it was on sale in the New Year.  We'd talked about them for a while but the prce was crazy.  £179 reduced to £79 was to tempting.  I was hoping for fat free chips, but it turns out they're a myth.  After some experimenting, I've come to think of it as more like a super fast fan oven, which is different but interesting, and lends itself well to various cuts of meat.  More experiments to come.  
 
-Around the same time we ran across a a recipe for ["a piquant sause which goes with grilled meats"](http://tableflip.date/d1e1).  An idealy match.  We've now got a jar of it in the fridge and it's going on everything at the moment.
+Around the same time we ran across a a recipe for "a piquant sause which goes with grilled meats".  An idealy match.  We've now got a jar of it in the fridge and it's going on everything at the moment.
 
 ## You will need
 

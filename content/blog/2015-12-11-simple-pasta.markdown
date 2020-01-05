@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/creamy_pasta/creamy_pasta_2.jpg"
 ---
 
-Quick tea, very similar to the [mushrooms on toast](mushrooms) but with added seafood.  Lemon peel for flavour, lemon juice to cut the grease.
+Quick tea, very similar to the [mushrooms on toast]({{<ref "2015-08-20-mushrooms.markdown">}}) but with added seafood.  Lemon peel for flavour, lemon juice to cut the grease.
 
 ## You will need
 

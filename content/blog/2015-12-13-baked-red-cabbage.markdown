@@ -36,7 +36,7 @@ I think a single clove would also have been good, also a tiny bit of star anise.
 
 ## Results
 
-Seen here with [G&S Organics sausages](http://www.gandsorganics.com/), roast potatoes and trimmings (on my [ETE](http://eteplate.com/).  Wintertastic.
+Seen here with [G&S Organics sausages](https://www.thechristmasfarm.co.uk/, roast potatoes and trimmings (on my [ETE](http://eteplate.com/).  Wintertastic.
 
 
 ![Ingrediants](/images/blog/baked_red_cabbage/baked_red_cabbage_1.jpg)
