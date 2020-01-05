@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/toads-in-the-holes-2.jpg"
 ---
 
-An old favouite with a few new things.  Black pudding and roasted onion add more variety and the beer in the batter gives a great crispy finish.  Thank to [Felicity Cloake's How to cook the perfect toad in the hole](2016-08-08-miso-poached-teriyaki-chicken.markdown) for suggesting that.
+An old favouite with a few new things.  Black pudding and roasted onion add more variety and the beer in the batter gives a great crispy finish.  Thank to [Felicity Cloake's How to cook the perfect toad in the hole](https://www.theguardian.com/food/2019/jan/30/toad-in-the-hole-recipe-felicity-cloake) for suggesting that.
 
 ## You will need
 

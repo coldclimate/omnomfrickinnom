@@ -9,7 +9,7 @@ image: "/images/blog/slow-lamb-north-african.jpg"
 ---
 
 
-Getting a regular meatbox from the awesome [G&S Organics](http://www.gandsorganics.com/) means that we've had a glut of roasting joints in the freezer of late, and much as I love a roast with all the trimmings, they're not the most convenient of foods.  I also love things served in or on breads for both ease and taste, so why not combine the two.
+Getting a regular meatbox from the awesome [G&S Organics](https://www.thechristmasfarm.co.uk/) means that we've had a glut of roasting joints in the freezer of late, and much as I love a roast with all the trimmings, they're not the most convenient of foods.  I also love things served in or on breads for both ease and taste, so why not combine the two.
 
 After seeing several delicious things like [this](http://www.closetcooking.com/2013/10/pork-tinga-tacos.html) and [this](http://www.closetcooking.com/2013/05/carnitas-tacos.html) on Closet Cooking (a most excellent read) I started thinking about slow cooking a chunk of lamb in a reasonable plain but Moroccany sauce, then piling it up on flatbreads.  Because of the amount of lamb I ended up cooking this also made th next nights meal (post to follow).
 
@@ -47,4 +47,4 @@ After seeing several delicious things like [this](http://www.closetcooking.com/2
 
 ## Result
 
-![Slow cooked North African(ish) lamb](/images/blog/slow-lamb-north-african.jpg "Slow cooked North African(ish) lamb")
+![Slow cooked North African(ish) lamb](/images/blog/slow-lamb-north-african.jpg)

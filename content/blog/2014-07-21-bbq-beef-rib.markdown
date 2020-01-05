@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/bbq-beef-rib-3.jpg"
 ---
 
-No real recipe here, just another (rather serious) chunk of beef from  [G&S Organics](http://www.gandsorganics.com/) becoming dinner for a few friends. 
+No real recipe here, just another (rather serious) chunk of beef from  [G&S Organics](https://www.thechristmasfarm.co.uk//) becoming dinner for a few friends. 
 
 
 ## You will need

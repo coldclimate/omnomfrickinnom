@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/char-sui-style-pork-birch-syrup/char-sui-style-pork-birch-syrup-04.jpg"
 ---
 
-A few months ago my friend Jim sent me a bottle from his latest venture [North Pennine Birch Syrup](https://northpenninebirch.co.uk/) and other then a quick birch gin martini (excellent) I'd not got round to having a play with it, until I was walking home tonight and had a craving for char sui pork.  A perfect excuse to break it open.
+A few months ago my friend Jim sent me a bottle from his latest venture [The Birch Syrup Company](https://thebirchsyrupcompany.com/) and other then a quick birch gin martini (excellent) I'd not got round to having a play with it, until I was walking home tonight and had a craving for char sui pork.  A perfect excuse to break it open.
 
 The sim of the game with the pork fillet it to cook it quickly, both so it stays juice and so the sugars don't burn.  Using the stove top and the grill works well for this.
 

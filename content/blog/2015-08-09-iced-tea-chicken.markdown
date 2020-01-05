@@ -10,7 +10,7 @@ image: "/images/blog/idea-tea-chicken/iced_tea_chicken_9.jpg"
 
 I have a love/hate relation with fried chicken.  When it's good, it's amazing.  When it's bad it's terrible, and no matter how good it is it is still absolutely terrible for you, so if you're going to make it, make it brilliant and make it rarely.  You're going to deep fry it so don't skimp on the sugar and spices, just eat it less often.  Along with a splash of a good vinegar based habinaro hot sauce a good coleslaw is a great accompaniment.  Most coleslaw is over sloppy, bland and dull.  I'm rather proud of mine, because it's none of those things.
 
-I first read about brining chicken iced tea on [Helen Graves](http://helengraves.co.uk/2015/08/iced-tea-brined-fried-chicken-with-jalapeno-slaw/) amazing blog which I can't recommend enough.
+I first read about brining chicken iced tea on [Helen Graves](http://www.helengraves.co.uk/iced-tea-brined-fried-chicken-with-jalapeno-slaw-recipe/) amazing blog which I can't recommend enough.
 
 
 ## You will need
