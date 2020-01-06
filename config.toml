@@ -49,3 +49,9 @@ Currently trying to get this blog running, still don't know what the blog will b
     identifier = "kit-list"
     weight = 200
     url = "/static/kit-list"
+
+[[menu.main]]
+    name = "instagram"
+    identifier = "@instagram"
+    weight = 200
+    url = "https://www.instagram.com/omnomfrickinnom"
