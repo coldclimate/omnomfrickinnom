@@ -1,1 +1,4 @@
 IgnoreDirectoryMissingTrailingSlash: true
+IgnoreURLs:
+- "(http|https)://amzn.to/*"
+- "(http|https)://www.amazon.co.uk/*"
