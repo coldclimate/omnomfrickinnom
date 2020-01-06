@@ -38,14 +38,14 @@ Currently trying to get this blog running, still don't know what the blog will b
   #twitter = "<username>"
   instagram = "omnomfrickinnom"
 
-## Main Menu
-#[[menu.main]]
-#    name = "Blog"
-#    weight = 100
-#    identifier = "blog"
-#    url = "/blog"
-#[[menu.main]]
-#    name = "About"
-#    identifier = "about"
-#    weight = 200
-#    url = "/static/about"
+# Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Kit List"
+    identifier = "kit-list"
+    weight = 200
+    url = "/static/kit-list"
