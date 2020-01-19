@@ -4,7 +4,7 @@ title:  "Pastrami and warm german potato salad"
 date:   2020-01-19 18:00:00
 publishdate:   2020-01-19 18:00:00
 author: oli
-image: "/images/blog/friday-night-spicy-meatballs.jpg"
+image: "/images/blog/pastrami-german-potato-salad/pastrami-german-potato-salad-07.jpg"
 tags: ["spicy", "beef", "curing", "potato"]
 ---
 
