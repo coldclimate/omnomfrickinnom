@@ -17,6 +17,7 @@ Step in the InstantPot!  It turns out pressure cooking was what I was missing.  
 * A cup of tried blackbeans (also sold as "turle beans"), I got mine from [the very excellent Lupe Pintos(https://www.lupepintos.com/)
 * 3x the volume of beans of water
 * A blob of buter (salted)
+* Equal amount of garlic (I used a frozen block)
 * A heaped teaspoon or dried oregano (this is no substitute for mexcan oregano)
 * A bare teaspoon of smoked paprika (hot)
 
