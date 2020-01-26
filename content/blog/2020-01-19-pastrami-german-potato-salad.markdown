@@ -5,7 +5,7 @@ date:   2020-01-19 18:00:00
 publishdate:   2020-01-19 18:00:00
 author: oli
 image: "/images/blog/pastrami-german-potato-salad/pastrami-german-potato-salad-07.jpg"
-tags: ["spicy", "beef", "curing", "potato"]
+tags: ["spicy", "beef", "curing", "potato", "2020"]
 ---
 
 I've love pastrami ever since I first ticked a food tourism box by going to Katz Deli, being overwhelms by it all but managing to order it on rye, and fell in love.  Unlike potato salad, which I've never liked, until I had a hot potato salad at [Kreuz Market](https://kreuzmarket.com/) and was convinced by it's mustard and pickles.  I've never managed to recreate it and I've given up trying.  Instead I've taken the flavours and combined them with airfried potatoes, which are ace.  They called it German, I've no idea if it was

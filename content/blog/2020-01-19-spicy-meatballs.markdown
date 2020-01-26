@@ -5,7 +5,7 @@ date:   2020-01-18 18:00:00
 publishdate:   2020-01-18 18:00:00
 author: oli
 image: "/images/blog/friday-night-spicy-meatballs.jpg"
-tags: ["spicy", "beef", "thai"]
+tags: ["spicy", "beef", "thai", "2020"]
 ---
 
 Early this week I saw a tweet mabout a Smitten Kitchen post from last year for [braised ginger meatballs in coconut broth](https://smittenkitchen.com/2019/05/braised-ginger-meatballs-in-coconut-broth/) which looked excellent and I was excited to try it when I got home.   Then I got home to find I was missing most of the key ingrediants.   Not to be putt off, I replaced some bits and cracked on.  It ended up far less "meatballs in sauce" that "meatballs" though.  I've never been good at reductions.

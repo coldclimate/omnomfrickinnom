@@ -5,7 +5,7 @@ date:   2020-01-05 19:30:00
 publishdate:   2020-01-05 19:30:00
 author: oli
 image: "/images/blog/spicy-roast-potatoes.jpg"
-tags: ["potatoes", "airfryer", "spicy"]
+tags: ["potatoes", "airfryer", "spicy", "2020"]
 ---
 
 I made this as a side dish the other night, but it was the star of the show, hence writing this up, but the lack of photos.  This started with me reading a recipe that was super complex adding fried lentils, fried sev noodles, fried onion and peanuts to the fried potatoes.  Part way though I realised... these are ingrediants in bombay mix!  So I gave it a go and everybody loved it.

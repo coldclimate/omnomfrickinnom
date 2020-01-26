@@ -5,7 +5,7 @@ date:   2020-01-10 19:30:00
 publishdate:   2020-01-10 19:30:00
 author: oli
 image: "/images/blog/instant-pot-beef-curry-2.jpg"
-tags: ["instant-pot", "curry", "spicy", "beef"]
+tags: ["instant-pot", "curry", "spicy", "beef", "2020"]
 ---
 
 The more I use the Instant Pot, the more I appreciate being able to easily use different cooking techniques without doing more washing up.  Recently I've used it a few times to make curries and uncovered the left-right-left of Instant Pot cookery: saute - pressure cook - saute.

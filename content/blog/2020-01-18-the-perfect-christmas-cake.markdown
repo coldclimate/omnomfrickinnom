@@ -5,7 +5,7 @@ date:   2020-01-18 17:30:00
 publishdate:   2020-01-18 17:30:00
 author: oli
 image: "/images/blog/the-perfect-christmas-cake/the-perfect-christmas-cake-06.jpg"
-tags: ["cake", "christmas", "the perfect"]
+tags: ["cake", "christmas", "the perfect", "2020"]
 ---
 
 I love a real Christmas cake, a dark fruit cake, slightly too soft, a little booze, and disproportionatly more mazipan than strictly neccessary.   This year I decided to to follow the very excellent [Completely Perfect by Felicity Cloake](https://amzn.to/364KetJ).  
