@@ -14,7 +14,7 @@ Step in the InstantPot!  It turns out pressure cooking was what I was missing.  
 
 ## You will need
 
-* A cup of tried blackbeans (also sold as "turle beans"), I got mine from [the very excellent Lupe Pintos(https://www.lupepintos.com/)
+* A cup of tried blackbeans (also sold as "turle beans"), I got mine from [the very excellent Lupe Pintos](https://www.lupepintos.com/)
 * 3x the volume of beans of water
 * A blob of buter (salted)
 * Equal amount of garlic (I used a frozen block)
