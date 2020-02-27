@@ -8,7 +8,7 @@ image: "/images/blog/spicy-indian-style-chicken-wings-02.jpg"
 tags: ["chicken", "wings", "indian", "2020"]
 ---
 
-This week I ran across (The Cury Guy's spicy chicken wings)[https://greatcurryrecipes.net/2018/12/13/spicy-hot-chicken-wings/] and couldn't resist.  Whenever I buy chicken breasts from (Block'n'Bottle)[https://blocknbottle.com/] the wing is still attached.  I tend to chop it off and drop it into a bag in the freezer, so when I crave wings they are good to go.  
+This week I ran across [The Cury Guy's spicy chicken wings](https://greatcurryrecipes.net/2018/12/13/spicy-hot-chicken-wings/) and couldn't resist.  Whenever I buy chicken breasts from [Block'n'Bottle](https://blocknbottle.com/) the wing is still attached.  I tend to chop it off and drop it into a bag in the freezer, so when I crave wings they are good to go.  
 
 Dan The Curry Guy recommends skinning the wings but... I love cripsy skin.  I normally airfry my wings and seen as the recipe suggested barbecuing the chicken, so I airfried it.
 
