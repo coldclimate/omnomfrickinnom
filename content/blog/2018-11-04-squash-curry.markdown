@@ -22,7 +22,7 @@ The raita here is chunky, with the yoghurt barely coating the cucumber, which sh
 * A couple of tablespoons of plain yoghurt
 * A slug of olive oil
 * A heaped teaspoon of curry paste (I used Pataks Madras)
-* A heaped teaspoon of whole spice mix (I used [Bengali 5 Spice](https://spicemountain.co.uk/shop/spice-blends/bengali-5-spice/))
+* A heaped teaspoon of whole spice mix (I used [Bengali 5 Spice](https://www.spicemountain.co.uk/product/bengali-5-spice/))
 * 3 large tomatoes (chopped)
 * A small knob of butter (about a teaspoon full)
 
