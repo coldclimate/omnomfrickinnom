@@ -4,7 +4,7 @@ title:  "Savoury flaky pasties"
 date:   2020-03-08 19:00:00
 publishdate:   2020-03-08 19:00:00
 author: oli
-image: "/images/blog/spicy-indian-style-chicken-wings-02.jpg"
+image: "/images/blog/savoury-flaky-pasties/savour-flaky-pasties-07.jpg"
 tags: ["pasty", "pastry"]
 ---
 
