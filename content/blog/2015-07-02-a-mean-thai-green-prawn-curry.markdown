@@ -8,7 +8,7 @@ author: dougjohnson
 image: "/images/blog/mean-thai-curry/wok.jpg"
 ---
 
-Since [The Bangkok Cafe](https://www.facebook.com/pages/Bangkok-Cafe/419643831412568) on Low Friar Street closed last year our house has been a somber place. It served freshly cooked Thai street food, quite different from the Royal Thai stuff that you typically get at Thai restaurants with carved carrot nonsense on the side. It was our go-to joint for a quick high quality after-work takeaway and the couple who ran it were awesome.
+Since The Bangkok Cafe on Low Friar Street closed last year our house has been a somber place. It served freshly cooked Thai street food, quite different from the Royal Thai stuff that you typically get at Thai restaurants with carved carrot nonsense on the side. It was our go-to joint for a quick high quality after-work takeaway and the couple who ran it were awesome.
 
 So it was a happy day recently when I managed to recreate the essence of a mean Thai Green Curry that is reminiscent of Bangkok Cafe goodness. Where better to share it than here?
 

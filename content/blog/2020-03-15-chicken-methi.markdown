@@ -4,7 +4,7 @@ title:  "Chicken Methi"
 date:   2020-03-15 19:00:00
 publishdate:   2020-03-15 19:00:00
 author: oli
-image: "/images/blog/methi-chicken/methi-chicken-05.jpg"
+image: "/images/blog/chicken-methi/chicken-methi-05.jpg"
 tags: ["chicken", "indian"]
 ---
 
@@ -50,8 +50,8 @@ Cooking meat on the bone always leads to a better flavour.  Here I boned the thi
 ## Result
 
 
-![Ingrediants](/images/blog/methi-chicken/methi-chicken-01.jpg)
-![Onions and skin](/images/blog/methi-chicken/methi-chicken-02.jpg)
-![Bones in the pan](/images/blog/methi-chicken/methi-chicken-03.jpg)
-![Before the reduction](/images/blog/methi-chicken/methi-chicken-04.jpg)
-![GET IN MY FACE](/images/blog/methi-chicken/methi-chicken-05.jpg)
+![Ingrediants](/images/blog/chicken-methi/chicken-methi-01.jpg)
+![Onions and skin](/images/blog/chicken-methi/chicken-methi-02.jpg)
+![Bones in the pan](/images/blog/chicken-methi/chicken-methi-03.jpg)
+![Before the reduction](/images/blog/chicken-methi/chicken-methi-04.jpg)
+![GET IN MY FACE](/images/blog/chicken-methi/chicken-methi-05.jpg)
