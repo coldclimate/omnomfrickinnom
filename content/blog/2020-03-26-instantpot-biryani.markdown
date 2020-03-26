@@ -28,9 +28,9 @@ tags: ["lamb", "indian", "instantpot"]
 * Add 3x the volume of rice of hot water an the stock cube
 * Pressure cook for 10 minutes and leave to cool
 * Pull the meat off the bone or chop into bite sized pieces
-* Once you're ready for dinner, add the spinach, bay and rice 
+* Once you're ready for dinner, add the spinach, bay, rice and other teaspoon of spice paste" 
 * Cook on "rice" setting
-* Stir though any fresh herbs you have hanging about
+* Stir though any fresh herbs you have hanging about, add a blob of mango pickle, maybe some exra chilli.
 
 
 ## Result
