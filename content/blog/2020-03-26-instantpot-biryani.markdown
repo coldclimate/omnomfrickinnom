@@ -8,6 +8,11 @@ image: "/images/blog/instantpot-biryani/instantpot-biryani-3.jpg"
 tags: ["lamb", "indian", "instantpot"]
 ---
 
+This is probably a complete travisty, but it's a dead easy and super tasty.  The InstantPot left-right-left of saute, pressure cook, saute is an absolute winner. In this case the second saute is swapped out for rice cooking.  By browning the lamb and then pressure cooking you end up with super tender meat and a delicious broth to cook the rice in.   One pot too, so much reduced wshing up!
+
+If you're using lamb neck, cut the meat though to the bone before browning to make it easier to pull off the bone later (I forgot) .
+
+
 ## You will need
 
 * Some lamb portions (lamb neck in my case)
