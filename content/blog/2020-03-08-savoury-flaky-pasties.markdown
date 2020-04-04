@@ -5,7 +5,7 @@ date:   2020-03-08 19:00:00
 publishdate:   2020-03-08 19:00:00
 author: oli
 image: "/images/blog/savoury-flaky-pasties/savour-flaky-pasties-07.jpg"
-tags: ["pasty", "pastry"]
+tags: ["pasty", "pastry", "2020"]
 ---
 
 driving home this afternoon I caght a bit of [Radio4s Food Programme about pasties](https://www.bbc.co.uk/sounds/play/m000g4x8) and couldn't resist cooking some up this evening.  I've spent a week in Minsk with work and one of the things I've really enjoyed (and that reminded me of eating in Czech Republic in the late 90s) was the use of cumin, so I decided to break it out tonight.  

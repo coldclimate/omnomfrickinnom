@@ -5,7 +5,7 @@ date:   2020-03-15 19:00:00
 publishdate:   2020-03-15 19:00:00
 author: oli
 image: "/images/blog/chicken-methi/chicken-methi-05.jpg"
-tags: ["chicken", "indian"]
+tags: ["chicken", "indian", "2020"]
 ---
 
 Many years ago there used to be two Indian takeaways next tone one another near us.  One was excellent, every dish different and a wide ranging menu.  The other was dreadful, with every dish being almost the same.  One day, we ordered from the good place, only to find that the bad place had bought it out and the food was crap.

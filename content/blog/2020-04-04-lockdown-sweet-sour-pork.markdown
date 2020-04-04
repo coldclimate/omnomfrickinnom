@@ -5,7 +5,7 @@ date:   2020-04-04 19:00:00
 publishdate:   2020-04-04 19:00:00
 author: oli
 image: "/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-05.jpg"
-tags: ["pork", "chinese", "instantpot", "rice"]
+tags: ["pork", "chinese", "instantpot", "rice", "2020"]
 ---
 
 I've blogged about [sweet and sour pork]({{<ref "2015-11-01-sweet-sour-pork.markdown">}})sweet and sour pork before, but this recipe was a variant to use up some bits and pieces whilst on lockdown.  We had a red pepper, a bit of lettuce and some spring onions that really had seen better days but they're prime incrediants for this dish.  I was tempted to coat and deepfry the pork, but with getting literally no exercise at the moment it didn't seem like the best idea.

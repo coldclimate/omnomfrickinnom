@@ -5,7 +5,7 @@ date:   2020-03-26 19:00:00
 publishdate:   2020-03-26 19:00:00
 author: oli
 image: "/images/blog/instantpot-biryani/instantpot-biryani-3.jpg"
-tags: ["lamb", "indian", "instantpot"]
+tags: ["lamb", "indian", "instantpot", "2020"]
 ---
 
 This is probably a complete travisty, but it's a dead easy and super tasty.  The InstantPot left-right-left of saute, pressure cook, saute is an absolute winner. In this case the second saute is swapped out for rice cooking.  By browning the lamb and then pressure cooking you end up with super tender meat and a delicious broth to cook the rice in.   One pot too, so much reduced wshing up!
