@@ -4,7 +4,7 @@ title:  "Lockdown InstantPot Dhal"
 date:   2020-04-24 19:00:00
 publishdate:   2020-04-24 19:00:00
 author: oli
-image: "/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-05.jpg"
+image: "/images/blog/lockdown-dhal-003.jpg"
 tags: ["lentils", "dhal", "instantpot", "indian", "2020"]
 ---
 
