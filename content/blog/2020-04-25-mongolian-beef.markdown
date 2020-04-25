@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mongolian beef"
-date:   2020-04-25 19:30:00
-publishdate:   2020-04-25 19:30:00
+date:   2020-04-25 19:00:00
+publishdate:   2020-04-25 19:00:00
 author: oli
 image: "/images/blog/mongolian-beef/mongolian-beef-006.jpg"
 tags: ["beef", "chinese", "2020"]
