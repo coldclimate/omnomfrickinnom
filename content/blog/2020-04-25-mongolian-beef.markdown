@@ -17,7 +17,7 @@ This being The Great Lockdown of 2020, I didn't have any cornflour, so I used a 
 * A piece of decent lean beef.  I used a fillet steak, cut across the grain into slices as thick as a pound coin.
 * A tablespoon of plain flour
 * 3 cloves of garlic finely sliced
-* An equal amount of garlic, cut into matchsticks
+* An equal amount of ginger, cut into matchsticks
 * A tablespoon of hoisin
 * A tablespoon of seaseme oil
 * A tablespoon of light soy
