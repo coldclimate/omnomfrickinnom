@@ -8,7 +8,7 @@ image: "/images/blog/mongolian-beef/mongolian-beef-006.jpg"
 tags: ["beef", "chinese", "2020"]
 ---
 
-I saw this []Mongolian Beef](https://www.daringgourmet.com/mongolian-beef/) recipe this morning and it ticked all the boxes, sweat, sharp, crispy fried bits and such lovely colours, so it went on my mental list to make.  Daring Gourmet is one of those blogs that regularly provides me with insparation and bookmarks labelled "to cook".  Then I spotted we had a small piece of fillet steak in the freezer from our [Christmas farm meatbox](https://www.thechristmasfarm.co.uk/) and it was game on!
+I saw this [Mongolian Beef](https://www.daringgourmet.com/mongolian-beef/) recipe this morning and it ticked all the boxes, sweat, sharp, crispy fried bits and such lovely colours, so it went on my mental list to make.  Daring Gourmet is one of those blogs that regularly provides me with insparation and bookmarks labelled "to cook".  Then I spotted we had a small piece of fillet steak in the freezer from our [Christmas farm meatbox](https://www.thechristmasfarm.co.uk/) and it was game on!
 
 This being The Great Lockdown of 2020, I didn't have any cornflour, so I used a bit of plain flour.  I also massively redued the quantities in the sauce because I was only cooking for the two of us.  Having also misremembered the recipe I ended up basically deepfrying the beef, leading to a must "crustier" finish that soaked up the sauce and was tremendous.
 
