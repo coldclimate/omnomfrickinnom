@@ -2,7 +2,6 @@
 layout: post
 title:  "Oven baked aubergine, tomato and garlic"
 date:   2020-05-03 19:00:00
-publishdate:   2020-05-03 19:00:00
 author: oli
 image: "/images/blog/aubergine-tomato-garlic-toast/aubergine-tomato-garlic-toast-007.jpg"
 tags: ["aubergine", "vegetarian", "garlic", "2020"]
