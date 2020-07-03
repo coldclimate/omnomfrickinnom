@@ -3,7 +3,7 @@ layout: post
 title:  "Baba Ghanoush"
 date:   2020-07-03 15:00:00
 author: oli
-image: "/images/blog/smoothed-pork-chop/smoothed-pork-chop-004.jpg"
+image: "/images/blog/baba-ghanoush/baba-ghanoush-003.jpg"
 tags: ["babaghanoush", "savoury","vegitarian", "2020"]
 ---
 
