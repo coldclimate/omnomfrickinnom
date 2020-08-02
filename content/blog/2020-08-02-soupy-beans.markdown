@@ -7,12 +7,12 @@ image: "/images/blog/soupy-beans-005.jpg"
 tags: ["sausage", "beans","comfort food", "2020"]
 ---
 
-This week I read an artcle about (redbeans and rice)[https://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html] which looked delicious.  I didn't have any of the ingrediants, but the idea of soupy beans cooked with strong flavours and pork sounded great so I improvised.
+This week I read an artcle about [redbeans and rice](https://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html) which looked delicious.  I didn't have any of the ingrediants, but the idea of soupy beans cooked with strong flavours and pork sounded great so I improvised.
 
 
 ## You will need
 
-* 250g of strong flavoured sausages (I used Italian hot from (Block'n'Bottle)[https://blocknbottle.com/]).  Sliced into fat rounds (mine were frozen solid so went in whole)
+* 250g of strong flavoured sausages (I used Italian hot from [Block'n'Bottle](https://blocknbottle.com/) ).  Sliced into fat rounds (mine were frozen solid so went in whole)
 * 1 cup of dried blackbeans (aka. turtle beans)
 * 1 cup of stock (I used some ham stock from the freezer)
 * 1 cup of some form of tomato sauce (in this case, left over salsa)
