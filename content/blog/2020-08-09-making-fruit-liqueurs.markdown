@@ -3,7 +3,7 @@ layout: post
 title:  "Making fruit liqueurs"
 date:   2020-08-09 17:00:00
 author: oli
-image: "/images/blog//images/blog/cherry-lavender.jpg"
+image: "/images/blog/cherry-lavender.jpg"
 tags: ["alcohol", "foraging","liqueur", "2020"]
 ---
 
