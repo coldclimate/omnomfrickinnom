@@ -41,7 +41,7 @@ I had a chunk of topside  beef in the freezer and decided to try using it instea
 * Grind all the ingrediants other than the beef and the wood powder together
 * Rub it into the beef
 * Pop it in a sealed plastic tub in the fridge for 5 days, turning every day
-* When you're ready, cold smoke for a few hours.  I use a [ProQ Cold Smoke Generator](https://www.amazon.co.uk/ProQ-Artisan-Cold-Smoke-Generator/dp/B00L7QNREC/ref=as_li_ss_tl?crid=1DCM1T8WB2ZDB&keywords=cold+smoke+generator&qid=1579464451&sprefix=cold+smoke+gen,aps,157&sr=8-3&linkCode=ll1&tag=wwwcoldclimat-21&linkId=d1f1b37fdc8b3315f40f6e35469c8dd8&language=en_GB) and [cherry wood powder by HotSmoked](https://hotsmoked.co.uk/review/product/list/id/218/category/130/)
+* When you're ready, cold smoke for a few hours.  I use a [ProQ Cold Smoke Generator](https://www.amazon.co.uk/ProQ-Artisan-Cold-Smoke-Generator/dp/B00L7QNREC/ref=as_li_ss_tl?crid=1DCM1T8WB2ZDB&keywords=cold+smoke+generator&qid=1579464451&sprefix=cold+smoke+gen,aps,157&sr=8-3&linkCode=ll1&tag=wwwcoldclimat-21&linkId=d1f1b37fdc8b3315f40f6e35469c8dd8&language=en_GB) and cherry wood powder from HotSmoked
 * Steam for 2 hours.  This was the first time I'd used the InstantPot for steaming and it worked well
 
 ### German potato salad
