@@ -3,8 +3,8 @@ layout: post
 title:  "Lockdown catch up mega post"
 date:   2020-10-18 09:00:00
 author: oli
-image: "/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-007.jpg"
-tags: ["savoury", "homesteading","garlic", "2020"]
+image: "/images/blog/lockdown/foraged-cherries-001.jpg"
+tags: ["homebrew", "homesteading","foraging", "2020", "mexican"]
 ---
 
 This morning I noticed that since I started posting more to Instagram I've basically stopped updating here, which is bad badness.  Where youpost matters, because ultimatey you're putting all your effort into growing their platform, and they own you and your audience, so tihs moring I downloaded most of my content from there and rolled the last few months worth into this post.
