@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cornish pasties"
-date:   2020-10-24 18:51:00
+date:   2020-10-23 18:51:00
 author: oli
 image: "/images/blog/cornish-pasty/cornish-pasty-005.jpg"
 tags: ["pasty", "pastry","beef", "2020"]
