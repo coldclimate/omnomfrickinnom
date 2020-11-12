@@ -4,3 +4,4 @@ IgnoreURLs:
 - "(http|https)://www.amazon.co.uk/*"
 - "(http|https)://twitter.com/*"
 - "(http|https)://blocknbottle.com/"
+- "(http|https)://conorbofin.com/"
