@@ -18,6 +18,7 @@ We ended up with a real mixed plate, with some avocados that needed using up and
 * A big handful of peas
 * A couple of eggs
 * About 4 tablespoons of plain flour
+* About half a teaspoon of baking powder
 * Half a teaspoon of ground corriander
 * A teaspoon on cumin seeds
 * A couple of teaspoons of lemon peel (I used some dried I had in the cupboard)
