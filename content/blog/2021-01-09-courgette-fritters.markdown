@@ -3,7 +3,7 @@ layout: post
 title:  "Courgette Fritters"
 date:   2021-01-09 17:51:00
 author: oli
-image: "/images/blog/courgette-fritters-005.jpg
+image: "/images/blog/courgette-fritters-005.jpg"
 tags: ["courgette", "feta", "peas", "2021"]
 ---
 
