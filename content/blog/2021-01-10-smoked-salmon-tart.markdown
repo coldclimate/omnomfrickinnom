@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smoked Salomn tar"
+title:  "Smoked Salmon Tart"
 date:   2021-01-10 17:51:00
 author: oli
 image: "/images/blog/smoked-salmon-tart.jpg"
