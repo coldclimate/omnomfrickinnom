@@ -45,7 +45,7 @@ This cooks in one pan with a lid.  I have a [Le Creuset frying pan](https://www.
 
 ## Result
 
-The dumplings should puff up, their bases soaking up the juices, the beer and stock should have reduced to a delivious savoury coating.  
+The dumplings should puff up, their bases soaking up the juices, the beer and stock should have reduced to a delivious savory coating.  
 
 You might spy some sprouts in there.  I tucked a few frozen ones in when I added the dumplings and they streamed at the same time.
 
