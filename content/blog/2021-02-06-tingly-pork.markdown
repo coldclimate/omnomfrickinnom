@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  "Roasted veg and chips"
+title:  "Tinkly pork and braised greens"
 date:   2021-02-06 17:51:00
 author: oli
 image: "/images/blog/tingly-pork/tingly-pork-004.jpg"
