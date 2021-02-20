@@ -5,7 +5,7 @@ date:   2020-01-26 15:00:00
 publishdate:   2020-01-26 15:00:00
 author: oli
 image: "/images/blog/instant-pot-black-beans-03.jpg"
-tags: ["black beans", "mexican", "instant pot", "2020"]
+tags: ["black beans", "mexican", "instantpot", "2020"]
 ---
 
 Beanbeans are a staple of Mexican and texmex food, but they're not that common in the UK.  You can get them in tins but they're faily expensive and they've never had the texture I remember.  I've tried for years to reproduce the first ones I had (Austin, Texas I think), soaking for hours, slow cooking, doing them on the stove top, never quite getting the right finish.
