@@ -1,3 +1,4 @@
+ExternalTimeout: 60
 IgnoreDirectoryMissingTrailingSlash: true
 IgnoreURLs:
 - "(http|https)://amzn.to/*"
