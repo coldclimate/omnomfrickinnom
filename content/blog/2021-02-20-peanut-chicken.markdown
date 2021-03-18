@@ -48,8 +48,7 @@ At this point I left the sauce to go cold and thicken, but you could just straig
 
 
 ## Result
-
-The pork is cripy and juicy (air fryer magic) and literally lip tingling.
+The chicken is crispy, the sauce is clinging and it's so so hot.  The white pepper flavour really comes though.
 
 ![Ingrediants](/images/blog/crispy-peanut-chicken-groundnut/crispy-peanut-chicken-groundnut-001.jpg)
 ![Grated things](/images/blog/crispy-peanut-chicken-groundnut/crispy-peanut-chicken-groundnut-002.jpg)
