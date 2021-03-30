@@ -1,4 +1,5 @@
 IgnoreExternalBrokenLinks: true
+TestFilesConcurrently: true
 ExternalTimeout: 60
 IgnoreDirectoryMissingTrailingSlash: true
 IgnoreURLs:
@@ -9,3 +10,4 @@ IgnoreURLs:
 - "(http|https)://conorbofin.com/"
 - "(http|https)://www.closetcooking.com/"
 - "(http|https)://blog.bristlr.com/"
+- "(http|https)://www.reddit.com/"
