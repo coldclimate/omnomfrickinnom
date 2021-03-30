@@ -1,3 +1,4 @@
+IgnoreExternalBrokenLinks: true
 ExternalTimeout: 60
 IgnoreDirectoryMissingTrailingSlash: true
 IgnoreURLs:
