@@ -1,5 +1,5 @@
 IgnoreExternalBrokenLinks: true
-TestFilesConcurrently: true
+TestFilesConcurrently: false
 ExternalTimeout: 60
 IgnoreDirectoryMissingTrailingSlash: true
 IgnoreURLs:
