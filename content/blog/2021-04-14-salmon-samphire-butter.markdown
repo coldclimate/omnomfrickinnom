@@ -4,7 +4,7 @@ layout: post
 title:  "Salmon with samphire, roast potatoes and delicious butter  "
 date:   2021-04-14 17:51:00
 author: oli
-image: "/images/blog/saag-paneer-005.jpg"
+image: "/images/blog/2021-04-14-salmon-samfire-butter-4.jpg"
 tags: ["salmon", "roat potatoes", "butter","samphire", "air", "airfryer", "2021"]
 ---
 
