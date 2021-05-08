@@ -2,11 +2,16 @@
 ---
 layout: post
 title:  "What a few months of HelloFresh has taught me"
-date:   2021-05-13 12:51:00
+date:   2021-05-08 12:51:00
 author: oli
-image: "/images/blog/what-hellofresh-has-taught me.jpg"
+image: "/images/blog/what-hellofresh-has-taught-me.jpg"
 tags: ["cooking", "hellofresh", "tips", "2021"]
 ---
+
+
+ *I wrote this before HelloFresh had some sort of meltdown leading to missing boxes, poor communications and ultimately us canceling our subscription.  It was helpful for a while though.*
+
+
 
 For the last couple of months we've been getting four meals a week delivered by [HelloFresh](https://www.hellofresh.co.uk/pages/raf_lp11?c=HS-JPMTA4SPN&utm_campaign=clipboard&utm_couponvalue=20&utm_invitername=Oscar&utm_medium=referral&utm_source=raf-share) (affiliate link, we both get £20 off).  We're both reasonable and proficient cooks, with 100+ recipe book and every ingredient you can imagine available with 24 hours notice, but with life being pretty bloody stressful right now, not thinking about what to cook is a blessing. We've also signed up in the past to get us out of a food rut and it worked brilliantly for that too.  We'll cancel it eventually I imagine, it's not a service I can see myself living on, but it's very useful.
 
