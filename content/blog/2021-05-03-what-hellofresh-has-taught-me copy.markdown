@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "What a few months of HelloFresh has taught me"
-date:   2021-05-08 12:51:00
+date:   2021-05-03 12:51:00
 author: oli
 image: "/images/blog/what-hellofresh-has-taught-me.jpg"
 tags: ["cooking", "hellofresh", "tips", "2021"]

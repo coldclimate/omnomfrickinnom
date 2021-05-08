@@ -44,6 +44,3 @@ Super savoury, lots of butter, salty and bitter, sweet fish.
 ![More butter](/images/blog/2021-04-14-salmon-samfire-butter-2.jpg)
 ![GET IN MY FACE](/images/blog/2021-04-14-salmon-samfire-butter-3.jpg)
 ![GET OFF THE FORK AND INTO MY FACE](/images/blog/2021-04-14-salmon-samfire-butter-4.jpg)
-
-
-
