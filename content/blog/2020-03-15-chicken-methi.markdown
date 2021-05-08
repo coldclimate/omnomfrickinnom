@@ -17,7 +17,7 @@ Cooking meat on the bone always leads to a better flavour.  Here I boned the thi
 ## You will need
 
 * 4 Chicken thighs, boned, skinned and diced into big chunks
-* 2 frozen blocks methi (I got a bad from Morrisons of [Shana](http://www.shanafoods.com/product/methi/) brand)
+* 2 frozen blocks methi (I got a bag from Morrisons of [Shana](http://www.shanafoods.com/product/methi/) brand)
 * A tablespoon of minced ginger
 * A tablespoon of minced garlic
 * A tablespoon of minced green chilli
@@ -26,7 +26,7 @@ Cooking meat on the bone always leads to a better flavour.  Here I boned the thi
 * 5 green cardamom pods
 * An inch of cinnamon
 * A bay leaf
-* Half teaspoon of tumric
+* Half teaspoon of turmeric
 * Half teaspoon of salt
 * Half teaspoon of fennel seeds
 * A teaspoon of garam masala
@@ -38,7 +38,7 @@ Cooking meat on the bone always leads to a better flavour.  Here I boned the thi
 ## Do
 
 * Put the chicken skins and onion in a frying pan on a low heat.  As the chicken skin fat renders the onion will start the gently fry
-* Once the onions have softened and started to colout add the spiced and stir furiously.  Have a cup of water on hand incase you need to quenchy the chilli tear gas.
+* Once the onions have softened and started to colour add the spiced and stir furiously.  Have a cup of water on hand in case you need to quench the chilli tear gas.
 * Once the spices have cooked out for a minute add the chicken (and bones), stirring and keeping it moving for a good 5 minutes
 * Add the green chilli and tomato paste, cook and stir for another few minutes
 * Add about 300ml of hot water.  Stir and let it bubble for 5 minutes
@@ -50,7 +50,7 @@ Cooking meat on the bone always leads to a better flavour.  Here I boned the thi
 ## Result
 
 
-![Ingrediants](/images/blog/chicken-methi/chicken-methi-01.jpg)
+![Ingredients](/images/blog/chicken-methi/chicken-methi-01.jpg)
 ![Onions and skin](/images/blog/chicken-methi/chicken-methi-02.jpg)
 ![Bones in the pan](/images/blog/chicken-methi/chicken-methi-03.jpg)
 ![Before the reduction](/images/blog/chicken-methi/chicken-methi-04.jpg)

@@ -21,7 +21,7 @@ This cooks in one pan with a lid.  I have a [Le Creuset frying pan](https://www.
 * A small onion cut into 8
 * Half a can of beer (I used Stones bitter)Le Creuset
 * A stock cube
-* A teaspooon of dried oregano
+* A teaspoon of dried oregano
 * 150g of self-raising flour
 * About 50g of beef suet or finely diced butter
 * A big pinch of salt
@@ -37,7 +37,7 @@ This cooks in one pan with a lid.  I have a [Le Creuset frying pan](https://www.
 * Add the mince, the stock cube, oregano, beer and about another 200ml of hot water
 * Give it all a good stir round, pop the lid on and reduce the heat so it's a gentle bubble
 * After about 20 minutes, make up the dumplings
-* Ifyou're using butter, rub it into the flour
+* If you're using butter, rub it into the flour
 * Add the salt and enough soda water to bring it together into a rough shaggy dough
 * Split the dough into as many dumplings as you'd like. The bigger they are the longer they take to cook
 * Nestle the dumplings in the pan.  There should be more liquid than you'd like the final dish to have, the dumplings will soak it up.
@@ -45,7 +45,7 @@ This cooks in one pan with a lid.  I have a [Le Creuset frying pan](https://www.
 
 ## Result
 
-The dumplings should puff up, their bases soaking up the juices, the beer and stock should have reduced to a delivious savory coating.  
+The dumplings should puff up, their bases soaking up the juices, the beer and stock should have reduced to a delicious savory coating.  
 
 You might spy some sprouts in there.  I tucked a few frozen ones in when I added the dumplings and they streamed at the same time.
 

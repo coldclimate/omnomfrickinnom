@@ -7,7 +7,7 @@ image: "/images/blog/lockdown/foraged-cherries-001.jpg"
 tags: ["homebrew", "homesteading","foraging", "2020", "mexican"]
 ---
 
-This morning I noticed that since I started posting more to Instagram I've basically stopped updating here, which is bad badness.  Where youpost matters, because ultimatey you're putting all your effort into growing their platform, and they own you and your audience, so tihs moring I downloaded most of my content from there and rolled the last few months worth into this post.
+This morning I noticed that since I started posting more to Instagram I've basically stopped updating here, which is bad badness.  Where you post matters, because ultimately you're putting all your effort into growing their platform, and they own you and your audience, so this morning I downloaded most of my content from there and rolled the last few months worth into this post.
 
 ## Foraging
 
@@ -40,7 +40,7 @@ During a rare outing to Edinburgh with work I popped into Lupe Pintos and stocke
 
 ## Sausage Pilaf
 
-Nonsense fusion cooking at it's finest, the combination of cumberland sausage, rice, spinach and spice was very comforting.
+Nonsense fusion cooking at it's finest, the combination of Cumberland sausage, rice, spinach and spice was very comforting.
 
 ![Sausage pilaf](/images/blog/lockdown/sausage-pilaf-001.jpg)
 ![Sausage pilaf](/images/blog/lockdown/sausage-pilaf-002.jpg)
@@ -49,7 +49,7 @@ Nonsense fusion cooking at it's finest, the combination of cumberland sausage, r
 
 ## Bacon
 
-I love bacon but cheap poor qulity bacon is just dreadful (and everywhere).  I've been treating myself to packages of smoked streaky bacon from Block'n'Bottle, wrapped up in 6 slice packages especially for Saturday mornings.  The difference between good bacon and crap bacon is unbelievable.
+I love bacon but cheap poor quality bacon is just dreadful (and everywhere).  I've been treating myself to packages of smoked streaky bacon from Block'n'Bottle, wrapped up in 6 slice packages especially for Saturday mornings.  The difference between good bacon and crap bacon is unbelievable.
 
 ![Bacon](/images/blog/lockdown/bacon-001.jpg)
 ![Bacon](/images/blog/lockdown/bacon-002.jpg)
@@ -64,7 +64,7 @@ Now that we're both working from home all day stopping and eating a decent lunch
 ![Lunch](/images/blog/lockdown/lunch-003.jpg)
 
 ## Tomales
-I roasted a big chunk of pork from Christmas Farm with fennel seed and chilli and then we wrapped up chunks of it in tamale dough (with corn masa from Lupe Pintos).  The increadibly uneven packages were then steamed in the InstantPot wrapped in foil.
+I roasted a big chunk of pork from Christmas Farm with fennel seed and chilli and then we wrapped up chunks of it in tamale dough (with corn masa from Lupe Pintos).  The incredibly uneven packages were then steamed in the InstantPot wrapped in foil.
 
 ![Roast pork tomales](/images/blog/lockdown/tamles-001.jpg)
 ![Roast pork tomales](/images/blog/lockdown/tamles-002.jpg)

@@ -9,7 +9,7 @@ tags: ["aubergine", "vegetarian", "garlic", "2020"]
 
 This week the content of our veg box lead to a super dinner.  Firstly we had a tonne of garlic (2 nets, 12+ bulbs) and we had fresh aubergines, avocado, tomatoes and a massive loaf of bread.  Firstly I made a batch of garlic confit by slow roasting 7 bulbs of garlic (thank goodness for the rubber tube garlic peeler) with a block of butter.  We'll use the jars over the next few months.
 
-Secondly, googling aubergine and avocade lead me to [this brilliant recipe](https://www.rebelrecipes.com/griddled-aubergine-with-smashed-avocado/) which adapted nicely to what we had in the cupboard (including the tonne of garlic butter)
+Secondly, googling aubergine and avocado lead me to [this brilliant recipe](https://www.rebelrecipes.com/griddled-aubergine-with-smashed-avocado/) which adapted nicely to what we had in the cupboard (including the tonne of garlic butter)
 
 
 ## You will need
@@ -22,7 +22,7 @@ Secondly, googling aubergine and avocade lead me to [this brilliant recipe](http
 * A tablespoon of pomegranate syrup
 * A tablespoon of garlic
 * A pinch of chilli flakes
-* A heaped teaspoon of hot smoked papkira
+* A heaped teaspoon of hot smoked paprika
 * A good slug of olive oil
 
 
@@ -34,15 +34,15 @@ Secondly, googling aubergine and avocade lead me to [this brilliant recipe](http
 * Drizzle about a teaspoon of olive oil onto each one, top with a teaspoon of garlc butter and a pinch of flaky salt
 * Stick them and the tomatoes into a roasting tray and stick in the oven for about half an hour until the tomatoes are blackened and the aubergine is soft.
 * Once everything in the oven is ready toast the bread and spread with more garlic butter
-* Top the aubergine with avocade and tomatoes
+* Top the aubergine with avocado and tomatoes
 * Drizzle about a teaspoon of pomegranate syrup ove the top
 
 
 ## Result
 
-Sweat and sour, garlically and salty, crunchy and smooth, a dish just full of punchy flavours
+Sweat and sour, garlicky and salty, crunchy and smooth, a dish just full of punchy flavours
 
-![Ingrediants](/images/blog/aubergine-tomato-garlic-toast/aubergine-tomato-garlic-toast-001.jpg)
+![Ingredients](/images/blog/aubergine-tomato-garlic-toast/aubergine-tomato-garlic-toast-001.jpg)
 ![Garlic butter](/images/blog/aubergine-tomato-garlic-toast/aubergine-tomato-garlic-toast-002.jpg)
 ![Ready for the oven](/images/blog/aubergine-tomato-garlic-toast/aubergine-tomato-garlic-toast-003.jpg)
 ![Moar garlic](/images/blog/aubergine-tomato-garlic-toast/aubergine-tomato-garlic-toast-004.jpg)

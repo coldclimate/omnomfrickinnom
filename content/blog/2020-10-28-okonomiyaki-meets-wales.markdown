@@ -7,9 +7,9 @@ image: "/images/blog/okonomiyaki-meets-wales-003.jpg"
 tags: ["japanese", "bacon","cabbage", "2020"]
 ---
 
-This week I ran across okonomiyaki on twitter (mostly because I jokes about the potencial farts from a cabbage and egg based meal), but we had a big green cabbage to use up, so I figered I'd have a go.   I read a few recipes online and several were topped with fine sliced belly pork (which I didn't have) but I did have some excellent unsmoked bacon.  I also didn't have several of the other common ingrediants, so much so that I really should be ashames to call this okonomiyaki really.
+This week I ran across okonomiyaki on twitter (mostly because I jokes about the potential farts from a cabbage and egg based meal), but we had a big green cabbage to use up, so I figured I'd have a go.   I read a few recipes online and several were topped with fine sliced belly pork (which I didn't have) but I did have some excellent unsmoked bacon.  I also didn't have several of the other common ingredients, so much so that I really should be ashamed to call this okonomiyaki really.
 
-Whilst prepping everything I added some fine sliced leek top that would have otherwise gone off, resulting in the disctintly Welsh finish.
+Whilst prepping everything I added some fine sliced leek top that would have otherwise gone off, resulting in the distinctly Welsh finish.
 
 
 ## You will need
@@ -27,7 +27,7 @@ Whilst prepping everything I added some fine sliced leek top that would have oth
 
 ## Do
 
-* Whisk all the ingrediants other than the cabbage, leek and bacon into a thick batter
+* Whisk all the ingredients other than the cabbage, leek and bacon into a thick batter
 * Put a big non-stick pan with a lid on a medium heat and stick the fat in
 * Mix the leek, cabbage and batter until it's a big wet handful
 * Lay the bacon in the pan close together to build a bacon mat

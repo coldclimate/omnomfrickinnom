@@ -8,11 +8,11 @@ image: "/images/blog/savoury-flaky-pasties/savour-flaky-pasties-07.jpg"
 tags: ["pasty", "pastry", "2020"]
 ---
 
-driving home this afternoon I caght a bit of [Radio4s Food Programme about pasties](https://www.bbc.co.uk/sounds/play/m000g4x8) and couldn't resist cooking some up this evening.  I've spent a week in Minsk with work and one of the things I've really enjoyed (and that reminded me of eating in Czech Republic in the late 90s) was the use of cumin, so I decided to break it out tonight.  
+driving home this afternoon I caught a bit of [Radio4s Food Programme about pasties](https://www.bbc.co.uk/sounds/play/m000g4x8) and couldn't resist cooking some up this evening.  I've spent a week in Minsk with work and one of the things I've really enjoyed (and that reminded me of eating in Czech Republic in the late 90s) was the use of cumin, so I decided to break it out tonight.  
 
-I made up a simple vegitarian filling and then filled parcels with either chorizo or cumin and lemon peel.  Premade patsry made this a doddle.
+I made up a simple vegetarian filling and then filled parcels with either chorizo or cumin and lemon peel.  Premade pastry made this a doddle.
 
-To make all the fine dicing easier I've been using my mandoline a lot more, piling up a thin slices and then dicing them.
+To make all the fine dicing easier I've been using my mandolin a lot more, piling up a thin slices and then dicing them.
 
 ## You will need
 
@@ -31,7 +31,7 @@ To make all the fine dicing easier I've been using my mandoline a lot more, pili
 ## Do
 
 * Stick the oven on 180oC
-* Mix all the filling ingrediants and pop them in the microwave for 5 mins until they're softened
+* Mix all the filling ingredients and pop them in the microwave for 5 mins until they're softened
 * Slice the pasty into even squares (in my case this was 6)
 * Press cumin seeds into one half of the squares
 * Pile chorizo into the middle of the others
@@ -45,7 +45,7 @@ To make all the fine dicing easier I've been using my mandoline a lot more, pili
 ## Result
 
 
-![Ingrediants - not quite what I used](/images/blog/savoury-flaky-pasties/savour-flaky-pasties-01.jpg)
+![Ingredients - not quite what I used](/images/blog/savoury-flaky-pasties/savour-flaky-pasties-01.jpg)
 ![Filling, pre-microwaving](/images/blog/savoury-flaky-pasties/savour-flaky-pasties-02.jpg)
 ![Pre-filling](/images/blog/savoury-flaky-pasties/savour-flaky-pasties-03.jpg)
 ![Ready for folding](/images/blog/savoury-flaky-pasties/savour-flaky-pasties-04.jpg)

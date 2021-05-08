@@ -33,7 +33,7 @@ I had a turkey thigh to use after defrosting a a couple, so I used it and the da
 ## Do
 
 * Put the onion and skin in a pan with a teaspoon of oil on a low heap to start cooking.  As the skin leaches oil you'll need to keep an eye on it
-* In anothe pan put the minced garlic and ginger, soy, wine/sherry and a couple of cups of water, stick it on a high heat
+* In another pan put the minced garlic and ginger, soy, wine/sherry and a couple of cups of water, stick it on a high heat
 * Once it's boiling add the meat and turn the heat down to just boiling and pop a lid on
 * The meat will take about ten minutes to cook through.  Turn the heat off once it is but leave it in the liquid.
 * Once the onions are mostly translucent with the odd one starting to catch remove the skin and add in the peppers and ginger, then stir it round for a few minutes
@@ -43,8 +43,8 @@ I had a turkey thigh to use after defrosting a a couple, so I used it and the da
 
 ## Result
 
-Pretty hot, wierdly tingly, sweet finish.  Really very different.  The jar will last a long time.
+Pretty hot, weirdly tingly, sweet finish.  Really very different.  The jar will last a long time.
 
 ![Onions cooking in skin fat](/images/blog/tingly-chinese-chicken-001.jpg)
-![Ready to recieve meat and chilli](/images/blog/tingly-chinese-chicken-002.jpg)
+![Ready to receive meat and chilli](/images/blog/tingly-chinese-chicken-002.jpg)
 ![GET IN MY FACE](/images/blog/tingly-chinese-chicken-003.jpg)

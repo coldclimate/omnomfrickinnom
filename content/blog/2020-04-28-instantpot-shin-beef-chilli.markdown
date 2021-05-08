@@ -8,7 +8,7 @@ image: "/images/blog/instantpot-shin-beef-chilli/instantpot-shin-beef-chilli-07.
 tags: ["beef", "instantpot", "chilli", "2020"]
 ---
 
-I've written about shin beef chilli in the past, but when a big chunk of shin landed in our meatbox I couldn't resist giving it the InstantPot treatment.  The result was delivcious and the process was different enough to warrent writing up.
+I've written about shin beef chilli in the past, but when a big chunk of shin landed in our meatbox I couldn't resist giving it the InstantPot treatment.  The result was delicious and the process was different enough to warrant writing up.
 
 ## You will need
 
@@ -21,7 +21,7 @@ I've written about shin beef chilli in the past, but when a big chunk of shin la
 * 1 heaped teaspoon of hot paprika
 * 1 heaped teaspoon of hot chilli powder (or 1 fresh birdseye in my case)
 * 2 big dried smoked chillis (mine were a Guajillo and an Ancho), sliced up
-* 4 squares of dark choclate
+* 4 squares of dark chocolate
 * 1 heaped teaspoon of quality instant coffee or a measure of fresh espresso
 * 5 cloves of garlic, finely sliced
 * An inch off a block of lard (about 50g)

@@ -21,7 +21,7 @@ I love a Cornish pasty and a pair make a great tea.  I used beef mince because i
 * * Diced turnip
 * * Diced onion
 * A handful of fine sliced leek green tops
-* Worchester sauce
+* Worcestershire sauce
 * Salt and pepper (I used celery salt because it's extra savoury)
 * An egg
 
@@ -30,7 +30,7 @@ I love a Cornish pasty and a pair make a great tea.  I used beef mince because i
 * Rub the fat, salt and flour until it's like breadcrumbs
 * Add in enough cold water to make a smooth dough
 * Pop it in the fridge for a few hours
-* Mix the rest of the ingrediants (except the egg) in a bowl and mash it up so it's well mixed, I should have added a couple of tablespoons of water to loosen it up a bit.
+* Mix the rest of the ingredients (except the egg) in a bowl and mash it up so it's well mixed, I should have added a couple of tablespoons of water to loosen it up a bit.
 * Once you're ready to cook...
 * Pop the oven on 200
 * Roll out circles of dough, I used a soup bowl as a template
@@ -42,7 +42,7 @@ I love a Cornish pasty and a pair make a great tea.  I used beef mince because i
 
 ## Result
 
-The pasty is smooth on the outside with a satifyin crunch but a pliable texture.  The filling will have cooked down but the steam should have puffed the pastry out.  The veg should be cooked though but still distinct.   There's a certain smell to Cornish pasties that you don't get with anything else and I suspect it's down to the pastry.
+The pasty is smooth on the outside with a satisfying crunch but a pliable texture.  The filling will have cooked down but the steam should have puffed the pastry out.  The veg should be cooked though but still distinct.   There's a certain smell to Cornish pasties that you don't get with anything else and I suspect it's down to the pastry.
 
 Ignore the veg in the last photo, that was an experiment I'd not try again.
 

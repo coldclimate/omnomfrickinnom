@@ -43,17 +43,17 @@ Recently I've really had cravings for British takeaway style egg fried rice too,
 
 * Stick the rice and water in the InstantPot and stick it on rice mode
 * My peas and sweetcorn were frozen so I microwaved them for 2 minutes at this point
-* Pop a fryingpan on with a teaspoon of oil and the pork on a high heat
+* Pop a frying pan on with a teaspoon of oil and the pork on a high heat
 * Stir the pork until it's nicely browned
-* Turn the heat down and add the garlic and spice mix to the pan and stir vigerously
-* Add the vinegar, soy and ketchup, give it all a good sitr and leave it to bubble away.
+* Turn the heat down and add the garlic and spice mix to the pan and stir vigorously
+* Add the vinegar, soy and ketchup, give it all a good stir and leave it to bubble away.
 * After a few minutes add the lettuce, peppers and spring onions
 * If the rice it taking a bit long, turn the heat off, it'll be fine.
 * Once the rice is ready, drain it if needed, a stir the InstantPot on saute super hot
 * Add a teaspoon of oil to the InstantPot and then add back the rice, peas and sweetcorn
 * Let it sizzle and crisp up a bit on the bottom, then move it round
-* Repeat until you have enough cripsy bits
-* Crack the egg in and stir a bit (not too much if you was visable chunks of egg)
+* Repeat until you have enough crispy bits
+* Crack the egg in and stir a bit (not too much if you was viable chunks of egg)
 * Serve (I anointed it with chilli flakes in oil and soy)
 
 ## Result
@@ -62,6 +62,6 @@ The pork should be sharp and sweet, a bit tougher than the more often used chick
 
 ![Past their best vegetables](/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-01.jpg)
 ![Pork in the pan](/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-02.jpg)
-![Saucey pork](/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-03.jpg)
+![Saucy pork](/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-03.jpg)
 ![Pre-frying](/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-04.jpg)
 ![GET IN MY FACE](/images/blog/lockdown-sweet-sour-pork/lockdown-sweet-sour-pork-05.jpg)

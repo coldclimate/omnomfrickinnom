@@ -21,7 +21,7 @@ Swap in root veg as you need, onions and carrots would have worked well.
 * A couple of teaspoons of oil oil
 * A heaped teaspoon of fennel seed
 * A heaped teaspoon of mustard seed
-* A few big fork fulls of sourkraut
+* A few big fork fulls of sauerkraut
 
 
 ## Do
@@ -30,8 +30,8 @@ Swap in root veg as you need, onions and carrots would have worked well.
 * Toss all the veg in olive oil
 * Pile everything into a non-stick oven tray
 * Sprinkle the fennel and mustard seeds
-* Bake for around 30 minutes or until everything looks cripsy on the top
-* Pile on plates with sourkraut on the side (and some mustard)
+* Bake for around 30 minutes or until everything looks crispy on the top
+* Pile on plates with sauerkraut on the side (and some mustard)
 
 
 ## Result

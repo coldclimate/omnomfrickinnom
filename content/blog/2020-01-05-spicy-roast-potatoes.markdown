@@ -8,7 +8,7 @@ image: "/images/blog/spicy-roast-potatoes.jpg"
 tags: ["potatoes", "airfryer", "spicy", "2020"]
 ---
 
-I made this as a side dish the other night, but it was the star of the show, hence writing this up, but the lack of photos.  This started with me reading a recipe that was super complex adding fried lentils, fried sev noodles, fried onion and peanuts to the fried potatoes.  Part way though I realised... these are ingrediants in bombay mix!  So I gave it a go and everybody loved it.
+I made this as a side dish the other night, but it was the star of the show, hence writing this up, but the lack of photos.  This started with me reading a recipe that was super complex adding fried lentils, fried sev noodles, fried onion and peanuts to the fried potatoes.  Part way though I realised... these are ingredients in Bombay mix!  So I gave it a go and everybody loved it.
 
 ## You will need
 
@@ -25,8 +25,8 @@ I made this as a side dish the other night, but it was the star of the show, hen
 
 * Stir the potatoes in a big bowl with the olive oil
 * Stick them in the [airfryer](https://www.amazon.co.uk/Philips-Airfryer-Technology-Healthy-Grilling/dp/B07CT45FBT/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=FRZ2D742AGEE5Y9CTKWR&linkCode=ll1&tag=wwwcoldclimat-21&linkId=89947d0648da38bc4a0134b2f75107c9&language=en_GB) on 200oC for about 15 minutes, until golden.  Shake the basket every 5 minutes or so to brown them evenly
-* Stir the potaotes and pickles until everything is coated
-* Stir in the chilli, onions and bombay mix
+* Stir the potatoes and pickles until everything is coated
+* Stir in the chilli, onions and Bombay mix
 * Serve quickly - the noodles will go soft
 
 

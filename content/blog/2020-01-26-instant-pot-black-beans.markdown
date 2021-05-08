@@ -14,11 +14,11 @@ Step in the InstantPot!  It turns out pressure cooking was what I was missing.  
 
 ## You will need
 
-* A cup of tried blackbeans (also sold as "turle beans"), I got mine from [the very excellent Lupe Pintos](https://www.lupepintos.com/)
+* A cup of tried blackbeans (also sold as "turtle beans"), I got mine from [the very excellent Lupe Pintos](https://www.lupepintos.com/)
 * 3x the volume of beans of water
-* A blob of buter (salted)
+* A blob of butter (salted)
 * Equal amount of garlic (I used a frozen block)
-* A heaped teaspoon or dried oregano (this is no substitute for mexcan oregano)
+* A heaped teaspoon or dried oregano (this is no substitute for Mexican oregano)
 * A bare teaspoon of smoked paprika (hot)
 
 
@@ -33,7 +33,7 @@ Step in the InstantPot!  It turns out pressure cooking was what I was missing.  
 
 Savoury, a great foil to spicy things, earthy and comforting.
 
-I think it might be best left to go cold and then gently reheated.  We scooped it into warm tortia with left over spicy lamb, feta and bits.
+I think it might be best left to go cold and then gently reheated.  We scooped it into warm tortilla with left over spicy lamb, feta and bits.
 
 Next time I'll do a much bigger batch and freeze it.
 

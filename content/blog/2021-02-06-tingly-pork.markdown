@@ -21,22 +21,22 @@ Right now there are huge bags of "greens" in the supermarkets.  They're super ch
 * A few lemon wedges
 * A big pinch of ginger
 * A splay of sherry
-* A clove of garlic, peelsed but whole
+* A clove of garlic, peeled but whole
 
 ### For the tingly pork
 
-* A piece of pork belly, cut into rouchly 1 inch pieces
+* A piece of pork belly, cut into roughly 1 inch pieces
 * A heaped teaspoon Laoganma or other chilli flakes in oil
 * A heaped teaspoon Tingly Green Sauce
-* A sping onion finesly sliced
+* A spring onion finely sliced
 
 
 ## Do
 
 The greens take about 5 minutes, the pork about 30, the timing is a bit frantic.
 
-* Air fry the pork at 180 for about 30 mimnutes or until its crispy and cooked though
-* Pop all the ingrediants for the greens in a large pan with a lid, along with a cup of boiling water on a medium heat
+* Air fry the pork at 180 for about 30 minutes or until its crispy and cooked though
+* Pop all the ingredients for the greens in a large pan with a lid, along with a cup of boiling water on a medium heat
 * Once the pork is ready, mix it with the Tingly Green, Laoganma and spring onions
 * Heat the pork though in a pan until it' all melted
 * Serve
@@ -44,7 +44,7 @@ The greens take about 5 minutes, the pork about 30, the timing is a bit frantic.
 
 ## Result
 
-The pork is cripy and juicy (air fryer magic) and literally lip tingling.
+The pork is crispy and juicy (air fryer magic) and literally lip tingling.
 
 ![GET](/images/blog/tingly-pork/tingly-pork-001.jpg)
 ![GET](/images/blog/tingly-pork/tingly-pork-002.jpg)

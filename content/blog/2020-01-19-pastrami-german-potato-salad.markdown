@@ -10,14 +10,14 @@ tags: ["spicy", "beef", "curing", "potato", "2020"]
 
 I've love pastrami ever since I first ticked a food tourism box by going to Katz Deli, being overwhelms by it all but managing to order it on rye, and fell in love.  Unlike potato salad, which I've never liked, until I had a hot potato salad at [Kreuz Market](https://kreuzmarket.com/) and was convinced by it's mustard and pickles.  I've never managed to recreate it and I've given up trying.  Instead I've taken the flavours and combined them with airfried potatoes, which are ace.  They called it German, I've no idea if it was
 
-I had a chunk of topside  beef in the freezer and decided to try using it instead of brisket for pastrami and it turned out ok.  The topside is a but lean, but had a great flavour and the smoking and steaming resulted in a great texture;
+I had a chunk of topside  beef in the freezer and decided to try using it instead of brisket for pastrami and it turned out OK.  The topside is a but lean, but had a great flavour and the smoking and steaming resulted in a great texture;
 
 ## You will need
 
 ### For the pastrami
 
 * A kilo of good quality beef (mine was from Christmas Farm)
-* A tablespoon of blackpepercorns
+* A tablespoon of black peppercorns
 * A tablespoon of coriander seeds
 * A couple of heaped teaspoons of ground ginger
 * A tablespoon of minced ginger (I used a frozen puck)
@@ -32,13 +32,13 @@ I had a chunk of topside  beef in the freezer and decided to try using it instea
 * A small handful of cornichon (chopped)
 * A couple of heaped teaspoons of dijon mustard
 * A tablespoon of rapeseed oil
-* A tablespoon of whitewine vinegar
+* A tablespoon of white wine vinegar
 
 ## Do
 
 ### Pastrami
 
-* Grind all the ingrediants other than the beef and the wood powder together
+* Grind all the ingredients other than the beef and the wood powder together
 * Rub it into the beef
 * Pop it in a sealed plastic tub in the fridge for 5 days, turning every day
 * When you're ready, cold smoke for a few hours.  I use a [ProQ Cold Smoke Generator](https://www.amazon.co.uk/ProQ-Artisan-Cold-Smoke-Generator/dp/B00L7QNREC/ref=as_li_ss_tl?crid=1DCM1T8WB2ZDB&keywords=cold+smoke+generator&qid=1579464451&sprefix=cold+smoke+gen,aps,157&sr=8-3&linkCode=ll1&tag=wwwcoldclimat-21&linkId=d1f1b37fdc8b3315f40f6e35469c8dd8&language=en_GB) and cherry wood powder from HotSmoked

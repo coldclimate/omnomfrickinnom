@@ -33,13 +33,12 @@ tags: ["salmon", "roast potatoes", "butter","samphire", "air", "airfryer", "2021
 * Cook skin side down for a few minutes, then turn them over
 * Turn the heat down and add the butter, thyme and garlic
 * Add the lemon zest and capers, keep it cooking for a few minutes, pop the salmon on it's side if you need to to help it cook though
-* Add the Parsley, saphire and lemon juice, stir round, cook for another minute or two
+* Add the Parsley, samphire and lemon juice, stir round, cook for another minute or two
 * Pile the potatoes into the middle of the plate, point the rest over the top.
 
 ## Result
 
-Very garlicy, fresh, a meal in itself or a substancial side dish.  We had rice, a naan, mango and lime pickle.
-
+Super savoury, lots of butter, salty and bitter, sweet fish. 
 
 ![Salmon in the pan](/images/blog/2021-04-14-salmon-samfire-butter-1.jpg)
 ![More butter](/images/blog/2021-04-14-salmon-samfire-butter-2.jpg)

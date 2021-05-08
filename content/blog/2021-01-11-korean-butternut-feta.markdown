@@ -16,16 +16,16 @@ I don't know if you need to "marinade" the squash, but I had the time and it did
 ## You will need
 
 * A butternut squash, sliced into inch thick wedges
-* About a tablespoon of gochujang (Korean pepper paste, looks for the red tub in your local asian shop)
+* About a tablespoon of gochujang (Korean pepper paste, looks for the red tub in your local Asian shop)
 * A block of feta
 * About a teaspoon of honey
-* A tablesoon of mixed seeds, often sold as salad toppers
+* A tablespoon of mixed seeds, often sold as salad toppers
 * A good splash of lime juice
 
 
 ## Do
 
-* Smear the slices of butternut with gochujang on both sides and set aisde.  I prepped them at lunchtime and cooked about six pm.
+* Smear the slices of butternut with gochujang on both sides and set aside.  I prepped them at lunchtime and cooked about six pm.
 * Roast in an oven at about 160 for an hour.  Once it's cooked though and slightly burnt pull it out and leave it to cool whilst you make the feta
 * Stick the grill on high
 * Slice the feta into 1.5cm cubes and stick it on a sheet of tinfoil
@@ -33,7 +33,7 @@ I don't know if you need to "marinade" the squash, but I had the time and it did
 * Pour the honey over the top and return to the grill for a few minutes. Don't let it catch.
 * Slice up the butternut into large cubes.  it'll be a bit squidgy
 * Mix the feta and the squash
-* Pile it up, scatter over seeds (these would have benefited from aminute under the hot grill) and a squeeze of lime
+* Pile it up, scatter over seeds (these would have benefited from a minute under the hot grill) and a squeeze of lime
 * We had seconds (unphotographed), piled onto thick, hot buttered toast, and it was excellent.
 
 ## Result

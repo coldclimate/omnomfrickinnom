@@ -8,12 +8,12 @@ image: "(/images/blog/herb-onion-cheese-bread-3.jpg"
 tags: ["cheese", "onion", "bread", "2020"]
 ---
 
-I remember this from growing up, but didn't know where it came from.  A bit of googling suggests it was probably from [Nigella Christmas](https://amzn.to/39rUzCW).  The original reciepe calls for snipped sage leaves.  I replaced those with a couple of heaped teaspoons of dried mixed herbs I had in.
+I remember this from growing up, but didn't know where it came from.  A bit of googling suggests it was probably from [Nigella Christmas](https://amzn.to/39rUzCW).  The original recipe calls for snipped sage leaves.  I replaced those with a couple of heaped teaspoons of dried mixed herbs I had in.
 
 ## You will need
 
 * A large onion, roughly chopped (about 350g)
-* An equal wieght of self-raising flour
+* An equal weight of self-raising flour
 * 100g of strong cheddar (grated)
 * 1 teaspoon of salt
 * 1 teaspoon of mustard powder
@@ -26,7 +26,7 @@ I remember this from growing up, but didn't know where it came from.  A bit of g
 
 * Stick the oven on 180 oC
 * Fry the onion in the oil under soft and golden with the odd bit that's caught.  Ideally leave to cool
-* In a large mixing bowl, mix the onion with dry ingrendiants
+* In a large mixing bowl, mix the onion with dry ingredients
 * Add the eg and some of the milk, mix until it all comes together.  You will probably need more of the milk.  try not to work it too much.
 * Form the dough into a ball and drop it onto a baking tray
 * Push a knife almost all the way though to divide it into 8 with deep slashes

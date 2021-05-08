@@ -8,9 +8,9 @@ image: "/images/blog/mongolian-beef/mongolian-beef-006.jpg"
 tags: ["beef", "chinese", "2020"]
 ---
 
-I saw this [Mongolian Beef](https://www.daringgourmet.com/mongolian-beef/) recipe this morning and it ticked all the boxes, sweat, sharp, crispy fried bits and such lovely colours, so it went on my mental list to make.  Daring Gourmet is one of those blogs that regularly provides me with insparation and bookmarks labelled "to cook".  Then I spotted we had a small piece of fillet steak in the freezer from our [Christmas farm meatbox](https://www.thechristmasfarm.co.uk/) and it was game on!
+I saw this [Mongolian Beef](https://www.daringgourmet.com/mongolian-beef/) recipe this morning and it ticked all the boxes, sweat, sharp, crispy fried bits and such lovely colours, so it went on my mental list to make.  Daring Gourmet is one of those blogs that regularly provides me with inspiration and bookmarks labelled "to cook".  Then I spotted we had a small piece of fillet steak in the freezer from our [Christmas farm meatbox](https://www.thechristmasfarm.co.uk/) and it was game on!
 
-This being The Great Lockdown of 2020, I didn't have any cornflour, so I used a bit of plain flour.  I also massively redued the quantities in the sauce because I was only cooking for the two of us.  Having also misremembered the recipe I ended up basically deepfrying the beef, leading to a must "crustier" finish that soaked up the sauce and was tremendous.
+This being The Great Lockdown of 2020, I didn't have any cornflour, so I used a bit of plain flour.  I also massively reduce the quantities in the sauce because I was only cooking for the two of us.  Having also misremembered the recipe I ended up basically deep-frying the beef, leading to a must "crustier" finish that soaked up the sauce and was tremendous.
 
 ## You will need
 
@@ -19,7 +19,7 @@ This being The Great Lockdown of 2020, I didn't have any cornflour, so I used a 
 * 3 cloves of garlic finely sliced
 * An equal amount of ginger, cut into matchsticks
 * A tablespoon of hoisin
-* A tablespoon of seaseme oil
+* A tablespoon of sesame oil
 * A tablespoon of light soy
 * A teaspoon of brown sugar
 * A good grind of blackpepper, maybe 1/4 of a teaspoon
@@ -39,7 +39,7 @@ You'll see a couple of fresh birdseye chillis in the photos, they were a mistake
 * Pour most of the oil out, leaving enough to coat the bottom of the pan
 * Put the garlic and ginger into the pan and stir round as they brown
 * Add the onions towards the end and stir round for another minute.  You're aiming for them still firm with browned edges
-* Add all the sauce ingrediants, stir frantically until it all starts to bubble
+* Add all the sauce ingredients, stir frantically until it all starts to bubble
 * Add the beef, turn the heat off, stir it round to make sure the beef is well coated
 * Serve over rice (I made the egg fried rice from a previous post)
 

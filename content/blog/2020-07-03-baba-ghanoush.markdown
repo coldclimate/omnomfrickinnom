@@ -26,7 +26,7 @@ I've always strayed away from baba ghanoush on menus because I thought it would 
 * BBQ until almost burnt on both sides
 * Let the cool enough to handle and scoop out the flesh (I used a grapefruit spoon)
 * Pop the flesh in a sieve to drain for half an hour or so
-* Chop the flesh and mix vigerously with the rest of the ingrediants
+* Chop the flesh and mix vigorously with the rest of the ingredients
 
 
 

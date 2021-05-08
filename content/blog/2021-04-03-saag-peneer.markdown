@@ -8,9 +8,9 @@ image: "/images/blog/saag-paneer-005.jpg"
 tags: ["saag", "paneer", "curry","vegitarian","2021"]
 ---
 
-A very quick, easy and vegitarian tea, perfect for using a huge bag of spinach that was very heavily discounted.  Adapted from [the perfect               saag paneer](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/jun/26/how-make-perfect-saag-paneer-vegetarian-indian).  I added the soft cheese because it was a little dry, a splash of single cream would have been good too.
+A very quick, easy and vegetarian tea, perfect for using a huge bag of spinach that was very heavily discounted.  Adapted from [the perfect               saag paneer](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/jun/26/how-make-perfect-saag-paneer-vegetarian-indian).  I added the soft cheese because it was a little dry, a splash of single cream would have been good too.
 
-Once this starts to cometogether it's pretty quickly o have your rice/plates/etc ready to go.
+Once this starts to come together it's pretty quickly o have your rice/plates/etc ready to go.
 
 
 ## You will need
@@ -20,7 +20,7 @@ Once this starts to cometogether it's pretty quickly o have your rice/plates/etc
 * A small onion - finely slices
 * 4 fat cloves of garlic - finely slided
 * A couple of inches of fresh ginger finely sliced or grated
-* A slice of the blokc of butter, about an inch thick, I'd guestimate this is 75g or so
+* A slice of the block of butter, about an inch thick, I'd guesstimate this is 75g or so
 * A heaped teaspoon of you favorite spice mix, I used [Panch Puran](https://www.amazon.co.uk/Seasoned-Pioneers-Phoran-Indian-Spices/dp/B00BXC6PMQ?dchild=1&keywords=Panch+Puran&qid=1617131485&sr=8-15&linkCode=ll1&tag=hhkudac-21&linkId=83cdc06bd27d938910caabe02ee01f23&language=en_GB&ref_=as_li_ss_tl) - ground
 * A couple of fresh green chillis, finely sliced
 * A tablespoon of soft cheese.

@@ -8,7 +8,7 @@ image: "/images/blog/christmas-dried-fruit-tarte-tatin/christmas-dried-fruit-tar
 tags: ["desert", "pastry", "figs", "prunes", "port", "2020"]
 ---
 
-Whilst noodling through John Whaite's very excellent [Comfort](https://amzn.to/2MVjZiP) I ran across his fig, prune and port tart tatin.  I've alwaysrather enjoyed tart tatin, with it's unctuous and gooey fruits and pleasingly crisp base/top, and it's the time of year when dired fruits are often on offer in the supermarkets.  I ended up adding different dried fruits and using almost half the quantaties in the recipe because it was only for the four of us.  I'm pretty sure you could swap in dried apricots and maybe some plump raisens into here, but not miss out the figs, the star of the show.
+Whilst noodling through John Whaite's very excellent [Comfort](https://amzn.to/2MVjZiP) I ran across his fig, prune and port tart tatin.  I've always rather enjoyed tart tatin, with it's unctuous and gooey fruits and pleasingly crisp base/top, and it's the time of year when dried fruits are often on offer in the supermarkets.  I ended up adding different dried fruits and using almost half the quantities in the recipe because it was only for the four of us.  I'm pretty sure you could swap in dried apricots and maybe some plump raisins into here, but not miss out the figs, the star of the show.
 
 
 
@@ -26,11 +26,11 @@ Whilst noodling through John Whaite's very excellent [Comfort](https://amzn.to/2
 * Stick the oven on 200oC
 * In the pan you're going to put in the oven melt the butter and stir in the sugar
 * Bubble until it forms a light caramel
-* Add the fruit and port, lowering the temperature so it doens't burn and stir until the fruit is hot through
+* Add the fruit and port, lowering the temperature so it doesn't burn and stir until the fruit is hot through
 * Turn off the heat and lay the pastry over the top of the pan.  Work round the edge using the pan edge to slice the pasty
 * Tuck the edges down into the pan.  Watch you finger on the super hot caramel
-* Score the pastry top a few times and stick in the over for around 30 minutes until the pastry is puffed up and goldern
-* Leave to cool a little and then carefully turn out onto a plate (I stcuk a plate over the top and then turns it over wearing oven gloves.  beware hot pan caramel)
+* Score the pastry top a few times and stick in the over for around 30 minutes until the pastry is puffed up and golden
+* Leave to cool a little and then carefully turn out onto a plate (I stuck a plate over the top and then turns it over wearing oven gloves.  beware hot pan caramel)
 * Serve in slices warm, we had a good blob of creme fraiche who's acidity offset the sweetness nicely.
 * 
 

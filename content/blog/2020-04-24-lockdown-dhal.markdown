@@ -30,7 +30,7 @@ This week we got a great delivery from [Grainger Market](https://shop.graingerde
 ## Do
 
 * Cook the onions and garlic on saute mode for a good ten minutes or so with the butter
-* Add all the rest of the ingrediants and stir and sizzle for a couple of minutes
+* Add all the rest of the ingredients and stir and sizzle for a couple of minutes
 * Add three times the volume of peas of hot water
 * Pressure cook for 30 minutes
 * Season (I needed about a teaspoon of salt)

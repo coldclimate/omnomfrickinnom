@@ -15,9 +15,9 @@ I also added a teaspoon of [Panch Puran](https://www.amazon.co.uk/Seasoned-Pione
 
 ## You will need
 
-* A handful of sausages, cut into 1 inch pices
+* A handful of sausages, cut into 1 inch pieces
 * A handful of potatoes, cut into 1 inch cubes
-* A large onion, cube into rough cibe (1cm or so)
+* A large onion, cube into rough cube (1cm or so)
 * 2 large garlic cloves (fine sliced)
 * 2 inches of ginger, peeled and fine diced or grated
 * A big chilli, finely diced
@@ -31,7 +31,7 @@ I also added a teaspoon of [Panch Puran](https://www.amazon.co.uk/Seasoned-Pione
 
 * Put the onions, garlic and ginger in a big frying pan with a couple of teaspoons of olive oil on a low heat
 * Stick the potatoes and sausages in the airfrier on 180, they'll take about 25 minutes, keep shaking them
-* Keep the onions moving so they go softa and transparent.  Add the chili and the spice mix and cook until they start to catch, then turn off the heat.
+* Keep the onions moving so they go soft and transparent.  Add the chili and the spice mix and cook until they start to catch, then turn off the heat.
 * If you've used frozen spinach, stick the cubes round the end, pop the lid on and leave it until the potatoes and sausages are good to go.
 * Once the potatoes and the sausage are well cooked and crispy, take the lid off the onions, turn the heat on again, add the mustard and stir round.
 * Add in the sausages and potatoes, stir round and give it a minute to come together.

@@ -15,13 +15,13 @@ You could swap in most fish I'd thing.
 ## You will need
 
 * A big heap of dry pinecones and needles (I use them for lighting the fire so had them around)
-* 4 fillets of sea troat
+* 4 fillets of sea trout
 * 4 slices of thick cut bread
 * Fresh tomatoes, cut into eight
 * A bag of mixed salad or spinach leaves
 * A good lug of olive oil
 * A big pinch of flaking salt
-* A teaspoon of djon mustard
+* A teaspoon of Dijon mustard
 
 ### For toasted nuts and seeds
 
@@ -36,10 +36,10 @@ You could swap in most fish I'd thing.
 
 ## Do
 
-It all comes together at the end pretty quickly, so make the salad, nuts and coutons before you start on the fish.
+It all comes together at the end pretty quickly, so make the salad, nuts and croutons before you start on the fish.
 
-* Stick the ovven on at 200oC
-* Mix all the toasted nuts ingrediants and spreadout on a piece of greaseproof paper on a baking tray
+* Stick the oven on at 200oC
+* Mix all the toasted nuts ingredients and spreadout on a piece of greaseproof paper on a baking tray
 * Dice the bread into 1 inch cubes and shake over the olive oil and salt and stick it on the tray
 * Bake for about 15 minutes until the breadcubes are toasty, then set aside
 * Stick the nuts back in the oven and turn it off, they'll be fine.

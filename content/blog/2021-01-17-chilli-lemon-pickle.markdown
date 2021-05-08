@@ -8,9 +8,9 @@ image: "/images/blog/chilli-lemon-pickle.jpg"
 tags: ["chilli", "lemon", "pickle", "condiment", "2021"]
 ---
 
-I love Indian pickles, especially lime pickle.  I've not had much luck in the past making them, but this worked out well and used up a glut of fresh chillis from a grocery box delivery.  I'm sure this isn't quite how it was meant to be, because adding a substancial amount of wet ingrediants into hot oil caused quite a commotion and filled the kitchen with chilli fumes.
+I love Indian pickles, especially lime pickle.  I've not had much luck in the past making them, but this worked out well and used up a glut of fresh chillis from a grocery box delivery.  I'm sure this isn't quite how it was meant to be, because adding a substantial amount of wet ingredients into hot oil caused quite a commotion and filled the kitchen with chilli fumes.
 
-This is an adaption of the ht lemon pickle in [Classic Indian Cookry](https://www.amazon.co.uk/Classic-Indian-Cookery-Julie-Sahni/dp/1904010687/ref=as_li_ss_tl?&linkCode=ll1&tag=hhkudac-21&linkId=f10a545b463e86ebd840ecd99b2614bb&language=en_GB) which is for 6 lemons and no fresh chillis.
+This is an adaption of the ht lemon pickle in [Classic Indian Cookery](https://www.amazon.co.uk/Classic-Indian-Cookery-Julie-Sahni/dp/1904010687/ref=as_li_ss_tl?&linkCode=ll1&tag=hhkudac-21&linkId=f10a545b463e86ebd840ecd99b2614bb&language=en_GB) which is for 6 lemons and no fresh chillis.
 
 ## You will need
 
@@ -18,7 +18,7 @@ This is an adaption of the ht lemon pickle in [Classic Indian Cookry](https://ww
 * A big handful of birds eye chillis, picked over and cut into 5m slices
 * Enough plain oil to half fill the jar
 * 1 teaspoon of black mustard seeds
-* 1/2 teapsoon of tumeric
+* 1/2 teaspoon of turmeric
 * 1/2 teaspoon of fenugreek seeds
 * 1/2 teaspoon of salt
 

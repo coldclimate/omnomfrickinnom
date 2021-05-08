@@ -7,7 +7,7 @@ image: "/images/blog/smoothed-pork-chop/smoothed-pork-chop-004.jpg"
 tags: ["pork", "savoury","airfryer", "2020"]
 ---
 
-I love a pork chop, they're a much underated cut of meat.  There were a pair of them in our meatbox this month and I couldn't resist.  Next time I'll airfry them and cook the sauce at the same time so that I get the properly crispy fat without risking drying them out.
+I love a pork chop, they're a much underrated cut of meat.  There were a pair of them in our meatbox this month and I couldn't resist.  Next time I'll airfry them and cook the sauce at the same time so that I get the properly crispy fat without risking drying them out.
 
 
 ## You will need
@@ -26,11 +26,11 @@ I love a pork chop, they're a much underated cut of meat.  There were a pair of 
 ## Do
 
 * Pop the chops and half the flour in a bag, shake to coat and flatten them out a bit with a rolling pin
-* Put the pan on a reasonable heat, add the oil and the chops.  Cook until the meat it gcooked though.  Crisp the fat if you can
+* Put the pan on a reasonable heat, add the oil and the chops.  Cook until the meat it cooked though.  Crisp the fat if you can
 * Pop the chops to one side and cook the onion down in the fat until golden but not crispy (10 minutes or so)
 * Crunch the fennel and black pepper and add to the pan, sizzle for a few minutes
 * Add the rest of the flour and cook out
-* Add the stock and stir vigerously until it starts to thicken
+* Add the stock and stir vigorously until it starts to thicken
 * Add the cream and chops, reduce the heat right down and bubble together for a few minutes.  Try to not let it split like I did.
 
 Serve with a starch and a green veg.  I went for nutty brown rice and peas, because they're so easily eaten with a spoon :D
@@ -38,7 +38,7 @@ Serve with a starch and a green veg.  I went for nutty brown rice and peas, beca
 
 ## Result
 
-The pork is juicey and the fat has that unctous gel texture.  The pepper and the aniseed of the fennel come though without over powering.  
+The pork is juicy and the fat has that unctuous gel texture.  The pepper and the aniseed of the fennel come though without over powering.  
 
 ![Pork  chop and onions cooking in the pan](/images/blog/smoothed-pork-chop/smoothed-pork-chop-001.jpg)
 ![Onions and herbs](/images/blog/smoothed-pork-chop/smoothed-pork-chop-002.jpg)

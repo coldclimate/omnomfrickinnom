@@ -27,7 +27,7 @@ Gado gado is one of my favorite dressings, sour, sweet, hot, salty, deeply umami
 ## Do
 
 * Cover the potatoes in the oil and stick in them in the airfryer
-* Mix up all the other ingrediants other than the green beans.  You might need to adjust the ratios a bit to your personal preference.
+* Mix up all the other ingredients other than the green beans.  You might need to adjust the ratios a bit to your personal preference.
 * When the potatoes are ready, boil the beans briefly and drain.
 * Mix and serve
 

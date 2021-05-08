@@ -17,7 +17,7 @@ The first saute browns onions and meat, making sure you don't have anemic dish. 
 
 ### For the beef curry
 
-* A big hanfdul of beef stewing steak cut into 1cm chunks
+* A big handful of beef stewing steak cut into 1cm chunks
 * An onion, roughly chopped
 * A tablespoon of garlic (I used a frozen block)
 * A tablespoon of ginger (and another block)
@@ -28,9 +28,9 @@ The first saute browns onions and meat, making sure you don't have anemic dish. 
 ### To serve
 
 * A couple of naan breads
-* A couple of big spoonfuls of plain yoghurt
+* A couple of big spoonfuls of plain yogurt
 * A couple of big spoonfuls of mango pickle
-* A load of snipped corriader
+* A load of snipped coriander
  
 
 ## Do
@@ -40,12 +40,12 @@ The first saute browns onions and meat, making sure you don't have anemic dish. 
 * Pressure cook for ten minutes
 * Let the pressure out
 * Saute for ten minutes
-* Grill the naans, smear with mango pickle, top with curry and then more yoghurt
+* Grill the naans, smear with mango pickle, top with curry and then more yogurt
 
 
 ## Result
 
-The onions have broken down to a velevety finish, the beef is tender, the spicies come though without screamingy hot.
+The onions have broken down to a velvety finish, the beef is tender, the spices come though without screamingly hot.
 
 ![Post pressure cooking](/images/blog/instant-pot-beef-curry-1.jpg)
 ![GET IN MY FACE](/images/blog/instant-pot-beef-curry-2.jpg)

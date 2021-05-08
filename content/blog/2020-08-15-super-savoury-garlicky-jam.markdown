@@ -7,9 +7,9 @@ image: "/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-007.jpg
 tags: ["savoury", "homesteading","garlic", "2020"]
 ---
 
-Over lockdown we've been getting deliveries from [Grainge Market](https://shop.graingerdelivery.com/) which have been tremendous.  The veg boxes always come with a net of garlic bulbs and so we've got quite a stash.
+Over lockdown we've been getting deliveries from [Grainger Market](https://shop.graingerdelivery.com/) which have been tremendous.  The veg boxes always come with a net of garlic bulbs and so we've got quite a stash.
 
-Not wanting them to go to waste I've planted some, made yet more into jars of confit bulbs in butter and eaten a lot, however, there was yet more.  Twitter suggested all osrts including a 100 bulb curry, but I came across this recipe for [garlic jam by the marvelous Jack Monroe](https://cookingonabootstrap.com/2019/04/27/garlic-jam-recipe/) and it set me off down the road of a use up (as normal).  Sugar, fruit and acid are the basis for all pickles and a lot of jams, so adapt as you need to.
+Not wanting them to go to waste I've planted some, made yet more into jars of comfit bulbs in butter and eaten a lot, however, there was yet more.  Twitter suggested all sorts including a 100 bulb curry, but I came across this recipe for [garlic jam by the marvelous Jack Monroe](https://cookingonabootstrap.com/2019/04/27/garlic-jam-recipe/) and it set me off down the road of a use up (as normal).  Sugar, fruit and acid are the basis for all pickles and a lot of jams, so adapt as you need to.
 
 ## You will need
 
@@ -24,7 +24,7 @@ Not wanting them to go to waste I've planted some, made yet more into jars of co
 
 * Peel the garlic.  I couldn't be bothered to then slice it
 * Pop it in a pan on a low heat with the oil for 10 minutes or so until it colours a little and softens
-* Add the thyyme.  I just chopped the stems into 1 inch lengths and added the lot
+* Add the thyme.  I just chopped the stems into 1 inch lengths and added the lot
 * Add the liquid and half the sugar, turn the heat up to bring it to the boil, then lid on and heat down for 10 minutes or so.
 * Mash it all up with a potato masher, add the rest of the sugar and then give it a blast on high heat for a few minutes
 * Leave it to cool in the pan and jar up
@@ -40,4 +40,4 @@ Deeply savoury, very garlicky (unsurprisingly), sweet enough to go on toast but 
 ![Before the first boil](/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-004.jpg)
 ![After the first boil](/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-005.jpg)
 ![In a jar](/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-006.jpg)
-![GET IN MY FACE from a ramikin](/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-007.jpg)
+![GET IN MY FACE from a ramekin](/images/blog/super-savour-garlicky-jam/super-savour-garlicky-jam-007.jpg)

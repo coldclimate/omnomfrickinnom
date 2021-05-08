@@ -24,14 +24,14 @@ This was an excellent tea made by my girlfriend, well worth a write up.  Pre-rol
 
 ## Do
 
-* Softed the onions in a pan with the olive oil until translucent
+* Softened the onions in a pan with the olive oil until translucent
 * Let them cool a bit
 * Add the soft cheese and lemon juice
 * Bake the pastry on a sheet at 180 for a few minutes 
 * Pile it all into the middle of the pasty and spread towards the edges, leave as much crust as you'd like
 * Scatter with salmon and capers
 * Egg wash the crust if you're into that sort of thing
-* Return to the oven and bake until the edges are golden and the ctopping has a hint of char 
+* Return to the oven and bake until the edges are golden and the topping has a hint of char 
 
 ## Result
 
