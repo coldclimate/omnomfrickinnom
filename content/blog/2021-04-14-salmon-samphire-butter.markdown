@@ -13,7 +13,7 @@ tags: ["salmon", "roast potatoes", "butter","samphire", "air", "airfryer", "2021
 ## You will need
 
 * A pair of salmon fillets
-* Enough potatoes for two, cute into cubes
+* Enough potatoes for two, cut into cubes
 * A slice of a block of unsalted butter roughly 1am wide
 * The juice and zest of half a lemon
 * A teaspoon of capers

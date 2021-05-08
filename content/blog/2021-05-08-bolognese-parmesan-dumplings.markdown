@@ -10,7 +10,7 @@ tags: ["beef", "mince", "dumplings", "easy-dinner", "2021"]
 
 Mince and dumplings are great (I've written about how much I enjoy [savoury mince and dumplings]({{< ref "2021-01-16-savoury-beef-mince-dumplings" >}})).  Beef bolognese is great.  At some point, somebody combined the two.  I don't know who.  I first saw it on the Instagram feed of those [Two Hungry Boys](https://twohungryboys.uk/) 
 
-I've written up the dumpling recipe as I made them, using yogurt, but this was done of on the fly when it turned out we had no milk.
+I've written up the dumpling recipe as I made them, using yogurt, but this was done on the fly when it turned out we had no milk.
 
 
 ## You will need
