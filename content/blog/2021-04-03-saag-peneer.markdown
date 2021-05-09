@@ -5,7 +5,7 @@ title:  "Saag Paneer"
 date:   2021-04-03 17:51:00
 author: oli
 image: "/images/blog/saag-paneer-005.jpg"
-tags: ["saag", "paneer", "curry","vegitarian","2021"]
+tags: ["saag", "paneer", "curry","vegetarian","2021"]
 ---
 
 A very quick, easy and vegetarian tea, perfect for using a huge bag of spinach that was very heavily discounted.  Adapted from [the perfect               saag paneer](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/jun/26/how-make-perfect-saag-paneer-vegetarian-indian).  I added the soft cheese because it was a little dry, a splash of single cream would have been good too.

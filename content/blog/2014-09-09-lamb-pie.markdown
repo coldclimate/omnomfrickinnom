@@ -3,7 +3,7 @@ layout: post
 title:  "Left over lamb becomes spicy pie"
 date:   2014-09-09 09:22:52
 publishdate:   2014-09-09 09:22:52
-tags: ["lamb","pie","economy", "2014"]
+tags: ["lamb","pie","economic", "2014"]
 author: oli
 ---
 image: "/images/blog/lamb-pie-3.jpg"

@@ -5,7 +5,7 @@ title:  "Peanut (groundnut) chicken"
 date:   2021-02-20 17:51:00
 author: oli
 image: "/images/blog/crispy-peanut-chicken-groundnut/crispy-peanut-chicken-groundnut-007.jpg"
-tags: ["chicken", "african", "peanut","spicy","airfrier","instantpot","2021"]
+tags: ["chicken", "african", "peanut","spicy","airfryer","instantpot","2021"]
 ---
 
 I love the Rivers of London books and all thought it Peter Grant raves about the groundnut chicken dish his mum makes.  After a bit of googling I found that groundnuts are another name for peanuts (and fascinatingly in Nigeria "peanuts" are groundnuts dipped in dough and fried).  A bit more googling turned up lots of variations of recipe, lots from American food blogs, not a huge number from any African countries (though a few from ex-pats).  I took the common features of various recipes.

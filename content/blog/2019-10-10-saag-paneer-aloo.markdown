@@ -5,7 +5,7 @@ date:   2019-10-10 17:30:00
 publishdate:   2019-10-10 17:30:00
 author: oli
 image: "/images/blog/saag-paneer-aloo-02.jpg"
-tags: ["spinach", "curry", "takeaway", "potato","2019"]
+tags: ["spinach", "curry", "takeaway", "potatoes","2019"]
 ---
 
 The airfrier came into its own this week when I discovered I could use it to make tiny cubed roast potatoes. Delicious in their own right, but excellent as part of the bulk of a meal.

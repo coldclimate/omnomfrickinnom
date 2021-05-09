@@ -4,7 +4,7 @@ title:  "Baba Ghanoush"
 date:   2020-07-03 15:00:00
 author: oli
 image: "/images/blog/baba-ghanoush/baba-ghanoush-003.jpg"
-tags: ["babaghanoush", "savoury","vegitarian", "2020"]
+tags: ["babaghanoush", "savoury","vegetarian", "2020"]
 ---
 
 I've always strayed away from baba ghanoush on menus because I thought it would be slimy.  Last weeks vegetable box included a pair of big purple aubergines and I didn't want them to go to waste. This week I also preserved eight bulbs of garlic by confitting them in olive oil, so I used them instead of raw galic.

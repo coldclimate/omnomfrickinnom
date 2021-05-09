@@ -5,7 +5,7 @@ title:  "Super savoury butternut squash"
 date:   2021-01-11 17:51:00
 author: oli
 image: "/images/blog/korean-butternut-feta-2.jpg"
-tags: ["butternut squash", "gochujang", "feta", "savoury","vegitarian", "2021"]
+tags: ["butternut squash", "gochujang", "feta", "savoury","vegetarian", "2021"]
 ---
 
 We had this as a main course (a huge pile of it) but it would make a good side dish.  It's super savoury, with all the boxes being ticked (sour, sweet, salty, spicy, stuck on bits, burnt bits, squidgy bits, everything).

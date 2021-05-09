@@ -4,7 +4,7 @@ title:  "Soupy Beans"
 date:   2020-08-02 18:00:00
 author: oli
 image: "/images/blog/soupy-beans-005.jpg"
-tags: ["sausage", "beans","comfort food", "2020"]
+tags: ["sausages", "beans","comfort food", "2020"]
 ---
 
 This week I read an article about [redbeans and rice](https://www.seriouseats.com/recipes/2017/05/new-orleans-style-red-beans-rice-recipe.html) which looked delicious.  I didn't have any of the ingrediants, but the idea of soupy beans cooked with strong flavours and pork sounded great so I improvised.

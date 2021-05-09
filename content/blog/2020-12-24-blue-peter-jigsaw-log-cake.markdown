@@ -4,7 +4,7 @@ title:  "Blue Peter Jigsaw Log Cake"
 date:   2020-12-24 17:51:00
 author: oli
 image: "/images/blog/blue-peter-jigsaw-log-cake-004.jpg"
-tags: ["cake", "yhristmas", "2020"]
+tags: ["cake", "christmas", "2020"]
 ---
 
 Many years ago this was made on Blue Peter and from that point on it became a family favorite and Christmas tradition.  Famously one of my elderly relatives absolutely refused to share the piece we gifted her each year.
