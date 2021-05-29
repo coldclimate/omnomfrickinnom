@@ -2,12 +2,3 @@ IgnoreExternalBrokenLinks: true
 TestFilesConcurrently: false
 CheckExternal: false
 IgnoreDirectoryMissingTrailingSlash: true
-IgnoreURLs:
-- "(http|https)://amzn.to/*"
-- "(http|https)://www.amazon.co.uk/*"
-- "(http|https)://twitter.com/*"
-- "(http|https)://blocknbottle.com/"
-- "(http|https)://conorbofin.com/"
-- "(http|https)://www.closetcooking.com/"
-- "(http|https)://blog.bristlr.com/"
-- "(http|https)://www.reddit.com/"
