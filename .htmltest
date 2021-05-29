@@ -1,6 +1,6 @@
 IgnoreExternalBrokenLinks: true
 TestFilesConcurrently: false
-ExternalTimeout: 60
+CheckExternal: false
 IgnoreDirectoryMissingTrailingSlash: true
 IgnoreURLs:
 - "(http|https)://amzn.to/*"
