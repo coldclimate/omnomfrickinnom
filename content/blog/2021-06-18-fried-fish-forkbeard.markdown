@@ -8,7 +8,7 @@ image: /images/blog/fried-fish-forkbeard/fried-fish-forkbeard-0005.jpg
 tags: ["fish", "salad", "fried","2021"]
 ---
 
-I very rarely fry fish, but our [FishBox](www.fishbox.co.uk) contained a couple of big fillets of [Forkbeard](https://britishseafishing.co.uk/greater-forkbeard/) so I thought I'd give it a go. I used a very thin tempura like batter.
+I very rarely fry fish, but our [FishBox](http://www.fishbox.co.uk) contained a couple of big fillets of [Forkbeard](https://britishseafishing.co.uk/greater-forkbeard/) so I thought I'd give it a go. I used a very thin tempura like batter.
 
 Homemade tartar sauce is a different beast to the stuff in a jar (which I'm also partial to), and well worth the (pretty slim) effort.
 
