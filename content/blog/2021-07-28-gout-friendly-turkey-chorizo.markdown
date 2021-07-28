@@ -8,7 +8,7 @@ image: /images/blog/gout-friendly-turkey-chorizo-01.jpg
 tags: ["gout", "turkey","2021"]
 ---
 
-This year my gout has been really painful, to the point where I started a new side project [www.gout-is-shit.com](www.gout-is-shit.com).  I've also had to cut out from my diet all pork, offal, game, fish, shellfish, beer and whiskey.  Once it's under control I'll start adding things back in, but right now, I'm eating none of those things, which means not only am I missing pork chops, but also bacon, sausages, chorizo, ham, cured meats, venison, you name it, thus, I'm experimenting.
+This year my gout has been really painful, to the point where I started a new side project [www.gout-is-shit.com](http://www.gout-is-shit.com/).  I've also had to cut out from my diet all pork, offal, game, fish, shellfish, beer and whiskey.  Once it's under control I'll start adding things back in, but right now, I'm eating none of those things, which means not only am I missing pork chops, but also bacon, sausages, chorizo, ham, cured meats, venison, you name it, thus, I'm experimenting.
 
 This week I've tried combining the spices used to make chorizo with turkey mince, rather than pork. The results are pretty tasty, if a little dry because of how lean the turkey mince is.
 
