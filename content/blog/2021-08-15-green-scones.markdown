@@ -37,5 +37,9 @@ At the moment I have loads of herbs going bonkers in the garden, so I put a tonn
 
 So fresh and so clean
 
-![GET IN MY FACE](/images/blog/roast-potato-nachos-1.jpg)
-![GET IN MY FACE FASTER](/images/blog/roast-potato-nachos-2.jpg)
+![Herbs uncut](/images/blog/green-scones-00001.jpg)
+![Herbs, directors cut](/images/blog/green-scones-00002.jpg)
+![Fat and flour](/images/blog/green-scones-00003.jpg)
+![Pre-oven](/images/blog/green-scones-00004.jpg)
+![Post-oven](/images/blog/green-scones-00005.jpg)
+![GET IN MY FACE](/images/blog/green-scones-00006.jpg)
