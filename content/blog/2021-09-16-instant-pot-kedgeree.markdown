@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "InstantPot Kedgeree"
-date:   2021-09-21 20:30:00
+date:   2021-09-17 20:30:00
 author: oli
 image: /images/blog/instant-pot-kedgeree-03.jpg
 tags: ["instantpot", "fish", "rice", "2021"]
