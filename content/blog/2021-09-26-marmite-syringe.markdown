@@ -4,7 +4,7 @@ layout: post
 title:  "Making a Marmite Syringe"
 date:   2021-09-26 07:30:00
 author: oli
-image: /images/blog/marmite-syringe-00004.jpg
+image: /images/blog/marmite-syringe-00003.jpg
 tags: ["marmite", "syringe", "gout", "2021"]
 ---
 
