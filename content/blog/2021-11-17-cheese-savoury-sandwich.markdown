@@ -5,7 +5,7 @@ title:  "Cheese savoury sandwich"
 date:   2021-11-17 11:30:00
 author: oli
 image: /images/blog/cheese-savoury-sandwich-00004.jpg)
-tags: ["cheese", "sandwich", "grout friendly", "2021"]
+tags: ["cheese", "sandwich", "grout", "2021"]
 ---
 
 I thought the cheese savoury sandwich was pretty universal, but after tweeting a photo of mine aroused some curiosity, I guess not.  I once lived with a chap who's [family](https://www.marktoney.co.uk/) claimed to have invented them, and for this I can only thank them.  I grew up eating them from Birkett's The Bakers in Cumbria (now bought out by Greggs) and Greggs now do a reasonable one.  Some places have tomato in there, I don't.
