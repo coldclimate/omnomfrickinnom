@@ -4,8 +4,8 @@ layout: post
 title:  "Instapot and Airfrier cabbage saas aloo"
 date:   2021-11-21 18:30:00
 author: oli
-image: /images/blog/cheese-savoury-sandwich-00004.jpg)
-tags: ["potato", "spinach", "cabbage","instapot","airfrier" "2021"]
+image: /images/blog/saag-aloo-instapot-airfrier-02.jpg)
+tags: ["potato", "spinach", "cabbage","instapot","airfrier", "2021"]
 ---
 
 Tonight we had strong cravings for a dish rich in green vegetables and I remembered we had some potatoes and cabbage that needed using up.  Thus, time for some silly fusion cooking.  The potatoes get roasted in the airfrier, and you can use a pan for the rest but an InstantPot on Saute mode works brilliantly.
