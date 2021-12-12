@@ -32,7 +32,6 @@ You can of course roast Facehuggers whole, and I'll write that up another time. 
 * Use in all ramen dishes for quick and tasty lunches!
 
 
-
 ## Results
 
 The stock will set to a stiff gel because of all the collagen and gelatin making it easy to handle.  The pieces of meat might need cutting down but are super tender with a rich beef like flavour.
@@ -47,5 +46,9 @@ I've been popping a bowl full into a pan on a high heat, adding fine sliced cabb
 ![Separating the meat](/images/blog/facehugger-ramen-00004.jpg)
 ![GET IN MY FACE](/images/blog/facehugger-ramen-00005.jpg)
 ![GET EVEN MORE IN MY FACE](/images/blog/facehugger-ramen-00006.jpg)
+
+## Addendum
+
+No, it's not a real Facehugger, it's a complete ox tail from our wonderful meat supplier [Christmas Farm](https://www.thechristmasfarm.co.uk/).  I believe in nose to tail eating, and never miss an opportunity to have a go with something unusual.
 
 
