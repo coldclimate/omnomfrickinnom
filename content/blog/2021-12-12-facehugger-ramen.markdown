@@ -4,7 +4,7 @@ layout: post
 title:  "Facehugger Ramen"
 date:   2021-12-12 08:30:00
 author: oli
-image: /images/blog/facehugger-ramen-00005.jpg
+image: /images/blog/facehugger-ramen-00001.jpg
 tags: ["beef", "ramen", "soup","instapot","facehugger", "comfort food", "2021"]
 ---
 
