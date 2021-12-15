@@ -36,11 +36,10 @@ A simple tray baked dinner that's excellent with rice and can be dressed up for 
 The fennel looses it's hard licorique flavour, the leeks caremelise at the edges, the chicken skin is crispy.
 
 
-
-![Ingrediants](/images/blog/chicken-fennel-lemon-00001.jpg)
+![Ingredients](/images/blog/chicken-fennel-lemon-00001.jpg)
 ![Raw](/images/blog/chicken-fennel-lemon-00002.jpg)
 ![Before baking](/images/blog/chicken-fennel-lemon-00003.jpg)
 ![With meat](/images/blog/chicken-fennel-lemon-00004.jpg)
-![From the oven](/images/blog/chicken-fennel-lemon-00005.jpg)
-![GET IN MY FACE](/images/blog/chicken-fennel-lemon-00006.jpg)
+![GET IN MY FACE](/images/blog/chicken-fennel-lemon-00005.jpg)
+
 
