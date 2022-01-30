@@ -5,7 +5,7 @@ title:  "Easy cheesy potato bake"
 date:   2022-01-16 18:30:00
 author: oli
 image: /images/blog/potato-cheese-bake.jpg
-tags: ["potato", "cheese", "comfort food","baked", "2021"]
+tags: ["potato", "cheese", "comfort food","baked", "2022"]
 ---
 
 Tonight's tea needed to be quick, easy, hands off comfort food and to use up some of the huge chunk of raclette cheese we bought this weekend.  We also had ends of cheese to use up after Christmas that had gone had hard, so they went in too.
