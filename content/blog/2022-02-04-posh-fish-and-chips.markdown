@@ -37,7 +37,8 @@ For a couple of Fridays in a row we had the same super tasty, super quick tea.  
 
 ## Results
 
-Crunchy cheese, rich and slightly sharp beans, cripsy and fluffy toast.  A good dose of black pepper didn't go amiss.
+
+Fishy, buttery, bitter capers, crispy chips.  best with a few slices of buttered bread.
 
 ![Fish pre-wrapping](/images/blog/posh-fish-and-chips-00001.jpg)
 ![Dish pre-ovening](/images/blog/posh-fish-and-chips-00002.jpg)
