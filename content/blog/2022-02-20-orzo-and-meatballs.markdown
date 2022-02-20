@@ -1,13 +1,10 @@
-
-
-
 ---
 layout: post
 title:  "Orzo and Meatballs"
-date:   2022-20-20 10:30:00
+date:   2022-02-20 09:30:00
 author: oli
-image: /images/blog/posh-fish-and-chips-00004.jpg
-tags: ["orzo", "pork", "beef"," one pot" "2022"]
+image: /images/blog/orzo-meatballs-00006.jpg
+tags: ["orzo", "pork", "beef", "one pot", "2022"]
 ---
 
 Orzo is one of those things I love, then forget exists, then read about and rember I love it.  Thus it was this week, when I read [Nigella's Chicken In A Pot with Lemon and Orzo](https://www.nigella.com/recipes/chicken-in-a-pot-with-lemon-and-orzo)
