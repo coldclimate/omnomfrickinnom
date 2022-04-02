@@ -17,3 +17,22 @@ jobs:
         run: ./hugo  --cleanDestinationDir  --gc
       - name: test
         run: vendor/htmltest/htmltest ./docs/ -c ./.htmltest
+      - name: Upload to Amazon S3
+
+        # These permissions are needed to interact with GitHub's OIDC Token endpoint.
+        permissions:
+          id-token: write
+          contents: read
+        steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Configure AWS credentials from Test account
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.OMNOM_KEY }}
+          aws-secret-access-key: ${{ secrets.OMNOM_SECRET }}
+          aws-region: eu-west-1
+      - name: Copy files to the test website with the AWS CLI
+        run: |
+            aws s3 sync ./docs/ s3://preview.omnomfrickinnom.com
