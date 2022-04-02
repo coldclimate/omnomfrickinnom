@@ -25,4 +25,4 @@ jobs:
           aws-region: eu-west-1
       - name: Copy files to the test website with the AWS CLI
         run: |
-            aws s3 sync ./docs/ s3://preview.omnomfrickinnom.com
+            aws s3 sync ./docs/ s3://preview.omnomfrickinnom.com --acl public-read --delete
