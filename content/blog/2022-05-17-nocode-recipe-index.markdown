@@ -38,5 +38,5 @@ End result, a giant, easily edited and shared file, where each line containers t
 
 20 down, 180 to go.
 
-![Google Lens in progress](/images/blog/turkey-gentle-00002.jpg)
-![Finished resultn](/images/blog/turkey-gentle-00001.jpg)
+![Google Lens in progress](/images/blog/all-recipes-2.jpg)
+![Finished results](/images/blog/all-recipes-1.jpg)
