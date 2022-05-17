@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "No-code solution for indexing 100s of recipe books"
-date:   2022-05-17 14:22:52
-publishdate:   2022-05-17 14:22:52
-tags: ["coding","2022"]
+title: "No-code solution for indexing 100s of recipe books"
+date: 2022-05-17 12:22:52
+publishdate: 2022-05-17 12:22:52
+tags: ["coding", "2022"]
 author: oli
 image: "/images/blog/all-recipes-2.jpg"
 ---
@@ -28,10 +28,11 @@ The workflow goes something like this...
 8. Paste the content of the email into a fresh text file, it'll be gappy and ugly.
 9. Select All > Edit Menu > Sort Lines
 10. Remove all the blank lines and rubbish that has now floated to the top
-11. Select All > Edit Menu > Permute Lines > Unique - and that gets rid of all the wierd duplicates
+11. Select All > Edit Menu > Permute Lines > Unique - and that gets rid of all the weird duplicates
 12. Copy the title of the book into your paste buffer
 13. Add it to the start of every line (I use the alt-drag-highlight and paste method)
 14. Select all and paste into a Google Doc.
+15. Rinse and repeat.
 
 End result, a giant, easily edited and shared file, where each line containers the name of the book and something I'm likely to search for.  It's not clean, or neat, but when I need to find "rainbow trout", it'll find the right book.
 
