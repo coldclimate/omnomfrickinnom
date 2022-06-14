@@ -7,7 +7,7 @@
     <div class="main-content">
         <!-- Begin Article
         ================================================== -->
-        <div class="container">
+        <div class="container h-recipe">
             <div class="row">
                 <!-- Post Share -->
                 <div class="col-md-2 pl-0">      
@@ -39,12 +39,12 @@
                         {{end}}
                         {{end}}                        
                         <!-- Post Title -->
-                        <h1 class="posttitle">{{ .Title }}</h1> 
+                        <h1 class="posttitle p-name">{{ .Title }}</h1> 
                     </div>
 
                     <!-- Post Featured Image -->
                     {{with .Params.image}}
-                        <img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
+                        <img class="featured-image img-fluid u-photo" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
                     {{end}}
                     <!-- End Featured Image -->
                     
