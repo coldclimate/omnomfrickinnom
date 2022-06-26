@@ -3,9 +3,9 @@ layout: post
 title: "Pepper Pot stew"
 date: 2022-06-24 12:22:52
 publishdate: 2022-06-24 12:22:52
-tags: ["lamb", "beef", "instandpot", "2022"]
+tags: ["lamb", "beef", "instantpot", "spicy", "caribbean", "2022"]
 author: oli
-image: "/images/blog/teriyaki-salmon-salad-1.jpg"
+image: "/images/blog/pepperpot-stew-00005.jpg"
 ---
 
 The Caribbean combo of thyme, allspice, habanero, nutmeg and cloves always remind me of sunshine and good times, and when I first saw Levi Roots making Pepper Pot stew on TV years ago, I really wanted to try it.  His enthusiasm for food was infectious.
