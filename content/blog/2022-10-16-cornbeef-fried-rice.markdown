@@ -8,7 +8,7 @@ author: oli
 image: "/images/blog/fried-rice-00001.jpg"
 ---
 
-I've never been nervous about posting a recipe before, but since a friend linked me to [this famous take down of Jamie Olivers fried rice][https://www.youtube.com/watch?v=53me-ICi_f8] I did consider it twice.
+I've never been nervous about posting a recipe before, but since a friend linked me to [this famous take down of Jamie Olivers fried rice](https://www.youtube.com/watch?v=53me-ICi_f8) I did consider it twice.
 
 Fried rice scouse-ups, much like soupy beans, are my go to comfort food.  They're a great way to use up stuff and on a cold night or after a very long day.
 
