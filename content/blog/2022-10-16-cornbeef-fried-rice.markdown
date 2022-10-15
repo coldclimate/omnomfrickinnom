@@ -30,6 +30,7 @@ This makes enough for two people to feel slightly too full.
 * * Chilli flakes maybe [lao gan ma](https://en.wikipedia.org/wiki/Lao_Gan_Ma)?
 * * Soy
 * * Toasted sesame oil
+* * Kimchi (add in whilst everything is still cooking)
 
 
 ## Do
