@@ -5,7 +5,7 @@ date: 2022-11-10 12:22:52
 publishdate: 2022-11-10 12:22:52
 tags: ["rice", "fish", "quick", "2022"]
 author: oli
-image: "/images/blog/hot-and-fast-lamb-00004.jpg"
+image: "/images/blog/crispy-sour-fish-00001.jpg"
 ---
 
 I've seen whole fish being fried and served in Chinese restaurants, with some sort of spicy clear "sauce" poured over at the table.  Tonight I took a stab at something similar, based on what was lurking in the kitchen.
