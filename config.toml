@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.omnomfrickinnom.com/"
 languageCode = "en-gb"
 title = "Om Nom Frickin Nom (dot) Com"
 theme = "mediumish-gohugo-theme"
