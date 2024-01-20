@@ -10,10 +10,13 @@ image: "/images/blog/2024-01-20-sausage-bean_1.jpg"
 
 I got a pack of "three chilli sausages" in an offer at the supermarket and it was a good opportunity to make something warming and wintery.
 
+As I write this I realise I forgot to add the bag of kale that I bought to put in this.  You shouldn't, it would have been great.
+
 ## You will need
 
 * 6 Sausages.  I used spicy ones, if you can't find those, add a teaspoon of chilli sauce
 * Half a large onion, finely slices
+* A big handful of slices peppers.  I used frozen ones.
 * 1 stick of celery, roughly sliced
 * Half a carrot, peeled and fine diced
 * A big sprig of thyme
@@ -24,6 +27,7 @@ I got a pack of "three chilli sausages" in an offer at the supermarket and it wa
 * A couple of teaspoons of oil
 * A handful of flatleaf pasley, finely sliced
 * A big dollop of sour cream and bread to serve
+* A couple of huge handfuls of chopped kale
 
 ## Do
 
