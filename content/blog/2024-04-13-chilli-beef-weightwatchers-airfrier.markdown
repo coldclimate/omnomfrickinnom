@@ -5,7 +5,7 @@ date: 2024-04-13 12:22:52
 publishdate: 2024-04-13 12:22:52
 tags: ["beef", "airfrier", "fakeaway", "weightwatchers", "2024"]
 author: oli
-image: "/images/blog/2chilli-beef-weightwatchers-airfrier-2.jpg"
+image: "/images/blog/chilli-beef-weightwatchers-airfrier-2.jpg"
 ---
 
 I freaking love British Chinese Takeaway chilli beef. Strips of beef, deep fried and coated in spicy sticky sauce.  However, it's not great for the waistline, and it's always a little underwhelming.
