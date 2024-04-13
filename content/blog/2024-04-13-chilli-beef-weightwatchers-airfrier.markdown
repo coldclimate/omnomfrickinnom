@@ -55,7 +55,7 @@ So, I decided to give it a go at home, and where possible make it WeightWatchers
 
 The beef should be properly spicy and crunchy. There should be very little loose sauce, but everything should be coated and sweet/sour.  
 
-![Raw beef](/images/blog/2chilli-beef-weightwatchers-airfrier-0.jpg)
-![Crispy beef](/images/blog/2chilli-beef-weightwatchers-airfrier-1.jpg)
-![In a bowl](/images/blog/2chilli-beef-weightwatchers-airfrier-2.jpg)
-![GET IN MY FACE](/images/blog/2chilli-beef-weightwatchers-airfrier-3.jpg)
+![Raw beef](/images/blog/chilli-beef-weightwatchers-airfrier-0.jpg)
+![Crispy beef](/images/blog/chilli-beef-weightwatchers-airfrier-1.jpg)
+![In a bowl](/images/blog/chilli-beef-weightwatchers-airfrier-2.jpg)
+![GET IN MY FACE](/images/blog/chilli-beef-weightwatchers-airfrier-3.jpg)
