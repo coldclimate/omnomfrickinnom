@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WeightWaters friendly fakeaway chilli beef"
+title: "WeightWatchers friendly fakeaway chilli beef"
 date: 2024-04-13 12:22:52
 publishdate: 2024-04-13 12:22:52
 tags: ["beef", "airfrier", "fakeaway", "weightwatchers", "2024"]
