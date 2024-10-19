@@ -13,7 +13,7 @@ I recently read somewhere about making a chutney that's not aged and is a "fresh
 ## You will need
 
 
-* 1 small bunch of coridandor
+* 1 small bunch of coriander
 * A lemon, or lime, or citrus zest and juice
 * Some chillis.  I used a couple of frozen green finger chillis
 * Some fruit.  I used an over ripe peach, skinned.
