@@ -25,3 +25,4 @@ jobs:
           KEY: ${{ secrets.scpkey }}
           TARGET: /home/web/www.omnomfrickinnom.com/
           SOURCE: ./docs/
+          ARGS: "-avz"
