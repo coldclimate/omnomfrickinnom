@@ -17,13 +17,11 @@ jobs:
         run: ./hugo  --cleanDestinationDir  --gc
       - name: test
         run: vendor/htmltest/htmltest ./docs/ -c ./.htmltest
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.OMNOM_KEY }}
-          aws-secret-access-key: ${{ secrets.OMNOM_SECRET }}
-          aws-region: eu-west-1
-      - name: Copy files to the test website with the AWS CLI
-        run: |
-            aws s3 sync ./docs/ s3://www.omnomfrickinnom.com --acl public-read --delete
-            aws cloudfront create-invalidation --distribution-id E29D4LS1V2RZIX  --paths "/*"
+      - name: copy file via ssh password
+        uses: up9cloud/action-rsync@master
+        env:
+          HOST: ${{ secrets.scphost }}
+          USER: ${{ secrets.scpuser }}
+          KEY: ${{ secrets.scpkey }}
+          TARGET: /home/web/www.omnomfrickinnom.com/
+          SOURCE: ./docs/
