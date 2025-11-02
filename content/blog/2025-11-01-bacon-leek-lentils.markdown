@@ -5,7 +5,7 @@ date: 2025-11-01 10:22:52
 publishdate: 2025-11-01 10:22:52
 tags: ["lentils", "bacon", "2025", "instantpot"]
 author: oli
-image: "/images/blog/fresh-sauce-3.jpg"
+image: "/images/blog/lentil-bacon-leek.jpeg"
 ---
 
 As winter starts to set in, and because I had to make use of some bits, this lunch time I knocked up this very savoury lentil and baocn soup.  
